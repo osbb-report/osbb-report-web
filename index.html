@@ -3,22 +3,26 @@
 <head>
     <meta charset="utf-8">
     <title>Відкрита виписка ОСББ Запорізьке шосе 80</title>
-    <!-- Pico.css -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap 5.3 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
     <style>
         .currency {
             text-align: right;
         }
 
         /* Tooltip container */
-        .tooltip {
+        .my-tooltip {
             position: relative;
             display: inline-block;
             border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
         }
 
         /* Tooltip text */
-        .tooltip .tooltiptext {
+        .my-tooltip .my-tooltiptext {
             visibility: hidden;
             width: 120px;
             background-color: black;
@@ -33,44 +37,55 @@
         }
 
         /* Show the tooltip text when you mouse over the tooltip container */
-        .tooltip:hover .tooltiptext {
+        .my-tooltip:hover .my-tooltiptext {
             visibility: visible;
         }
     </style>
 </head>
 <body>
 <h1>Виписка - Запорізьке шосе 80</h1>
-<section>
-    <label for="start-date">Початок</label>
-    <input type="date" id="start-date" name="start-date">
+<section class="container">
+    <div class="row">
+        <div class="form-group col-auto">
+            <label for="start-date">Початок</label>
+            <input class="form-control" type="date" id="start-date" name="start-date">
+        </div>
+        <div class="form-group col-auto">
+            <label for="end-date">Кінець</label>
+            <input class="form-control" type="date" id="end-date" name="end-date">
+        </div>
+    </div>
 
-    <label for="end-date">Кінець</label>
-    <input type="date" id="end-date" name="end-date">
+    <div class="row">
+        <div class="form-group col-auto">
+            <label for="kind-filter">Тип</label>
+            <select class="form-control" id="kind-filter">
+                <!-- Options will be populated here -->
+            </select>
+        </div>
 
-    <label for="kind-filter">Тип</label>
-    <select id="kind-filter">
-        <!-- Options will be populated here -->
-    </select>
+        <div class="form-group col-auto">
+            <label for="category-filter">Категорія</label>
+            <select class="form-control" id="category-filter">
+                <!-- Options will be populated here -->
+            </select>
+        </div>
+    </div>
 
-    <label for="category-filter">Категорія</label>
-    <select id="category-filter">
-        <!-- Options will be populated here -->
-    </select>
-
-    <label for="counterparty-filter">Контрагент</label>
-    <select id="counterparty-filter">
-        <!-- Options will be populated here -->
-    </select>
+    <div class="form-group">
+        <label for="counterparty-filter">Контрагент</label>
+        <select class="form-control" id="counterparty-filter">
+            <!-- Options will be populated here -->
+        </select>
+    </div>
 </section>
-<section id="table-container">
+<br>
+<section  class="container" id="table-container">
 </section>
 
 <script>
     // Create our number formatter.
-    const currencyFormatter = new Intl.NumberFormat('uk-UA', {
-        style: 'currency',
-        currency: 'UAH',
-    });
+    const currencyFormatter = new Intl.NumberFormat('uk-UA', { style: 'currency', currency: 'UAH', currencyDisplay: 'narrowSymbol'});
 
     // Fetch JSON data from server
     fetch('transactions.json')
@@ -145,36 +160,37 @@
             .filter(item => categoryFilter !== 'Всі' ? item.category === categoryFilter : true)
             .filter(item => counterpartyFilter !== 'Всі' ? item.counterpartyTaxCode === counterpartyFilter : true);
         let table = `
-    <table role="grid">
+    <table class="table table-sm table-striped .table-responsive-sm" role="grid">
         <tr>
             <th scope="col">Дата</th>
-            <th scope="col">Тип</th>
-            <th scope="col">Категорія</th>
+<!--            <th scope="col">Тип</th>-->
             <th scope="col">Сума</th>
             <th scope="col">Призначення</th>
-            <th scope="col">ЄДРПОУ</th>
             <th scope="col">Контрагент</th>
 <!--            <th scope="col">Рахунок контрагента</th>-->
+            <th scope="col">Категорія</th>
 <!--            <th scope="col">Референс</th>-->
-        </tr>`;
+        </tr>
+`;
         for (let i = 0; i < filteredData.length; i++) {
             let row = filteredData[i];
-            table += `<tr>
+            table += `
+                              <tr>
                                 <th scope="row">
-                                    <div class="tooltip">
+                                    <div class="my-tooltip">
                                         ${new Date(row.dateTime).toLocaleDateString("uk-UA")}
-                                        <span class="tooltiptext">${new Date(row.dateTime).toLocaleTimeString("uk-UA")}</span>
+                                        <span class="my-tooltiptext">${new Date(row.dateTime).toLocaleTimeString("uk-UA")}</span>
                                     </div>
                                 </th>
-                                <td>${row.kind}</td>
-                                <td>${row.category}</td>
+<!--                                <td>${row.kind}</td>-->
                                 <td class="currency">${currencyFormatter.format(row.amount)}</td>
                                 <td>${row.purposeOfPayment}</td>
-                                <td>${row.counterpartyTaxCode}</td>
-                                <td>${row.counterpartyName}</td>
+                                <td>${row.counterpartyTaxCode !== "000000000" ? row.counterpartyTaxCode + "<br>" : ""}${row.counterpartyName}</td>
 <!--                                <td>${row.counterpartyAccount}</td>-->
+                                <td>${row.category}</td>
 <!--                                <td>${row.reference}</td>-->
-                              </tr>`;
+                              </tr>
+`;
         }
         table += `</table>`;
         document.getElementById('table-container').innerHTML = table;
