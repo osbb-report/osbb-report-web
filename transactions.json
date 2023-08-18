@@ -1,13 +1,133 @@
 [
   {
     "dateTime": "2023-08-31T00:00:00",
-    "amount": 18432.18,
+    "amount": 63906.87,
     "purposeOfPayment": "консолідований внесок власників за Серпень 2023 року",
     "counterpartyTaxCode": "000000000",
     "counterpartyName": "Власники",
     "reference": "",
     "category": "Внески",
     "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-08-17T14:12:00",
+    "amount": -2120.27,
+    "purposeOfPayment": "СПЛАТА ЗА МАТЕРІАЛИ ЗГ. РАХ. №268 ВІД 17.08.2023Р.",
+    "counterpartyTaxCode": "2378700376",
+    "counterpartyName": "БРАЖНІК ВАСИЛЬ АНАТОЛІЙОВИЧ",
+    "reference": "JBKLN8HO7UQG1X.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-17T14:12:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLN8HO7UQG1X.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-17T12:42:00",
+    "amount": 750.00,
+    "purposeOfPayment": "за користування спiльним майном за 2023 рiк згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ.",
+    "counterpartyTaxCode": "31761988",
+    "counterpartyName": "СОЮЗ ТОВ",
+    "reference": "JBKLN8HO7UP4RL.1",
+    "category": "Реклама",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-08-14T15:43:00",
+    "amount": 400.00,
+    "purposeOfPayment": "Прийнято платежiв о/р 233 смагин а ф, запрорiзьке шоссе б.80 кв.233 на суму 400,00 грн. Недоговiрнi платежi без ПДВ (п/д № %n%)",
+    "counterpartyTaxCode": "21560045",
+    "counterpartyName": "УКРПОШТА АТ",
+    "reference": "JBKLN8EO7TXLNX.P",
+    "category": "інщі прибутки",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-08-14T11:51:00",
+    "amount": -12000.00,
+    "purposeOfPayment": "ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА СЕРПЕНЬ 2023Р., БЕЗ ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLN8EO7TXQYP.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-14T03:34:00",
+    "amount": -1381.53,
+    "purposeOfPayment": "4246 **** **** 4556 12.08.2023 13:43:18 Товари для дому: SHOP EPITSENTR K DN, DNIPROPETROVS",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIN0814S3S82.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-11T12:20:00",
+    "amount": 3000.00,
+    "purposeOfPayment": "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021 ЗА2-Й КВАРТАЛ 2023 БЕЗ ПДВ.",
+    "counterpartyTaxCode": "23023044",
+    "counterpartyName": "ТРК ТЕЛЕВIДЕО-С ТОВ",
+    "reference": "JBKLN8BO7TP6BH.1",
+    "category": "Сервітут",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-08-10T16:30:00",
+    "amount": 500.00,
+    "purposeOfPayment": "Послуги сервітуту-07/2023, зг.рах.№5 від 31.07.2023, без ПДВ.",
+    "counterpartyTaxCode": "19199961",
+    "counterpartyName": "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+    "reference": "HS43N0810L1H41.P",
+    "category": "Сервітут",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-08-10T10:29:00",
+    "amount": -5899.49,
+    "purposeOfPayment": "Сплата за ведення бухгалтерського обліку за серпень 2023р. Без ПДВ.",
+    "counterpartyTaxCode": "3303112681",
+    "counterpartyName": "Забірна К.Ю. ФОП",
+    "reference": "JBKLN8AO7TGJ00.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-10T10:29:00",
+    "amount": -10000.00,
+    "purposeOfPayment": "Сплата за технічне обслуговування житлового будинку за серпень 2023р.  Без ПДВ.",
+    "counterpartyTaxCode": "3303112681",
+    "counterpartyName": "Забірна К.Ю. ФОП",
+    "reference": "JBKLN8AO7TGIZS.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-10T10:25:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLN8AO7TGHLW.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-10T10:25:00",
+    "amount": -4578.00,
+    "purposeOfPayment": "*;101;40118015;Доплата судового збору на виконання ухвали Верховного Суду від 07.08.2023 по справі 200/6203/19, ВЕРХОВНИЙ СУД",
+    "counterpartyTaxCode": "37993783",
+    "counterpartyName": "ОДВ, ГОЛОВНЕ УПРАВЛІННЯ ДКС УКРАЇНИ У М.КИЄВІ",
+    "reference": "JBKLN8AO7TGHLW.1",
+    "category": "Судові та юридичні витрати",
+    "kind": "витрати"
   },
   {
     "dateTime": "2023-08-02T13:10:00",
@@ -614,7 +734,7 @@
     "amount": -264.00,
     "purposeOfPayment": "Сплата за замiну автомата 63А (матерiали) кв. 376 згiдно акту №720 вiд 15.05.2023р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN5FO7F3O3F.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -624,7 +744,7 @@
     "amount": -5899.49,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку за травень 2023р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN5CO7EQNDU.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -644,7 +764,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку за травень 2023р.  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN5CO7EQNE7.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -784,7 +904,7 @@
     "amount": -18000.00,
     "purposeOfPayment": "Сплата за промивку та гiдравлiчне випробування внутрiшньої мережi опалювання будинку згiдно акту №465 вiд 18.04.2023р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN4IO7AXJCD.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -844,7 +964,7 @@
     "amount": -5899.49,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку за квiтень 2023р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN3VO78E8ML.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -854,7 +974,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку за квiтень 2023р.  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN3VO78E8M3.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -954,7 +1074,7 @@
     "amount": -5899.49,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку за березень 2023р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN32O74585F.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -964,7 +1084,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку за березень 2023р.  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN32O74585D.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -1044,7 +1164,7 @@
     "amount": -1100.00,
     "purposeOfPayment": "Сплата за монтаж лiчильника зг.акту №214 вiд 17.02.23р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN2HO72B2HN.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -1124,7 +1244,7 @@
     "amount": -5899.49,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку за лютий 2023р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN27O70S7SA.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -1134,7 +1254,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку за лютий 2023р.  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN27O70S7SB.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -1264,7 +1384,7 @@
     "amount": -5899.49,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку за сiчень 2023р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN1HO6Y1VM5.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -1284,7 +1404,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку за сiчень 2023р.  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN1HO6Y1VM9.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -1314,7 +1434,7 @@
     "amount": -3000.00,
     "purposeOfPayment": "Сплата за замiну дiлянки каналiзацiї згiдно акту №13 вiд 09.01.2023р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLN19O6X16RZ.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -1654,7 +1774,7 @@
     "amount": 1500.00,
     "purposeOfPayment": "за доступ зг. дог. 145 вiд 01.01.2017 без ПДВ",
     "counterpartyTaxCode": "33769837",
-    "counterpartyName": "\"МЕГА ЛIНК\" ТОВ",
+    "counterpartyName": "\"МЕГА ЛІНК\" ТОВ",
     "reference": "HSKVM1221L0057.P",
     "category": "Сервітут",
     "kind": "дохід"
@@ -1894,7 +2014,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLMAOO6MSTHD.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -1924,7 +2044,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLMAOO6MSTHC.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -2024,7 +2144,7 @@
     "amount": -4500.00,
     "purposeOfPayment": "Сплата за матерiали,зг. рах.№ ИСЛ-000174 вiд 30.09.2022р.",
     "counterpartyTaxCode": "40702928",
-    "counterpartyName": "IНТЕРСЕРВIСЛIФТ ТОВ",
+    "counterpartyName": "ІНТЕРСЕРВІСЛІФТ ТОВ",
     "reference": "JBKLM9UO6JRDJI.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -2094,7 +2214,7 @@
     "amount": 1000.00,
     "purposeOfPayment": "за доступ зг. дог. 145 вiд 01.01.2017 без ПДВ",
     "counterpartyTaxCode": "33769837",
-    "counterpartyName": "\"МЕГА ЛIНК\" ТОВ",
+    "counterpartyName": "\"МЕГА ЛІНК\" ТОВ",
     "reference": "HSKVM0922L01SX.P",
     "category": "Сервітут",
     "kind": "дохід"
@@ -2104,7 +2224,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM9LO6IG7ZU.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -2124,7 +2244,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM9LO6IG7ZW.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -2164,7 +2284,7 @@
     "amount": 3500.00,
     "purposeOfPayment": "за доступ зг. дог. 145 вiд 01.01.2017 без ПДВ",
     "counterpartyTaxCode": "33769837",
-    "counterpartyName": "\"МЕГА ЛIНК\" ТОВ",
+    "counterpartyName": "\"МЕГА ЛІНК\" ТОВ",
     "reference": "HSKVM0830L002G.P",
     "category": "Сервітут",
     "kind": "дохід"
@@ -2174,7 +2294,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM8OO6EWWK1.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -2204,7 +2324,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM8OO6EWWOY.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -2354,7 +2474,7 @@
     "amount": -40800.00,
     "purposeOfPayment": "Поточний ремонт електромереж 5-го пiд'їзду, Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM81O6BUXNR.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -2394,7 +2514,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM7PO6AZ8NE.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -2434,7 +2554,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM7PO6AZ8NK.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -2804,7 +2924,7 @@
     "amount": -18000.00,
     "purposeOfPayment": "Сплата за промивку системи ЦО житлового будинку, Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM6RO67DPZ3.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -2814,7 +2934,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM6NO673KZR.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -2874,7 +2994,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM6NO673KZX.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3074,7 +3194,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM5OO63MPTB.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -3084,7 +3204,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM5OO63MPTE.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3234,7 +3354,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бухгалтерського облiку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM4FO5ZTQGA.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -3254,7 +3374,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування житлового будинку",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM4FO5ZTQ9L.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3304,7 +3424,7 @@
     "amount": -750.00,
     "purposeOfPayment": "Сплата за усунення течi зливного бачка (кв.329),згiдно акту №385 вiд 29.03.2022р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM3TO5YE7SZ.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3354,7 +3474,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бух.облiку,згiдно акту № 349 вiд 22.03.2022р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM3MO5XWFTX.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -3364,7 +3484,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування ж/б, згiдно акту № 348 вiд 22.03.2022р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM3MO5XWFK2.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3394,7 +3514,7 @@
     "amount": -2300.00,
     "purposeOfPayment": "СПЛАТА  ЗА МОНТАЖ РАДIАТОРА СИСТЕМИ ОПАЛЕННЯ У КОЛЯСОЧНIЙ 11 П. ЗГIДНО РАХУНКУ №244 ВIД 28.02.2022 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM31O5WJDDM.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3474,7 +3594,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО АКТУ №215 ВIД 28.02.2022 Р,  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM2FO5UM5M3.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -3484,7 +3604,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО АКТУ №214 ВIД 28.02.2022 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM2FO5UM4Y8.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3734,7 +3854,7 @@
     "amount": -500.00,
     "purposeOfPayment": "СПЛАТА ЗА ПОСЛУГИ САНТЕХНIКА (ПIДКЛЮЧЕННЯ ПОДАЧI ОПАЛЕННЯ ДО РАДIАТОРА)  ЗГIДНО АКТУ №18 ВIД 17.01.2022 Р, Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM1JO5QB62E.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3744,7 +3864,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО АКТУ №16 ВIД 31.01.2022 Р,  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM1CO5P641O.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -3774,7 +3894,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО АКТУ №15 ВIД 31.01.2022 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLM1CO5P62MZ.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -3984,7 +4104,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ, БЕЗ ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLCFO5L6AHB.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -3994,7 +4114,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ САНТЕХНIЧНИХ ТА ЕЛЕКТРОМЕРЕЖ ЖИТЛОВОГО БУДИНКУ, БЕЗ ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLCFO5L6AHC.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4074,7 +4194,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. №1468 ВIД 30.11.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLBOO5HKWBJ.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -4084,7 +4204,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. №1469 ВIД 30.11.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLBOO5HKV53.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4154,7 +4274,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. №1468 ВIД 15.11.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLBFO5FYN2T.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -4164,7 +4284,7 @@
     "amount": 5465.97,
     "purposeOfPayment": "ПОВЕРНЕННЯ ПОМИЛКОВО ОТРИМАНИХ КОШТIВ,ЗГIДНО ПЛАТIЖНОГО ДОРУЧЕННЯ №671 ВIД 15.11.2021Р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLBFO5G27L9.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4174,7 +4294,7 @@
     "amount": 10000.00,
     "purposeOfPayment": "ПОВЕРНЕННЯ ПОМИЛКОВО ОТРИМАНИХ КОШТIВ,ЗГIДНО ПЛАТIЖНОГО ДОРУЧЕННЯ №670 ВIД 15.11.2021Р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLBFO5G2735.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4194,7 +4314,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. №1469 ВIД 15.11.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLBFO5FYN28.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4394,7 +4514,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. №1294 ВIД 29.10.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLAFO5BD2L9.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -4404,7 +4524,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. №1295 ВIД 29.10.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLLAFO5BD2ND.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4804,7 +4924,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. №1159 ВIД 30.09.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL9FO56NMJW.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -4824,7 +4944,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. №1160 ВIД 30.09.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL9FO56NNLR.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4884,7 +5004,7 @@
     "amount": -2500.00,
     "purposeOfPayment": "ЗАМIНА ДIЛЯНКИ СТОЯКА КАНАЛIЗАЦIЇ У кв.168 ЗГIДНО РАХ. №1095 ВIД 01.09.2021Р,  БЕЗ ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL91O54H6PJ.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4964,7 +5084,7 @@
     "amount": -4200.00,
     "purposeOfPayment": "Замiна каналiзацiйного стояка та стояка ХВП згiдно рах. №1081 вiд 26.08.2021р,  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL8RO53MUSB.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5114,7 +5234,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. № 902 ВIД 31.08.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL8GO5205MO.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -5124,7 +5244,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. № 903 ВIД 31.08.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL8GO52051C.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5194,7 +5314,7 @@
     "amount": -1800.00,
     "purposeOfPayment": "Замiна каналiзац. стояка у 7-му пiд. на 3-му та 4-му поверхах згiдно рах. № 1054 вiд 29.07.2021р,  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL7TO4ZEB4C.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5294,7 +5414,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. № 836 ВIД 30.07.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL7DO4WXZ2Y.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -5304,7 +5424,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. № 8371 ВIД 30.07.2021 Р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL7DO4WXZ34.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5354,7 +5474,7 @@
     "amount": -1000.00,
     "purposeOfPayment": "ЗАМIНА ДIЛЯНКИ КАНАЛIЗАЦ. СТОЯКА У 1-му ПIД.  ЗГIДНО РАХ. № 817 ВIД 29.06.2021Р,  БЕЗ ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL6UO4URQJX.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5414,7 +5534,7 @@
     "amount": -4000.00,
     "purposeOfPayment": "Замiна каналiзац. стояка 3-й та 4-й поверх 8-го пiд. (з урахуванням матерiалiв) згiдно рах. № 806 вiд 18.06.2021р,  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL6IO4TDCXU.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5464,7 +5584,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. № 730 ВIД 30.06.2021 Р БЕЗ ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL6EO4SKS6X.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -5494,7 +5614,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. № 731 ВIД 30.06.2021 Р БЕЗ ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL6EO4SKRFS.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5604,7 +5724,7 @@
     "amount": -2800.00,
     "purposeOfPayment": "ЗАМIНА ДIЛЯНКИ ЛИВНЕВОЇ КАНАЛIЗАЦIЇ У 6-му ПIД. ЗГIДНО РАХ. № 674 ВIД 28.05.2021р,  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL5SO4Q7R58.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5694,7 +5814,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. № 584 ВIД 31.05.2021 Р БЕЗ ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL5JO4OOV0V.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -5714,7 +5834,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. № 585 ВIД 31.05.2021 Р БЕЗ ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL5JO4OOV0X.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5794,7 +5914,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. № 448 ВIД 30.04.2021 р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL4RO4LOYIQ.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -5824,7 +5944,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. № 449 ВIД 30.04.2021 р Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL4RO4LOYSH.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -5974,7 +6094,7 @@
     "amount": 6000.00,
     "purposeOfPayment": "за доступ зг. дог. 145 вiд 01.01.2017 без ПДВ",
     "counterpartyTaxCode": "33769837",
-    "counterpartyName": "\"МЕГА ЛIНК\" ТОВ",
+    "counterpartyName": "\"МЕГА ЛІНК\" ТОВ",
     "reference": "HSKLL0402L31YB.P",
     "category": "Сервітут",
     "kind": "дохід"
@@ -5984,7 +6104,7 @@
     "amount": 6000.00,
     "purposeOfPayment": "за доступ зг. дог. 145 вiд 01.01.2017 без ПДВ",
     "counterpartyTaxCode": "33769837",
-    "counterpartyName": "\"МЕГА ЛIНК\" ТОВ",
+    "counterpartyName": "\"МЕГА ЛІНК\" ТОВ",
     "reference": "HSKLL0402L31YD.P",
     "category": "Сервітут",
     "kind": "дохід"
@@ -6074,7 +6194,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. № 313 ВIД 31.03.2021 р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL3OO4H12HJ.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -6104,7 +6224,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. № 314 ВIД 31.03.2021 р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL3OO4H131J.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6174,7 +6294,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧНЕ ОБСЛУГОВУВАННЯ СИСТЕМ ТЕПЛОПОСТАЧАННЯ ТА ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХ. № 272  ВIД 26.02.2021р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL2QO4DI4DT.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6184,7 +6304,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. №  246 ВIД 26.02.2021р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL2NO4CW226.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -6314,7 +6434,7 @@
     "amount": -3130.40,
     "purposeOfPayment": "МОНТАЖ АНТИВАНДАЛЬНИХ СВIТИЛЬНИКIВ У 10-му ПIД`ЇЗДI  ЗГIДНО РАХ. № 260  ВIД 22.02.2021р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL2MO4CTNR0.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6324,7 +6444,7 @@
     "amount": -5000.00,
     "purposeOfPayment": "МОНТАЖ КАНАЛIЗАЦIЇ У 8-му ПIД`ЇЗДI  ЗГIДНО РАХ. № 259  ВIД 22.02.2021р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL2MO4CTM92.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6364,7 +6484,7 @@
     "amount": -2500.00,
     "purposeOfPayment": "ЗАМIНА КАНАЛIЗАЦIЙНОГО СТОЯКА  ЗГIДНО РАХ. № 158 ВIД  15.02.2021Р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL2GO4BTJ2E.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6374,7 +6494,7 @@
     "amount": -5300.00,
     "purposeOfPayment": "ЗАМIНА ДIЛЯНКИ КАНАЛIЗАЦIЇ У 5-МУ ПД`ЇЗДI  ЗГIДНО РАХ. № 160 ВIД  16.02.2021Р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL2GO4BTIQF.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6434,7 +6554,7 @@
     "amount": -4500.00,
     "purposeOfPayment": "ЗАМIНА КАНАЛIЗАЦIЇ У 6-му ПД`ЇЗДI  ЗГIДНО РАХ. № 152  ВIД 09.02.2021р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL29O4B05TW.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6514,7 +6634,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "ВЕДЕННЯ БУХГАЛТЕРСЬКОГО I ПОДАТКОВОГО ОБЛIКУ ЗГIДНО РАХ. №  124  ВIД 29.01.2021р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL1QO4940ML.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -6564,7 +6684,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧ. ОБСЛУГОВ. ВНУТР СИСТЕМ ТЕПЛО ТА ВОДОПОСТАЧАННЯ, ВОДОВIДВЕДЕННЯ ТА ТЕХН ОБСЛУГ. ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХУНКУ № 123  ВIД  29.01.2021 р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL1QO493XDC.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6634,7 +6754,7 @@
     "amount": -3099.63,
     "purposeOfPayment": "МАТЕРIАЛИ ТА РОБОТИ З ПОТОЧНОГО РЕМОНТУ ЕЛЕКТРОЩИТОВОЇ  ЗГIДНО РАХ. № 1237 ВIД 23.12.2020р,  Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL1JO47EUTA.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -6644,7 +6764,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "ТЕХНIЧ. ОБСЛУГОВ. ВНУТР СИСТЕМ ТЕПЛО ТА ВОДОПОСТАЧАННЯ, ВОДОВIДВЕДЕННЯ ТА ТЕХН ОБСЛУГ. ЕЛЕКТРОМЕРЕЖ ЗГIДНО РАХУНКУ № 1170 ВIД 31.12.2020р",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLL1DO46OLMU.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7064,7 +7184,7 @@
     "amount": -5465.97,
     "purposeOfPayment": "Сплата за ведення бухгалтерського та податкового облiку, згiдно рах.№ 1023 вiд 17.11.2020р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLKBHO3Z70ZR.1",
     "category": "Бухгалтер",
     "kind": "витрати"
@@ -7074,7 +7194,7 @@
     "amount": -10000.00,
     "purposeOfPayment": "Сплата за технiчне обслуговування iнженерних мереж житлового будинку, згiдно рах.№ 1022 вiд 17.11.2020р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLKBHO3Z70ZY.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7304,7 +7424,7 @@
     "amount": -2250.00,
     "purposeOfPayment": "АВАРIЙНИЙ ВИЇЗД САНТЕХНIКА ЗГ АКТА №922 ВIД 16.10.2020",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLKAJO3V9MMH.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7314,7 +7434,7 @@
     "amount": -500.00,
     "purposeOfPayment": "АВАРIЙНИЙ ВИЇЗД ЕЛЕКТРИКА ЗГ РАХ. №911 ВIД 18.10.2020",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLKAJO3V9MMN.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7364,7 +7484,7 @@
     "amount": -500.00,
     "purposeOfPayment": "АВАРIЙНИЙ ВИЇЗД ЕЛЕКТРИКА ЗГ РАХ. №905 ВIД 04.10.2020",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLKA7O3TOO1O.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7604,7 +7724,7 @@
     "amount": -500.00,
     "purposeOfPayment": "Ремонт свiтильникiв згiдно рах. №788 вiд 08.09.2020 Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK9BO3Q0Y6T.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7614,7 +7734,7 @@
     "amount": -750.00,
     "purposeOfPayment": "За перепiдключення освiтл. в тамбурi зг.рах.№778 вiд 31.08.2020р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK97O3PGUS2.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7624,7 +7744,7 @@
     "amount": -500.00,
     "purposeOfPayment": "За перепаковку болтових з\"єдн.проводiв в квартирi зг.рах.№772 вiд 29.08.2020р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK97O3PGUS7.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7634,7 +7754,7 @@
     "amount": -500.00,
     "purposeOfPayment": "За замiну двох матриць в свiтильники  зг.рах.№771 вiд 27.08.2020р.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK97O3PGUSB.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -7764,7 +7884,7 @@
     "amount": -250.00,
     "purposeOfPayment": "Аварiйний виїзд електрика згiдно рах. №680 вiд 17.08.2020 Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK8HO3MR9OB.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -8241,22 +8361,22 @@
   },
   {
     "dateTime": "2020-05-28T00:00:00",
-    "amount": -5465.97,
-    "purposeOfPayment": "ЗА БУХ ОБСЛУГОВУВАННЯ ЗГ РАХ № 116 ВIД 28.05.2020Р. Без ПДВ.",
-    "counterpartyTaxCode": "42755018",
-    "counterpartyName": "К.У.Б ТОВ",
-    "reference": "JBKLK5SO3CGCAZ.1",
-    "category": "Бухгалтер",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2020-05-28T00:00:00",
     "amount": -6300.00,
     "purposeOfPayment": "Сплата за послуги, згiдно рахунку №15 вiд 14.05.2020 р. (сплачено частково). Без ПДВ.",
     "counterpartyTaxCode": "2021300251",
     "counterpartyName": "СIЗОВ В.Д. ФОП",
     "reference": "JBKLK5SO3CKWB8.1",
     "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-28T00:00:00",
+    "amount": -5465.97,
+    "purposeOfPayment": "ЗА БУХ ОБСЛУГОВУВАННЯ ЗГ РАХ № 116 ВIД 28.05.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "42755018",
+    "counterpartyName": "К.У.Б ТОВ",
+    "reference": "JBKLK5SO3CGCAZ.1",
+    "category": "Бухгалтер",
     "kind": "витрати"
   },
   {
@@ -8324,7 +8444,7 @@
     "amount": -4900.00,
     "purposeOfPayment": "За монтаж лiнiї каналiз (пiд № 11) та вiдкач води (пiд № 5) зг рах № 382 вiд 18.05.2020р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK5IO3BDAQX.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -8337,16 +8457,6 @@
     "counterpartyName": "ВОРОН Т. О., ПIДПРИЄМЕЦЬ",
     "reference": "JBKLK5FO3B5IUH.1",
     "category": "Поточний ремонт та інше",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2020-05-14T00:00:00",
-    "amount": -2.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
-    "reference": "JBKLK5EO3AUTKA.Y",
-    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -8377,6 +8487,16 @@
     "counterpartyName": "ТОВ \"БАЗИС\"",
     "reference": "JBKLK5EO3AUTKA.1",
     "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-14T00:00:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK5EO3AUTKA.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -8664,7 +8784,7 @@
     "amount": -2500.00,
     "purposeOfPayment": "За докум супровiд у казначействi зг рах № 292 вiд 13.04.2020р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK4DO37TZX3.1",
     "category": "Судові та юридичні витрати",
     "kind": "витрати"
@@ -8734,7 +8854,7 @@
     "amount": -3312.08,
     "purposeOfPayment": "За замiну стояка ХВП i каналiзацiї у пiд № 9 зг рах № 283 вiд 30.03.2020р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK3UO36BT7P.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -8844,7 +8964,7 @@
     "amount": -2500.00,
     "purposeOfPayment": "За докум супровiд у казначействi зг рах № 178 вiд 11.02.2020р. Без ПДВ.",
     "counterpartyTaxCode": "3303112681",
-    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "counterpartyName": "Забірна К.Ю. ФОП",
     "reference": "JBKLK3BO34CO4X.1",
     "category": "Судові та юридичні витрати",
     "kind": "витрати"
