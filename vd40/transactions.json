@@ -1,13 +1,83 @@
 [
   {
     "dateTime": "2023-08-31T00:00:00",
-    "amount": 80734.61,
+    "amount": 92536.97,
     "purposeOfPayment": "консолідований внесок власників за Серпень 2023 року",
     "counterpartyTaxCode": "000000000",
     "counterpartyName": "Власники",
     "reference": "",
     "category": "Внески",
     "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-08-21T12:40:00",
+    "amount": -586.90,
+    "purposeOfPayment": "Перевитрати згідно авансового звіту №77 від 21.08.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "2774815598",
+    "counterpartyName": "БЄКОЄВ СОСЛАН ЕНРІКОВИЧ",
+    "reference": "JBKLN8LO7V8M03.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-21T12:40:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN8LO7V8M03.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-21T12:28:00",
+    "amount": -6730.08,
+    "purposeOfPayment": "БУХГАЛТЕРСЬКЕ ОБСЛУГОВУВАННЯ ЗА СЕРПЕНЬ 2023Р. БЕЗ ПДВ.",
+    "counterpartyTaxCode": "2134101089",
+    "counterpartyName": "ЗАБІРНА О.В. ФОП",
+    "reference": "JBKLN8LO7V8FBB.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-21T12:28:00",
+    "amount": -13200.00,
+    "purposeOfPayment": "ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА СЕРПЕНЬ 2023Р. БЕЗ ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLN8LO7V8FB7.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-21T12:28:00",
+    "amount": -10072.46,
+    "purposeOfPayment": "ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА СЕРПЕНЬ 2023Р., Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLN8LO7V8FBG.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-21T12:28:00",
+    "amount": -5600.00,
+    "purposeOfPayment": "Сплата за монтаж поливальних кранів згідно акту №502 від 21.08.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLN8LO7V8FBM.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-21T12:24:00",
+    "amount": -4340.00,
+    "purposeOfPayment": "Прибирання місць загального користування згідно рахунку №230821 ВІД 21.08.2023 р. Без ПДВ",
+    "counterpartyTaxCode": "2510715027",
+    "counterpartyName": "Кидалова Є.П. ФОП",
+    "reference": "JBKLN8LO7V8CNS.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
   },
   {
     "dateTime": "2023-08-18T15:41:00",
@@ -2471,6 +2541,16 @@
   },
   {
     "dateTime": "2023-01-20T12:05:00",
+    "amount": -2700.00,
+    "purposeOfPayment": "Сплата за інформаційне обслуговування приладу обліку теплової енергії (опал. сезон) 2021-2022рр. згідно рах. №72 від 01.11.2021р. Без ПДВ.",
+    "counterpartyTaxCode": "3424312198",
+    "counterpartyName": "КУЛІЧ ІЛЛЯ РУСЛАНОВИЧ",
+    "reference": "JBKLN1KO6YLA32.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-01-20T12:05:00",
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
@@ -2496,16 +2576,6 @@
     "counterpartyTaxCode": "3424312198",
     "counterpartyName": "КУЛІЧ ІЛЛЯ РУСЛАНОВИЧ",
     "reference": "JBKLN1KO6YLA2Y.1",
-    "category": "Поточний ремонт та інше",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2023-01-20T12:05:00",
-    "amount": -2700.00,
-    "purposeOfPayment": "Сплата за інформаційне обслуговування приладу обліку теплової енергії (опал. сезон) 2021-2022рр. згідно рах. №72 від 01.11.2021р. Без ПДВ.",
-    "counterpartyTaxCode": "3424312198",
-    "counterpartyName": "КУЛІЧ ІЛЛЯ РУСЛАНОВИЧ",
-    "reference": "JBKLN1KO6YLA32.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
   },

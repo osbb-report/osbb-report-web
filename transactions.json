@@ -1,7 +1,7 @@
 [
   {
     "dateTime": "2023-08-31T00:00:00",
-    "amount": 63906.87,
+    "amount": 76613.92,
     "purposeOfPayment": "консолідований внесок власників за Серпень 2023 року",
     "counterpartyTaxCode": "000000000",
     "counterpartyName": "Власники",
@@ -24,7 +24,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN8HO7UQG1X.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -64,7 +64,7 @@
     "amount": -1381.53,
     "purposeOfPayment": "4246 **** **** 4556 12.08.2023 13:43:18 Товари для дому: SHOP EPITSENTR K DN, DNIPROPETROVS",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Розрахунки VISA  (Compass+-емiсiя)",
     "reference": "COIIN0814S3S82.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -114,7 +114,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN8AO7TGHLW.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -204,7 +204,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN7RO7R0XVI.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -224,7 +224,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN7PO7QSS8R.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -254,7 +254,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN7PO7QOM3E.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -394,7 +394,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN6TO7MEX39.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -424,7 +424,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN6QO7LQRJG.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -434,7 +434,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN6QO7LQO12.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -564,7 +564,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN62O7I0B6D.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -624,7 +624,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN5PO7GVV09.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -654,7 +654,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN5OO7GPGW8.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -674,7 +674,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN5OO7GPB8W.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -794,7 +794,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN54O7DGT1P.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -844,7 +844,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN4QO7C5XIM.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -854,7 +854,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN4QO7C5VX1.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1024,7 +1024,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN3NO77E3NS.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1034,7 +1034,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN3NO77E3KY.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1054,7 +1054,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN3EO75W1UE.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1144,7 +1144,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN2PO73FXDC.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1154,7 +1154,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN2PO73FXMZ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1174,7 +1174,7 @@
     "amount": -226.50,
     "purposeOfPayment": "4246 **** **** 4556 12.02.2023 10:21:58 Продукти: SHOP ATB PR080, DNIPRO",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Расчеты VISA  (Compass+-эмиссия)",
     "reference": "COIIN0214NP1BO.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -1224,7 +1224,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN29O716VYS.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1324,7 +1324,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN1PO6Z7T1M.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1334,7 +1334,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLN1PO6Z7R7B.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1354,7 +1354,7 @@
     "amount": -420.00,
     "purposeOfPayment": "4246 **** **** 4556 24.01.2023 15:33:16 Iнше: Магазин канцелярських товарiв Акварель Оптовый",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "розрахунки за картами (С+, ACQ1) карти ПБ",
     "reference": "COIIN0124T51HN.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -1364,7 +1364,7 @@
     "amount": -309.50,
     "purposeOfPayment": "4246 **** **** 4556 19.01.2023 18:47:15 Iнше: Акварель Опт",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "розрахунки за картами (С+, ACQ1) карти ПБ",
     "reference": "COIIN0120S0WVI.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -1674,7 +1674,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMCQO6V53SU.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1754,7 +1754,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMCNO6UZU3S.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1764,7 +1764,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMCNO6UZSZT.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1824,7 +1824,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMCDO6TGKJ0.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1864,7 +1864,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMC1O6RZJ7J.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1874,7 +1874,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMC1O6RZI5A.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -1974,7 +1974,7 @@
     "amount": -4157.40,
     "purposeOfPayment": "4246 **** **** 4556 11.11.2022 11:52:07 Магазин МЕТРО",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "розрахунки за картами (С+, ACQ1) карти ПБ",
     "reference": "COIIM1111XQTU6.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -2024,7 +2024,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMAOO6MW1VD.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2034,7 +2034,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMAOO6MW12G.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2104,7 +2104,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMA5O6KBD3E.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2194,7 +2194,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM9OO6IXT68.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2204,7 +2204,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM9OO6IXT9C.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2304,7 +2304,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM8OO6EX3ID.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2314,7 +2314,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM8OO6EX36Y.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2404,7 +2404,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM89O6D0WI3.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2414,7 +2414,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM89O6D0JJD.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2524,7 +2524,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM7PO6AZC5M.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2534,7 +2534,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM7PO6AZC5R.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2944,7 +2944,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM6NO673NE8.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2954,7 +2954,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM6NO673IZR.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2964,7 +2964,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM6NO672FMW.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -2974,7 +2974,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM6NO672FCT.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3064,7 +3064,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM6AO65MPC5.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3104,7 +3104,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM63O64TTSQ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3134,7 +3134,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за травень  2022 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00M0601B4XSH.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3174,7 +3174,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM5PO63SJNC.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3184,7 +3184,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM5PO63SJ16.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3254,7 +3254,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за квiтень  2022 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00M0502BG2N6.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3274,7 +3274,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM4RO60WCJJ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3294,7 +3294,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM4PO60NZFG.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3304,7 +3304,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM4PO60NZ9C.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3404,7 +3404,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за березень  2022 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00M0401BPHIK.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3434,7 +3434,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM3OO5Y1KAV.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3444,7 +3444,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM3OO5Y1K7A.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3504,7 +3504,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за лютий  2022 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00M0301BA51V.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3564,7 +3564,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM2OO5W84QB.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3574,7 +3574,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM2OO5W8149.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3624,7 +3624,7 @@
     "amount": -1013.00,
     "purposeOfPayment": "4246 **** **** 4556 08.02.2022 20:28:30 SHOP EPITSENTR K DN, DNIPROPETROVS",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Расчеты VISA  (Compass+-эмиссия)",
     "reference": "COIIM0210T8P3Y.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -3634,7 +3634,7 @@
     "amount": -746.92,
     "purposeOfPayment": "4246 **** **** 4556 08.02.2022 11:20:57 SHOP EPITSENTR K DN, DNIPROPETROVS",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Расчеты VISA  (Compass+-эмиссия)",
     "reference": "COIIM0210T8W53.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -3644,7 +3644,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM29O5TR5IX.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3684,7 +3684,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за сiчень  2022 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00M0201BADNN.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3714,7 +3714,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM1SO5RR89G.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3724,7 +3724,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM1SO5RR8LZ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3734,7 +3734,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM1QO5RJ20N.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3744,7 +3744,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM1QO5RJ20C.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3804,7 +3804,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM1OO5R18JE.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3814,7 +3814,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLM1LO5QSI8M.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -3934,7 +3934,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за грудень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00M0104BF24Y.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4004,7 +4004,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLCSO5N74ZS.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4034,7 +4034,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLCOO5MTQOJ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4054,7 +4054,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLCNO5MLPYK.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4064,7 +4064,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLCNO5MLFN2.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4154,7 +4154,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLC3O5J44RH.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4164,7 +4164,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за листопад  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00L1201B5WJG.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4214,7 +4214,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLBNO5HIEKZ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4224,7 +4224,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLBNO5HIESB.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4344,7 +4344,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLB8O5F3ZBA.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4374,7 +4374,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за жовтень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00L1101B7N4H.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4384,7 +4384,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLAVO5DRAH1.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4424,7 +4424,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLAPO5CTYDM.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4464,7 +4464,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLAKO5C4OS6.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4554,7 +4554,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLA6O59ZI1I.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4564,7 +4564,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLA6O59ZI1M.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4574,7 +4574,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLA6O59ZI1W.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4584,7 +4584,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLA6O59ZI1Y.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4594,7 +4594,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLA6O59ZI23.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4604,7 +4604,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLA6O59ZI2F.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4614,7 +4614,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLA6O59ZI2I.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4774,7 +4774,7 @@
     "amount": -1498.00,
     "purposeOfPayment": "Оплата за товар, згiдно рахунку № 21-94320 ,  платник: Варфоломєй Сергiй Вiкторович",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Корзина платежей",
     "reference": "SAMBL1005MNA48.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4784,7 +4784,7 @@
     "amount": -6855.26,
     "purposeOfPayment": "Оплата за товар згiдно рахунку № 21-94206 вiд Варфоломєй Сергiй Вiкторович",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Корзина платежей",
     "reference": "SAMBL1005MIMBM.1",
     "category": "Поточний ремонт та інше",
     "kind": "витрати"
@@ -4804,7 +4804,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLLA4O59EPJ2.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4814,7 +4814,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за вересень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ОБСЛ. СЧЕТА  УДАЛЕННЫЙ ДОСТУП(UAH)",
     "reference": "TZ00L1001B4TFU.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4854,7 +4854,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL9QO58ACJU.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4864,7 +4864,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL9QO58ACM8.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4884,7 +4884,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL9LO57MLVM.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -4914,7 +4914,7 @@
     "amount": -962.16,
     "purposeOfPayment": "Оплата за товари та послуги 18.09.2021 11:44:28 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIL0921M0BXX.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -4984,7 +4984,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за серпень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0901B68GR.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5094,7 +5094,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL8OO537KVM.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5104,7 +5104,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL8OO537KW9.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5154,7 +5154,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL8HO52D6HN.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5164,7 +5164,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL8HO52D6IG.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5174,7 +5174,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL8HO52D6JC.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5184,7 +5184,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL8HO52D6JM.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5194,7 +5194,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL8HO52CB9V.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5264,7 +5264,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ЗА ДЕБЕТОВАНИЕ  СЧЕТА(UAH)",
     "reference": "JBKLL8CO51MZ5P.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5294,7 +5294,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за липень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0802BBLKC.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5344,7 +5344,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL7KO4Y0U1L.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5384,7 +5384,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL7FO4XCIGO.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5464,7 +5464,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за червень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0701B4IMG.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5514,7 +5514,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL6OO4U6GAO.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5524,7 +5524,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL6OO4U6GHM.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5544,7 +5544,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL6HO4T7DW1.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5554,7 +5554,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL6HO4T7EQV.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5564,7 +5564,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL6FO4SU971.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5594,7 +5594,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL6EO4SF59K.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5604,7 +5604,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL6EO4SF59M.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5654,7 +5654,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL64O4R9ZI6.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5664,7 +5664,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL64O4R9YZC.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5674,7 +5674,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL64O4R9WHP.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5684,7 +5684,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL62O4QWDU0.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5694,7 +5694,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за травень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0601B98R2.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5754,7 +5754,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL5PO4PP9SP.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5764,7 +5764,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL5PO4PKURQ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5844,7 +5844,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL5IO4OGRVB.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5884,7 +5884,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL5BO4NFKCA.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5894,7 +5894,7 @@
     "amount": -175.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за квiтень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0505B9KDF.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5924,7 +5924,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL4RO4LQ057.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5964,7 +5964,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL4QO4LN4TB.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -5974,7 +5974,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL4QO4LN4LH.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6014,7 +6014,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL4MO4L95PJ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6024,7 +6024,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL4KO4KWEUF.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6034,7 +6034,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL4KO4KWEUO.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6124,7 +6124,7 @@
     "amount": -150.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за березень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0401BFTES.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6204,7 +6204,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL3OO4H0TJG.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6214,7 +6214,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL3OO4H0T2U.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6274,7 +6274,7 @@
     "amount": -150.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за лютий  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0301BGQPP.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6314,7 +6314,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL2NO4CZTRG.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6324,7 +6324,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL2NO4CZTMR.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6374,7 +6374,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL2MO4CQXYW.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6384,7 +6384,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL2MO4CQXYX.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6524,7 +6524,7 @@
     "amount": 2298.96,
     "purposeOfPayment": "Возврат товара 08.02.2021 13:39:54 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIL0210T97ZH.P",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -6534,7 +6534,7 @@
     "amount": -2248.98,
     "purposeOfPayment": "Оплата за товари та послуги 08.02.2021 13:48:53 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIL0210T97HA.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -6544,7 +6544,7 @@
     "amount": -3368.27,
     "purposeOfPayment": "Оплата за товари та послуги 06.02.2021 13:30:30 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIL0209F79QN.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -6584,7 +6584,7 @@
     "amount": -150.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за сiчень  2021 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0201BBGD5.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6644,7 +6644,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL1QO493JW2.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6654,7 +6654,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL1QO493BE8.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6734,7 +6734,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLL1LO47U8Z5.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6794,7 +6794,7 @@
     "amount": -150.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за грудень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00L0104BI3PI.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6804,7 +6804,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKCVO45NW7I.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6814,7 +6814,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKCVO45NWCE.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6884,7 +6884,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKCNO44CNHZ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6904,7 +6904,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKCLO4434TZ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6934,7 +6934,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKCAO42JLO8.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6954,7 +6954,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKC3O41IFGZ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6984,7 +6984,7 @@
     "amount": -150.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за листопад  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K1201BMIZE.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -6994,7 +6994,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKBSO40RZ4M.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7104,7 +7104,7 @@
     "amount": -485.08,
     "purposeOfPayment": "Оплата за товари та послуги 24.11.2020 11:34:05 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK1126G8DUM.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -7114,7 +7114,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKBOO4059XR.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7244,7 +7244,7 @@
     "amount": -555.36,
     "purposeOfPayment": "Оплата за товари та послуги 08.11.2020 12:45:02 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK11105LEI2.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -7254,7 +7254,7 @@
     "amount": -2383.50,
     "purposeOfPayment": "Оплата за товари та послуги 06.11.2020 10:27:56 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK11085JEDO.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -7314,7 +7314,7 @@
     "amount": -150.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за жовтень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K1102BGPYE.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7354,7 +7354,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLKAUO3WUI4E.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7504,7 +7504,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за вересень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K1001BPO3X.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7534,7 +7534,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK9QO3S2RNJ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7554,7 +7554,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK9PO3S1LP2.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7574,7 +7574,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK9OO3RWC58.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7584,7 +7584,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK9OO3RUMO7.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7644,7 +7644,7 @@
     "amount": -12.33,
     "purposeOfPayment": "Комiсiя за викон. платежу 443 вiд 18.09.2020, 6163.39 в нац. валютi в пiсляоперацiйний час, згiдно з вiдкритою офертою банку № б/н вiд 23.05.2016 без ПДВ",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Комис.за послеопер.деб.сч.Ю.Л.(UAH)",
     "reference": "JBKLK9IO3R6XAK.X",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7654,7 +7654,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK9IO3R6XAK.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7664,7 +7664,7 @@
     "amount": -33.07,
     "purposeOfPayment": "Комiсiя за викон. платежу 442 вiд 18.09.2020, 16532.78 в нац. валютi в пiсляоперацiйний час, згiдно з вiдкритою офертою банку № б/н вiд 23.05.2016 без ПДВ",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Комис.за послеопер.деб.сч.Ю.Л.(UAH)",
     "reference": "JBKLK9IO3R6WOQ.X",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7674,7 +7674,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK9IO3R6WOQ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7684,7 +7684,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK9IO3R41CS.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7764,7 +7764,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK94O3P7K0O.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7784,7 +7784,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за серпень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0901BJ4R0.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7814,7 +7814,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK8QO3NUII6.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7834,7 +7834,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK8IO3MXZHV.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7904,7 +7904,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за липень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0803BUE5Y.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7914,7 +7914,7 @@
     "amount": -262.30,
     "purposeOfPayment": "Оплата за товари та послуги 30.07.2020 09:54:02 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0801Y4MRJ.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -7984,7 +7984,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK7OO3JOZSF.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -7994,7 +7994,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK7OO3JOYG1.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8054,7 +8054,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK7KO3IXE9W.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8084,7 +8084,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK7EO3I1ZM6.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8104,7 +8104,7 @@
     "amount": -1104.59,
     "purposeOfPayment": "Оплата за товари та послуги 07.07.2020 10:33:00 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK07097DL9U.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8134,7 +8134,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за червень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0701BSX1T.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8144,7 +8144,7 @@
     "amount": -745.08,
     "purposeOfPayment": "Оплата за товари та послуги 28.06.2020 20:44:05 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0630V3NRU.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8174,7 +8174,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK6PO3FV4BT.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8224,7 +8224,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK6MO3FCKKZ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8244,7 +8244,7 @@
     "amount": -52.00,
     "purposeOfPayment": "Оплата за товари та послуги 16.06.2020 19:17:09 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0618NOHCR.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8294,7 +8294,7 @@
     "amount": -1090.89,
     "purposeOfPayment": "Оплата за товари та послуги 06.06.2020 12:37:25 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK06098F249.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8304,7 +8304,7 @@
     "amount": -1440.00,
     "purposeOfPayment": "Оплата за товари та послуги 06.06.2020 12:10:09 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "расчеты по картам (С+, ACQ1) карты ПБ",
     "reference": "COIIK06068D23N.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8324,7 +8324,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за травень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0601B2UGF.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8361,16 +8361,6 @@
   },
   {
     "dateTime": "2020-05-28T00:00:00",
-    "amount": -6300.00,
-    "purposeOfPayment": "Сплата за послуги, згiдно рахунку №15 вiд 14.05.2020 р. (сплачено частково). Без ПДВ.",
-    "counterpartyTaxCode": "2021300251",
-    "counterpartyName": "СIЗОВ В.Д. ФОП",
-    "reference": "JBKLK5SO3CKWB8.1",
-    "category": "Поточний ремонт та інше",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2020-05-28T00:00:00",
     "amount": -5465.97,
     "purposeOfPayment": "ЗА БУХ ОБСЛУГОВУВАННЯ ЗГ РАХ № 116 ВIД 28.05.2020Р. Без ПДВ.",
     "counterpartyTaxCode": "42755018",
@@ -8380,11 +8370,21 @@
     "kind": "витрати"
   },
   {
+    "dateTime": "2020-05-28T00:00:00",
+    "amount": -6300.00,
+    "purposeOfPayment": "Сплата за послуги, згiдно рахунку №15 вiд 14.05.2020 р. (сплачено частково). Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK5SO3CKWB8.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
     "dateTime": "2020-05-27T00:00:00",
     "amount": -127.02,
     "purposeOfPayment": "Оплата за товари та послуги 25.05.2020 15:43:56 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK052762FS0.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8394,7 +8394,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK5PO3C6JKL.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8404,7 +8404,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK5PO3C6JMH.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8434,7 +8434,7 @@
     "amount": -382.61,
     "purposeOfPayment": "Оплата за товари та послуги 21.05.2020 11:57:03 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0523SVEAL.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8457,6 +8457,16 @@
     "counterpartyName": "ВОРОН Т. О., ПIДПРИЄМЕЦЬ",
     "reference": "JBKLK5FO3B5IUH.1",
     "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-14T00:00:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
+    "reference": "JBKLK5EO3AUTKA.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -8490,16 +8500,6 @@
     "kind": "витрати"
   },
   {
-    "dateTime": "2020-05-14T00:00:00",
-    "amount": -2.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
-    "reference": "JBKLK5EO3AUTKA.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
     "dateTime": "2020-05-12T00:00:00",
     "amount": -25118.00,
     "purposeOfPayment": "Ремонт зовнiшнього трубопроводу водовiдведення (пiд?їзд 11), згiдно рахунку №14 вiд  05 квiтня 2020 р. Без ПДВ.",
@@ -8514,7 +8514,7 @@
     "amount": -160.00,
     "purposeOfPayment": "Оплата за товари та послуги 08.05.2020 15:51:46 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0510MIYVZ.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8524,7 +8524,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK54O39W41S.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8584,7 +8584,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK54O39VLHG.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8594,7 +8594,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK54O39TBRA.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8604,7 +8604,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за квiтень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0504BH6IJ.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8614,7 +8614,7 @@
     "amount": -412.25,
     "purposeOfPayment": "Оплата за товари та послуги 01.05.2020 15:04:15 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0503YC8GI.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8624,7 +8624,7 @@
     "amount": -1580.00,
     "purposeOfPayment": "Оплата за товари та послуги 01.05.2020 14:50:23 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "расчеты по картам (С+, ACQ1) карты ПБ",
     "reference": "COIIK05018BDLR.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8674,7 +8674,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK4RO3962AV.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8734,7 +8734,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK4LO38PT11.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8764,7 +8764,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK4FO386GZ4.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8794,7 +8794,7 @@
     "amount": -482.60,
     "purposeOfPayment": "Оплата за товари та послуги 08.04.2020 17:59:10 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0410SPQDE.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8804,7 +8804,7 @@
     "amount": -900.00,
     "purposeOfPayment": "Оплата за товари та послуги 08.04.2020 17:44:53 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "расчеты по картам (С+, ACQ1) карты ПБ",
     "reference": "COIIK0409ROLMW.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8834,7 +8834,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за березень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0401BII59.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8874,7 +8874,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK3OO35Z9PA.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8914,7 +8914,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK3KO35OAYZ.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8934,7 +8934,7 @@
     "amount": -1440.18,
     "purposeOfPayment": "Оплата за товари та послуги 11.03.2020 18:55:05 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0313Y73A5.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8944,7 +8944,7 @@
     "amount": -456.32,
     "purposeOfPayment": "Оплата за товари та послуги 10.03.2020 20:44:01 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0312F6ETZ.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8954,7 +8954,7 @@
     "amount": -2.00,
     "purposeOfPayment": "Оплата за товари та послуги 10.03.2020 20:46:00 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0312F6BEX.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -8974,7 +8974,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK34O33FJFH.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -8994,7 +8994,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за лютий  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0302BSL4T.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -9024,7 +9024,7 @@
     "amount": -57.96,
     "purposeOfPayment": "Оплата за товари та послуги 28.02.2020 18:48:02 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK0301FUNGU.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -9054,7 +9054,7 @@
     "amount": -13.58,
     "purposeOfPayment": "Комiсiя за викон. платежу 364 вiд 24.02.2020, 6788.88 в нац. валютi в пiсляоперацiйний час, згiдно з вiдкритою офертою банку № б/н вiд 23.05.2016 без ПДВ",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "Комис.за послеопер.деб.сч.Ю.Л.(UAH)",
     "reference": "JBKLK2OO32DY6L.X",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -9064,7 +9064,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK2OO32DY6L.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -9124,7 +9124,7 @@
     "amount": -53.12,
     "purposeOfPayment": "Оплата за товари та послуги 05.02.2020 08:57:04 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
     "reference": "COIIK02076F4DC.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -9134,7 +9134,7 @@
     "amount": -236.00,
     "purposeOfPayment": "Оплата за товари та послуги 05.02.2020 11:45:10 по картцi 5169330513886512",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "расчеты по картам (С+, ACQ1) карты ПБ",
     "reference": "COIIK0205GDWZZ.1",
     "category": "Дрібні витрати",
     "kind": "витрати"
@@ -9154,7 +9154,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за сiчень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0203BS1JV.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -9224,7 +9224,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK1OO2YM0ZC.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -9324,7 +9324,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK18O2WCO7G.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -9334,7 +9334,7 @@
     "amount": -3.00,
     "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "КОМ ЗА ДЕБЕТОВАНИЕ СЧЕТА(UAH)",
     "reference": "JBKLK17O2WBRE9.Y",
     "category": "Банківськи комісії",
     "kind": "витрати"
@@ -9374,7 +9374,7 @@
     "amount": -100.00,
     "purposeOfPayment": "Комiсiя за обслуговування рахунку за грудень  2019 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
     "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "counterpartyName": "ПОЛУЧ КОМИС ЗА КЛИЕНТ-БАНК(UAH)",
     "reference": "TZ00K0103B3NI5.1",
     "category": "Банківськи комісії",
     "kind": "витрати"
