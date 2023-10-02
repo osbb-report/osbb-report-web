@@ -1,13 +1,513 @@
 [
   {
+    "dateTime": "2023-10-31T00:00:00",
+    "amount": 4991.19,
+    "purposeOfPayment": "консолідований внесок власників за Жовтень 2023 року",
+    "counterpartyTaxCode": "000000000",
+    "counterpartyName": "Власники",
+    "reference": "",
+    "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-10-02T14:47:00",
+    "amount": -918.40,
+    "purposeOfPayment": "Перевитрати згідно авансового звіту №81 від 02.10.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "2774815598",
+    "counterpartyName": "БЄКОЄВ СОСЛАН ЕНРІКОВИЧ",
+    "reference": "JBKLNA2O82GW9G.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-02T14:47:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLNA2O82GW9G.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-02T11:58:00",
+    "amount": -13120.00,
+    "purposeOfPayment": "Поточний ремонт покрівлі 15-го під'їзду. Згідно рахунку №82 від 25 вересня 2023 р.",
+    "counterpartyTaxCode": "3542412496",
+    "counterpartyName": "СКОРОХОД А.О. ФОП",
+    "reference": "JBKLNA2O82E15D.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-02T11:54:00",
+    "amount": -4260.00,
+    "purposeOfPayment": "Прибирання місць загального користування (25 вересня - 01 жовтня). Без ПДВ",
+    "counterpartyTaxCode": "2510715027",
+    "counterpartyName": "Кидалова Є.П. ФОП",
+    "reference": "JBKLNA2O82DXVH.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-02T11:54:00",
+    "amount": -430.00,
+    "purposeOfPayment": "Доплата за прибирання 2-го під'їзду в вересні. Без ПДВ.",
+    "counterpartyTaxCode": "2510715027",
+    "counterpartyName": "Кидалова Є.П. ФОП",
+    "reference": "JBKLNA2O82DXVX.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-01T06:36:00",
+    "amount": -350.00,
+    "purposeOfPayment": "Комісія за обслуговування рахунку за вересень  2023 р. згідно договору банківського рахунку від 02.06.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00N1001B2FTV.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-30T00:00:00",
+    "amount": 112360.29,
+    "purposeOfPayment": "консолідований внесок власників за Вересень 2023 року",
+    "counterpartyTaxCode": "000000000",
+    "counterpartyName": "Власники",
+    "reference": "",
+    "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-09-29T12:38:00",
+    "amount": -233.00,
+    "purposeOfPayment": "Перевитрати згідно авансового звіту №80 від 29.09.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "2774815598",
+    "counterpartyName": "БЄКОЄВ СОСЛАН ЕНРІКОВИЧ",
+    "reference": "JBKLN9TO821W0Z.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-29T12:38:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9TO821W0Z.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-27T10:27:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9RO81JONN.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-27T10:27:00",
+    "amount": -14025.00,
+    "purposeOfPayment": "Послуги з вивозу та захороненню ТПВ за вересень 2023 р. згідно Рах. №3664-23/20904 від 22.09.2023 р.",
+    "counterpartyTaxCode": "02128158",
+    "counterpartyName": "ТДВ, ДНIПРОКОМУНТРАНС",
+    "reference": "JBKLN9RO81JONN.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-26T17:14:00",
+    "amount": 1100.00,
+    "purposeOfPayment": "Внески на утриман.об'єкта-08/2023, згідно договору №43226 від 01.08.2023, без ПДВ.",
+    "counterpartyTaxCode": "19199961",
+    "counterpartyName": "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+    "reference": "HS43N0926L1P00.P",
+    "category": "Сервітут",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-09-25T16:47:00",
+    "amount": 14025.00,
+    "purposeOfPayment": "BE01:iдентифiкацiйнi данi кiнцевого клiєнта не узгоджуються з вiдповiдним номером рахунку (ранiше ? CreditorConsistency).Невiрний код отримувача //(Поверн ПI реф:JBKLN9PO81723G.1)",
+    "counterpartyTaxCode": "0212815802",
+    "counterpartyName": "ДНІПРОКОМУНТРАНС, ТДВ",
+    "reference": "HS43N0925L1S8X.P",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-25T13:53:00",
+    "amount": -14025.00,
+    "purposeOfPayment": "Послуги з вивозу та захороненню ТПВ за вересень 2023 р. згідно Рах. №3664-23/20904 від 22.09.2023 р.",
+    "counterpartyTaxCode": "0212815802",
+    "counterpartyName": "ДНІПРОКОМУНТРАНС, ТДВ",
+    "reference": "JBKLN9PO81723G.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-25T13:53:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9PO81723G.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-25T10:49:00",
+    "amount": -1070.00,
+    "purposeOfPayment": "Покіс трави. Без ПДВ.",
+    "counterpartyTaxCode": "2510715027",
+    "counterpartyName": "Кидалова Є.П. ФОП",
+    "reference": "JBKLN9PO814869.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-25T10:35:00",
+    "amount": -13410.00,
+    "purposeOfPayment": "Прибирання місць загального користування. Без ПДВ Без ПДВ.",
+    "counterpartyTaxCode": "2510715027",
+    "counterpartyName": "Кидалова Є.П. ФОП",
+    "reference": "JBKLN9PO8141DR.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-20T10:46:00",
+    "amount": -508.20,
+    "purposeOfPayment": "Перевитрати згідно авансового звіту №79 від 20.09.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "2774815598",
+    "counterpartyName": "БЄКОЄВ СОСЛАН ЕНРІКОВИЧ",
+    "reference": "JBKLN9KO80E6PE.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-20T10:46:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9KO80E6PE.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-19T15:51:00",
+    "amount": -16189.00,
+    "purposeOfPayment": "Сплата за поточний ремонт ліфта 2-го під'їзду (з урахуванням матеріалв) згідно акту №575 від 08.09.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLN9JO809TLK.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-14T14:47:00",
+    "amount": -4260.00,
+    "purposeOfPayment": "СПЛАТА ЗА ПРИБИРАННЯ МЗК. Без ПДВ.",
+    "counterpartyTaxCode": "2510715027",
+    "counterpartyName": "Кидалова Є.П. ФОП",
+    "reference": "JBKLN9EO7ZE7K2.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-13T15:15:00",
+    "amount": -1342.00,
+    "purposeOfPayment": "*;101;40509123; Судовий збір, за позовом Об'єднання співвласників багатоквартирного будинку \"Велика Діївська 40\", Ленінський районний суд м. Дніпропетровська",
+    "counterpartyTaxCode": "37988155",
+    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+    "reference": "JBKLN9DO7Z7APC.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-13T15:15:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9DO7Z7APC.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-13T12:18:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9DO7Z55WC.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-13T12:18:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9DO7Z55WF.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-13T12:18:00",
+    "amount": -3700.00,
+    "purposeOfPayment": "Сплата за послуги з техн. обслуговування вузла обліку теплової енергії, заміна елемента живлення згідно рахунку №П-5/2023 від 01.05.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "2813807811",
+    "counterpartyName": "ЩЕГЛОВ СЕРГІЙ МИХАЙЛОВИЧ",
+    "reference": "JBKLN9DO7Z55WC.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-13T12:18:00",
+    "amount": -4400.00,
+    "purposeOfPayment": "Сплата за послуги з техн. обслуговування вузла обліку теплової енергії, заміна елемента живлення згідно рахунку №П-4/2023 від 01.05.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "2813807811",
+    "counterpartyName": "ЩЕГЛОВ СЕРГІЙ МИХАЙЛОВИЧ",
+    "reference": "JBKLN9DO7Z55WF.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-13T09:07:00",
+    "amount": -12720.00,
+    "purposeOfPayment": "Сплата за ремонт ліфтового статора електродвигуна згідно рахунку №08/09 від 08.09.2023р.",
+    "counterpartyTaxCode": "42887764",
+    "counterpartyName": "ТОВ, ТК МАРК",
+    "reference": "JBKLN9DO7Z311N.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-13T09:07:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9DO7Z311N.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-12T16:31:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN9CO7Z164H.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-12T16:31:00",
+    "amount": -12685.20,
+    "purposeOfPayment": "За ел.енергiю зг.рахунку № 251201354898 вiд 31.08.2023, в т.ч. ПДВ 2114.2 грн. Ор. 521000030017  prvt",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLN9CO7Z164H.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-11T18:29:00",
+    "amount": 5000.00,
+    "purposeOfPayment": "Сплата за оренду приміщення згідно Договору №2 від 01.05.2023р., без ПДВ",
+    "counterpartyTaxCode": "2865114799",
+    "counterpartyName": "МИРОШНИЧЕНКО С. М. ФОП",
+    "reference": "JBKLN9BO7YUB9A.1",
+    "category": "інщі прибутки",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-09-07T13:57:00",
+    "amount": -4000.00,
+    "purposeOfPayment": "Сплата за монтаж системи ХВП для набору води прибиральницями згідно акту №573 від 07.09.2023р.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLN97O7Y9575.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-07T13:57:00",
+    "amount": -4479.82,
+    "purposeOfPayment": "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00000244 ВІД 06.09.2023Р. БЕЗ ПДВ.",
+    "counterpartyTaxCode": "2656005873",
+    "counterpartyName": "КОНТА Я.Й. ФОП",
+    "reference": "JBKLN97O7Y957B.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-06T12:59:00",
+    "amount": -4698.48,
+    "purposeOfPayment": "*;101;40509123; Судовий збір, за позовом Об'єднання співвласників багатоквартирного будинку \"Велика Діївська 40\", Ленінський районний суд м. Дніпропетровська",
+    "counterpartyTaxCode": "37988155",
+    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+    "reference": "JBKLN96O7XZIGC.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-06T12:59:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN96O7XZIGC.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-06T12:59:00",
+    "amount": -5000.00,
+    "purposeOfPayment": "ОПЛАТА ЗА ПРОФЕСІЙНУ ПРАВНИЧУ ДОПОМОГУ ПО ДОГ. ВІД 28.07.2023Р. №01 (ПІДГОТОВКА ТА ПОДАЧА ПОЗОВНОЇ ЗАЯВИ) ЗГІДНО РАХУНКУ №2 ВІД 06.08.2023Р. БЕЗ ПДВ.",
+    "counterpartyTaxCode": "41382551",
+    "counterpartyName": "ПОГРІБНОЇ ОЛЬГИ ТА ПАТИКИ АНДРІЯ АО",
+    "reference": "JBKLN96O7XZIGF.1",
+    "category": "Судові та юридичні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T11:26:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN91O7X56Y8.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T11:26:00",
+    "amount": -7500.19,
+    "purposeOfPayment": "#5375414122523771; ІПН 2774815598 Бєкоєв С.Е.; Зарплата за  ІІ пол. серпня 2023р.;",
+    "counterpartyTaxCode": "21133352",
+    "counterpartyName": "АТ \"УНІВЕРСАЛ БАНК\"",
+    "reference": "JBKLN91O7X56Y8.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T10:57:00",
+    "amount": -2049.74,
+    "purposeOfPayment": "*;101;40509123; ЄСВ 22% з зарплати за  ІІ пол. серпня 2023р.;;;",
+    "counterpartyTaxCode": "44118658",
+    "counterpartyName": "ГУ ДПС У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+    "reference": "JBKLN91O7X56YL.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T10:57:00",
+    "amount": -1677.06,
+    "purposeOfPayment": "*;101;40509123;11010100; ПДФО 18% з зарплати за ІІ пол. серпня 2023р.;;;",
+    "counterpartyTaxCode": "37988155",
+    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+    "reference": "JBKLN91O7X56YM.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T10:57:00",
+    "amount": -139.75,
+    "purposeOfPayment": "*;101;40509123;11011000; військовий збір 1,5% з зарплати за  ІІ пол. серпня 2023р.;;;",
+    "counterpartyTaxCode": "37988155",
+    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+    "reference": "JBKLN91O7X56YT.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T10:57:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN91O7X56YL.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T10:57:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN91O7X56YM.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T10:57:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN91O7X56YT.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T10:55:00",
+    "amount": -4355.63,
+    "purposeOfPayment": "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00000238 ВІД 01.09.2023Р. БЕЗ ПДВ.",
+    "counterpartyTaxCode": "2656005873",
+    "counterpartyName": "КОНТА Я.Й. ФОП",
+    "reference": "JBKLN91O7X55UI.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-09-01T06:41:00",
+    "amount": -350.00,
+    "purposeOfPayment": "Комісія за обслуговування рахунку за серпень  2023 р. згідно договору банківського рахунку від 02.06.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00N0901B066B.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
     "dateTime": "2023-08-31T00:00:00",
-    "amount": 103761.05,
+    "amount": 114791.28,
     "purposeOfPayment": "консолідований внесок власників за Серпень 2023 року",
     "counterpartyTaxCode": "000000000",
     "counterpartyName": "Власники",
     "reference": "",
     "category": "Внески",
     "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-08-30T16:37:00",
+    "amount": -4260.00,
+    "purposeOfPayment": "СПЛАТА ЗА ПРИБИРАННЯ МЗК. Без ПДВ.",
+    "counterpartyTaxCode": "2510715027",
+    "counterpartyName": "Кидалова Є.П. ФОП",
+    "reference": "JBKLN8UO7WRV5N.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-08-29T15:07:00",
+    "amount": -2000.00,
+    "purposeOfPayment": "Сплата за монтаж поливальних кранів 8-го під'їзду згідно акту №477 від 29.08.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLN8TO7WJGV0.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
   },
   {
     "dateTime": "2023-08-24T17:22:00",
@@ -2641,22 +3141,22 @@
   },
   {
     "dateTime": "2023-01-18T17:01:00",
-    "amount": -3.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
-    "reference": "JBKLN1IO6YB1UM.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2023-01-18T17:01:00",
     "amount": -6500.00,
     "purposeOfPayment": "Сплата за послуги з встановлення блоку безперебійного живлення згідно рахунку №1/2023 від 18.01.2023р.",
     "counterpartyTaxCode": "2813807811",
     "counterpartyName": "ЩЕГЛОВ СЕРГІЙ МИХАЙЛОВИЧ",
     "reference": "JBKLN1IO6YB1UM.1",
     "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-01-18T17:01:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLN1IO6YB1UM.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -3031,22 +3531,22 @@
   },
   {
     "dateTime": "2022-12-29T10:14:00",
-    "amount": -3.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
-    "reference": "JBKLMCTO6VS3WG.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-12-29T10:14:00",
     "amount": -14996.40,
     "purposeOfPayment": "Сплата за матеріали згідно рах.№2314 від 28.12.2022р.",
     "counterpartyTaxCode": "3033512839",
     "counterpartyName": "ЗАЯЦЬ ВАЛЕНТИН АНАТОЛІЙОВИЧ",
     "reference": "JBKLMCTO6VS3WG.1",
     "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-12-29T10:14:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLMCTO6VS3WG.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -3161,22 +3661,22 @@
   },
   {
     "dateTime": "2022-12-13T13:20:00",
-    "amount": -3.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
-    "reference": "JBKLMCDO6TFZ4N.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-12-13T13:20:00",
     "amount": -15697.95,
     "purposeOfPayment": "Сплата за матеріали згідно рахунку №2112 від 09.12.2022р.",
     "counterpartyTaxCode": "3217210617",
     "counterpartyName": "МРИХІН МАКСИМ СЕРГІЙОВИЧ",
     "reference": "JBKLMCDO6TFZ4N.1",
     "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-12-13T13:20:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLMCDO6TFZ4N.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -3321,16 +3821,6 @@
   },
   {
     "dateTime": "2022-12-02T15:42:00",
-    "amount": -3.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
-    "reference": "JBKLMC2O6S55MW.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-12-02T15:42:00",
     "amount": -5299.57,
     "purposeOfPayment": "#5375414122523771; ІПН 2774815598 Бєкоєв С.Е.; Зарплата за  ІІ пол. листопада 2022р.;",
     "counterpartyTaxCode": "21133352",
@@ -3340,33 +3830,13 @@
     "kind": "витрати"
   },
   {
-    "dateTime": "2022-12-02T15:11:00",
-    "amount": -98.75,
-    "purposeOfPayment": "*;101;40509123;11011000; військовий збір 1,5% з зарплати за  ІІ пол. листопада 2022р.;;;",
-    "counterpartyTaxCode": "37988155",
-    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
-    "reference": "JBKLMC2O6S55MQ.1",
-    "category": "Зарплатня",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-12-02T15:11:00",
-    "amount": -1184.99,
-    "purposeOfPayment": "*;101;40509123;11010100; ПДФО 18% з зарплати за ІІ пол. листопада 2022р.;;;",
-    "counterpartyTaxCode": "37988155",
-    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
-    "reference": "JBKLMC2O6S55N1.1",
-    "category": "Зарплатня",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-12-02T15:11:00",
-    "amount": -1448.33,
-    "purposeOfPayment": "*;101;40509123; ЄСВ 22% з зарплати за  ІІ пол. листопада 2022р.;;;",
-    "counterpartyTaxCode": "44118658",
-    "counterpartyName": "ГУ ДПС У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
-    "reference": "JBKLMC2O6S55NE.1",
-    "category": "Зарплатня",
+    "dateTime": "2022-12-02T15:42:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLMC2O6S55MW.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -3397,6 +3867,36 @@
     "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMC2O6S55NE.Y",
     "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-12-02T15:11:00",
+    "amount": -98.75,
+    "purposeOfPayment": "*;101;40509123;11011000; військовий збір 1,5% з зарплати за  ІІ пол. листопада 2022р.;;;",
+    "counterpartyTaxCode": "37988155",
+    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+    "reference": "JBKLMC2O6S55MQ.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-12-02T15:11:00",
+    "amount": -1184.99,
+    "purposeOfPayment": "*;101;40509123;11010100; ПДФО 18% з зарплати за ІІ пол. листопада 2022р.;;;",
+    "counterpartyTaxCode": "37988155",
+    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+    "reference": "JBKLMC2O6S55N1.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-12-02T15:11:00",
+    "amount": -1448.33,
+    "purposeOfPayment": "*;101;40509123; ЄСВ 22% з зарплати за  ІІ пол. листопада 2022р.;;;",
+    "counterpartyTaxCode": "44118658",
+    "counterpartyName": "ГУ ДПС У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+    "reference": "JBKLMC2O6S55NE.1",
+    "category": "Зарплатня",
     "kind": "витрати"
   },
   {
@@ -3431,22 +3931,22 @@
   },
   {
     "dateTime": "2022-11-30T17:14:00",
-    "amount": -3.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
-    "reference": "JBKLMBUO6RT0T5.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-11-30T17:14:00",
     "amount": -17863.22,
     "purposeOfPayment": "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ  ЗГІДНО РАХУНКУ № 3664-22/03082 ВІД 31.01.2022р,",
     "counterpartyTaxCode": "02128158",
     "counterpartyName": "ТДВ, ДНIПРОКОМУНТРАНС",
     "reference": "JBKLMBUO6RT0T5.1",
     "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-11-30T17:14:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLMBUO6RT0T5.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -3511,22 +4011,22 @@
   },
   {
     "dateTime": "2022-11-16T14:05:00",
-    "amount": -3.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
-    "reference": "JBKLMBGO6PZB0Y.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-11-16T14:05:00",
     "amount": -30000.00,
     "purposeOfPayment": "Часткова сплата за матеріали згідно рахунку №1567 від 19.10.2022р.",
     "counterpartyTaxCode": "3217210617",
     "counterpartyName": "МРИХІН МАКСИМ СЕРГІЙОВИЧ",
     "reference": "JBKLMBGO6PZB0Y.1",
     "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-11-16T14:05:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLMBGO6PZB0Y.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -3841,22 +4341,22 @@
   },
   {
     "dateTime": "2022-10-19T13:01:00",
-    "amount": -3.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
-    "reference": "JBKLMAJO6M8AOK.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-10-19T13:01:00",
     "amount": -30000.00,
     "purposeOfPayment": "ЧАСТКОВА СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1567 ВІД 19.10.2022Р.",
     "counterpartyTaxCode": "3217210617",
     "counterpartyName": "МРИХІН МАКСИМ СЕРГІЙОВИЧ",
     "reference": "JBKLMAJO6M8AOK.1",
     "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-10-19T13:01:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLMAJO6M8AOK.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -3887,6 +4387,16 @@
     "counterpartyName": "АТ \"УНІВЕРСАЛ БАНК\"",
     "reference": "JBKLMAEO6LLATU.1",
     "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-10-14T12:48:00",
+    "amount": -1500.00,
+    "purposeOfPayment": "Сплата за прочищення каналізації 16-й під'їзд.  Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLMAEO6LLATG.1",
+    "category": "Поточний ремонт та інше",
     "kind": "витрати"
   },
   {
@@ -3937,16 +4447,6 @@
     "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLMAEO6LLAU0.Y",
     "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-10-14T12:48:00",
-    "amount": -1500.00,
-    "purposeOfPayment": "Сплата за прочищення каналізації 16-й під'їзд.  Без ПДВ.",
-    "counterpartyTaxCode": "40485878",
-    "counterpartyName": "КК СПУТНИК ТОВ",
-    "reference": "JBKLMAEO6LLATG.1",
-    "category": "Поточний ремонт та інше",
     "kind": "витрати"
   },
   {
@@ -4121,16 +4621,6 @@
   },
   {
     "dateTime": "2022-09-27T15:02:00",
-    "amount": -3.00,
-    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
-    "counterpartyTaxCode": "14360570",
-    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
-    "reference": "JBKLM9RO6J7TGH.Y",
-    "category": "Банківськи комісії",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-09-27T15:02:00",
     "amount": -1167.21,
     "purposeOfPayment": "*;101;40509123;11010100; ПДФО 18% з зарплати за ІІ пол. вересня 2022р.;;;",
     "counterpartyTaxCode": "37988155",
@@ -4140,23 +4630,13 @@
     "kind": "витрати"
   },
   {
-    "dateTime": "2022-09-27T15:01:00",
-    "amount": -97.27,
-    "purposeOfPayment": "*;101;40509123;11011000; військовий збір 1,5% з зарплати за  ІІ пол. вересня 2022р.;;;",
-    "counterpartyTaxCode": "37988155",
-    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
-    "reference": "JBKLM9RO6J7TG9.1",
-    "category": "Зарплатня",
-    "kind": "витрати"
-  },
-  {
-    "dateTime": "2022-09-27T15:01:00",
-    "amount": -1426.59,
-    "purposeOfPayment": "*;101;40509123; ЄСВ 22% з зарплати за  ІІ пол. вересня 2022р.;;;",
-    "counterpartyTaxCode": "44118658",
-    "counterpartyName": "ГУ ДПС У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
-    "reference": "JBKLM9RO6J7TGB.1",
-    "category": "Зарплатня",
+    "dateTime": "2022-09-27T15:02:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
+    "reference": "JBKLM9RO6J7TGH.Y",
+    "category": "Банківськи комісії",
     "kind": "витрати"
   },
   {
@@ -4177,6 +4657,26 @@
     "counterpartyName": "ЗА ДЕБЕТУВАННЯ РАХУНКУ(UAH)",
     "reference": "JBKLM9RO6J7TGB.Y",
     "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-09-27T15:01:00",
+    "amount": -97.27,
+    "purposeOfPayment": "*;101;40509123;11011000; військовий збір 1,5% з зарплати за  ІІ пол. вересня 2022р.;;;",
+    "counterpartyTaxCode": "37988155",
+    "counterpartyName": "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+    "reference": "JBKLM9RO6J7TG9.1",
+    "category": "Зарплатня",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2022-09-27T15:01:00",
+    "amount": -1426.59,
+    "purposeOfPayment": "*;101;40509123; ЄСВ 22% з зарплати за  ІІ пол. вересня 2022р.;;;",
+    "counterpartyTaxCode": "44118658",
+    "counterpartyName": "ГУ ДПС У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+    "reference": "JBKLM9RO6J7TGB.1",
+    "category": "Зарплатня",
     "kind": "витрати"
   },
   {
