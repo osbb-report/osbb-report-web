@@ -1,13 +1,53 @@
 [
   {
     "dateTime": "2023-10-31T00:00:00",
-    "amount": 37916.86,
+    "amount": 52485.05,
     "purposeOfPayment": "консолідований внесок власників за Жовтень 2023 року",
     "counterpartyTaxCode": "000000000",
     "counterpartyName": "Власники",
     "reference": "",
     "category": "Внески",
     "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-10-12T14:47:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLNACO84G88X.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-12T14:47:00",
+    "amount": -15494.24,
+    "purposeOfPayment": "Послуги з вивозу та захороненню ТПВ. Згідно рахунку №3664-23/19993 від 13.09.2023 р. у сумі 12911.87 грн., ПДВ - 20 % 2582.37 грн.",
+    "counterpartyTaxCode": "02128158",
+    "counterpartyName": "ТДВ, ДНIПРОКОМУНТРАНС",
+    "reference": "JBKLNACO84G88X.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-12T14:38:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLNACO84G3GS.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-12T14:38:00",
+    "amount": -8028.24,
+    "purposeOfPayment": "За ел.енергiю зг.рахунку № 259501626410 вiд 30.09.2023, в т.ч. ПДВ 1338.04 грн. Ор. 521000030017  prvt У сумi 6 690.20 грн., ПДВ - 20 % 1 338.04 грн.",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLNACO84G3GS.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
   },
   {
     "dateTime": "2023-10-10T11:10:00",
