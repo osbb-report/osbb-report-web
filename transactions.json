@@ -8231,7 +8231,7 @@
   },
   {
     "dateTime": "2020-07-31T00:00:00",
-    "amount": 26907.28,
+    "amount": 96794.91,
     "purposeOfPayment": "консолідований внесок власників за Липень 2020 року",
     "counterpartyTaxCode": "000000000",
     "counterpartyName": "Власники",
@@ -8358,5 +8358,1335 @@
     "reference": "HSKLK0722L1XFR.P",
     "category": "Сервітут",
     "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-07-20T16:16:00",
+    "amount": 2000.00,
+    "purposeOfPayment": "Доступ до iнфраструктури будинку зг уг КДН-ЗШ80  без ПДВ",
+    "counterpartyTaxCode": "38736443",
+    "counterpartyName": "ТОВ \"КДН\"",
+    "reference": "HSKLK0720L4RY0.P",
+    "category": "Сервітут",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-07-20T10:50:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK7KO3IXE9W.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-07-16T11:57:00",
+    "amount": 750.00,
+    "purposeOfPayment": "за користування спiльним майном за 3-й квартал 2020 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ",
+    "counterpartyTaxCode": "31761988",
+    "counterpartyName": "СОЮЗ ТОВ",
+    "reference": "JBKLK7GO3IIT4O.1",
+    "category": "Реклама",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-07-14T13:04:00",
+    "amount": -2500.00,
+    "purposeOfPayment": "ЗА АВАРIЙНЕ ПРОЧИЩЕННЯ КАНАЛIЗАЦIЙНОГО СТОЯКУ ЗГ РАХ № РФ-233Д ВIД 14.07.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "2911411277",
+    "counterpartyName": "ГОНЧАРЕНКО Р.С. ФОП",
+    "reference": "JBKLK7EO3I4U85.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-07-14T08:46:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK7EO3I1ZM6.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-07-09T03:38:00",
+    "amount": -1104.59,
+    "purposeOfPayment": "Оплата за товари та послуги 07.07.2020 10:33:00 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK07097DL9U.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-07-07T16:02:00",
+    "amount": -4985.65,
+    "purposeOfPayment": "ЗА САНТЕХ МАТЕРIАЛИ ЗГ РАХ № 1-00000099 ВIД 02.07.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "2656005873",
+    "counterpartyName": "КОНТА Я.Й. ФОП",
+    "reference": "JBKLK77O3HCORT.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-07-06T13:20:00",
+    "amount": -10000.00,
+    "purposeOfPayment": "ЗА МОНТЖ КРАНIВ У 10 ПIД. ЗГ РАХ № 477 ВIД 06.07.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "2134101089",
+    "counterpartyName": "ЗАБIРНА О.В. ФОП",
+    "reference": "JBKLK76O3H23PN.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-07-01T12:34:00",
+    "amount": -100.00,
+    "purposeOfPayment": "Комiсiя за обслуговування рахунку за червень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00K0701BSX1T.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-30T03:26:00",
+    "amount": -745.08,
+    "purposeOfPayment": "Оплата за товари та послуги 28.06.2020 20:44:05 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0630V3NRU.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-30T00:00:00",
+    "amount": 85278.70,
+    "purposeOfPayment": "консолідований внесок власників за Червень 2020 року",
+    "counterpartyTaxCode": "000000000",
+    "counterpartyName": "Власники",
+    "reference": "",
+    "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-06-26T09:16:00",
+    "amount": -600.00,
+    "purposeOfPayment": "За пошук короткого замикання, встановл свiтильникiв зг рах № 466 вiд 26.06.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "2134101089",
+    "counterpartyName": "ЗАБIРНА О.В. ФОП",
+    "reference": "JBKLK6QO3FWIZQ.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-25T16:18:00",
+    "amount": -6600.00,
+    "purposeOfPayment": "За замiну стояка каналiзацiї та ХВП зг рах № 465 вiд 25.06.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "2134101089",
+    "counterpartyName": "ЗАБIРНА О.В. ФОП",
+    "reference": "JBKLK6PO3FVLJA.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-25T15:39:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK6PO3FV4BT.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-25T15:39:00",
+    "amount": -5087.04,
+    "purposeOfPayment": "За активну електроенергiю за червень зг рах № 111/11868-00/6/1 вiд 23.06.2020р. У сумi 4239.20 грн., ПДВ - 20 % 847.84 грн.",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLK6PO3FV4BT.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-25T11:56:00",
+    "amount": -2515.00,
+    "purposeOfPayment": "За сантех матерiали зг рах № 1-00000094 вiд 23.06.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "2656005873",
+    "counterpartyName": "КОНТА Я.Й. ФОП",
+    "reference": "JBKLK6PO3FSS34.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-22T12:09:00",
+    "amount": -12000.00,
+    "purposeOfPayment": "ЗА ТО ЛIФТIВ ЗГ РАХ № 92 ВIД 22.06.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLK6MO3FCKLB.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-22T12:09:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK6MO3FCKKZ.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-22T12:09:00",
+    "amount": -15827.86,
+    "purposeOfPayment": "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумi 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
+    "counterpartyTaxCode": "02128158",
+    "counterpartyName": "ТДВ, ДНIПРОКОМУНТРАНС",
+    "reference": "JBKLK6MO3FCKKZ.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-18T04:34:00",
+    "amount": -52.00,
+    "purposeOfPayment": "Оплата за товари та послуги 16.06.2020 19:17:09 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0618NOHCR.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-16T14:28:00",
+    "amount": 250.00,
+    "purposeOfPayment": "за користування спiльним майном за червень 2020 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ",
+    "counterpartyTaxCode": "31761988",
+    "counterpartyName": "СОЮЗ ТОВ",
+    "reference": "JBKLK6GO3ENP6F.1",
+    "category": "Реклама",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-06-15T15:17:00",
+    "amount": -1444.00,
+    "purposeOfPayment": "ЗА ЗАМОК ЕЛЕКТРОМАГНIТНИЙ ЗГ РАХ № 006-1936 ВIД 15.06.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "3179121173",
+    "counterpartyName": "КОМIНОВ В.В. ФОП",
+    "reference": "JBKLK6FO3EHQLY.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-15T10:22:00",
+    "amount": -5465.97,
+    "purposeOfPayment": "ЗА БУХ ОБСЛУГОВУВАННЯ ЗГ РАХ № 148 ВIД 30.06.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "42755018",
+    "counterpartyName": "К.У.Б ТОВ",
+    "reference": "JBKLK6FO3ECX67.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-11T13:41:00",
+    "amount": -18000.00,
+    "purposeOfPayment": "За промивку системи ЦО зг рах № 389 вiд 11.06.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "2134101089",
+    "counterpartyName": "ЗАБIРНА О.В. ФОП",
+    "reference": "JBKLK6BO3E33SA.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-09T03:40:00",
+    "amount": -1090.89,
+    "purposeOfPayment": "Оплата за товари та послуги 06.06.2020 12:37:25 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK06098F249.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-06T16:47:00",
+    "amount": -1440.00,
+    "purposeOfPayment": "Оплата за товари та послуги 06.06.2020 12:10:09 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK06068D23N.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-03T12:55:00",
+    "amount": -2547.36,
+    "purposeOfPayment": "Кабель КГПВ-ВП(100)4*2*0,51 (UTP-cat.5E patch 20) 305м, Одескабель, згiдно рахунку №КТ-0306005 вiд 03.06.2020, у сумi 2122.80 грн., ПДВ - 20 % 424.56 грн.",
+    "counterpartyTaxCode": "38632904",
+    "counterpartyName": "КАБЕЛЬ-ТРЕЙД ТОВ",
+    "reference": "JBKLK63O3D6OIE.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-01T20:04:00",
+    "amount": -2700.00,
+    "purposeOfPayment": "Виготовлення приказних панелей для лiфтiв, згiдно рахунку №16 вiд 01.06.2020 р. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK61O3CYTNT.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-01T16:20:00",
+    "amount": -3139.00,
+    "purposeOfPayment": "Сплата за послуги, згiдно рахунку №15 вiд 14.05.2020 р. (остаточний розрахунок). Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK61O3CY9RF.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-06-01T09:23:00",
+    "amount": -100.00,
+    "purposeOfPayment": "Комiсiя за обслуговування рахунку за травень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00K0601B2UGF.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-31T00:00:00",
+    "amount": 85731.34,
+    "purposeOfPayment": "консолідований внесок власників за Травень 2020 року",
+    "counterpartyTaxCode": "000000000",
+    "counterpartyName": "Власники",
+    "reference": "",
+    "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-05-28T20:53:00",
+    "amount": -6300.00,
+    "purposeOfPayment": "Сплата за послуги, згiдно рахунку №15 вiд 14.05.2020 р. (сплачено частково). Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK5SO3CKWB8.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-28T09:52:00",
+    "amount": -5465.97,
+    "purposeOfPayment": "ЗА БУХ ОБСЛУГОВУВАННЯ ЗГ РАХ № 116 ВIД 28.05.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "42755018",
+    "counterpartyName": "К.У.Б ТОВ",
+    "reference": "JBKLK5SO3CGCAZ.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-27T03:13:00",
+    "amount": -127.02,
+    "purposeOfPayment": "Оплата за товари та послуги 25.05.2020 15:43:56 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK052762FS0.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-26T03:04:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK5PO3C6JMH.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-26T03:04:00",
+    "amount": -15827.86,
+    "purposeOfPayment": "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумi 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
+    "counterpartyTaxCode": "02128158",
+    "counterpartyName": "ТДВ, ДНIПРОКОМУНТРАНС",
+    "reference": "JBKLK5PO3C6JMH.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-26T03:04:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK5PO3C6JKL.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-26T03:04:00",
+    "amount": -4482.24,
+    "purposeOfPayment": "Активна електроенергiя, в т. ч. за розподiл електроенергiї, згiдно рахунку № 111/11868-00/5/1 вiд 23.05.2020 р, у сумi 3735.20 грн., ПДВ - 20 % 747.04 грн.",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLK5PO3C6JKL.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-23T05:59:00",
+    "amount": -382.61,
+    "purposeOfPayment": "Оплата за товари та послуги 21.05.2020 11:57:03 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0523SVEAL.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-18T16:01:00",
+    "amount": -4900.00,
+    "purposeOfPayment": "За монтаж лiнiї каналiз (пiд № 11) та вiдкач води (пiд № 5) зг рах № 382 вiд 18.05.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "3303112681",
+    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "reference": "JBKLK5IO3BDAQX.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-15T15:16:00",
+    "amount": -1765.82,
+    "purposeOfPayment": "Кнопкi антивандальнi GQ-22B i GQ-22Н без фiксацiї, згiдно рахунку № 372498 вiд 15.05.20. Без ПДВ.",
+    "counterpartyTaxCode": "2679000203",
+    "counterpartyName": "ВОРОН Т. О., ПIДПРИЄМЕЦЬ",
+    "reference": "JBKLK5FO3B5IUH.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-14T16:16:00",
+    "amount": -12000.00,
+    "purposeOfPayment": "ЗА ТО ЛIФТIВ ЗГ РАХ № 74 вiд 14.05.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLK5EO3AYTAE.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-14T14:11:00",
+    "amount": -4188.30,
+    "purposeOfPayment": "За сантех матерiали зг рах № 36 вiд 14.05.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "2153112428",
+    "counterpartyName": "Канiвець Т.I. ФОП",
+    "reference": "JBKLK5EO3AXETV.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-14T09:57:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK5EO3AUTKA.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-14T09:57:00",
+    "amount": -348.00,
+    "purposeOfPayment": "За КЕД послуги зг рах № СФ-Д68308/2018/ЦС вiд 13.05.2020р. У сумi 290.00 грн., ПДВ - 20 % 58.00 грн.",
+    "counterpartyTaxCode": "547660117",
+    "counterpartyName": "ТОВ \"БАЗИС\"",
+    "reference": "JBKLK5EO3AUTKA.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-12T18:58:00",
+    "amount": -25118.00,
+    "purposeOfPayment": "Ремонт зовнiшнього трубопроводу водовiдведення (пiд?їзд 11), згiдно рахунку №14 вiд  05 квiтня 2020 р. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK5CO3APABY.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-10T03:57:00",
+    "amount": -160.00,
+    "purposeOfPayment": "Оплата за товари та послуги 08.05.2020 15:51:46 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0510MIYVZ.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-05T11:54:00",
+    "amount": -396.06,
+    "purposeOfPayment": "За товар зг рах № 370813 вiд 05.05.2020р. Без ПДВ. Одержувач Варфоломей Сергiй Вiкторович",
+    "counterpartyTaxCode": "2679000203",
+    "counterpartyName": "ВОРОН Т. О., ПIДПРИЄМЕЦЬ",
+    "reference": "JBKLK55O39Y9IZ.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-05T03:02:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK54O39W41S.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-05T03:02:00",
+    "amount": -6419.28,
+    "purposeOfPayment": "Активна електроенергiя, в тому числi за розподiл електроенергiї, згiдно рахунку № 111/11868-00/4/1 вiд 23.04.2020 у сумi 5349.40 грн., ПДВ - 20 % 1069.88 грн.",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLK54O39W41S.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-04T16:23:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK54O39VLHG.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-04T16:23:00",
+    "amount": -297.78,
+    "purposeOfPayment": "За коробку термопластикову зг рах № 53 вiд 04.05.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "2736807837",
+    "counterpartyName": "ФОП ГАРКУША ЮРIЙ ОЛЕКСАНДРОВИЧ",
+    "reference": "JBKLK54O39VLHG.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-04T13:14:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK54O39TBRA.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-04T13:14:00",
+    "amount": -6450.00,
+    "purposeOfPayment": "За зчитувач, ключi зг рах № 48 вiд 04.05.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "3220013779",
+    "counterpartyName": "IВАНЕЦЬ МИХАЙЛО ВОЛОДИМИРОВИЧ ФОП",
+    "reference": "JBKLK54O39TBRA.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-04T11:35:00",
+    "amount": -100.00,
+    "purposeOfPayment": "Комiсiя за обслуговування рахунку за квiтень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00K0504BH6IJ.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-04T11:23:00",
+    "amount": -4668.00,
+    "purposeOfPayment": "За контролери зг рах № 005-255 вiд 04.05.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "3179121173",
+    "counterpartyName": "КОМIНОВ В.В. ФОП",
+    "reference": "JBKLK54O39RXVN.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-03T02:57:00",
+    "amount": -412.25,
+    "purposeOfPayment": "Оплата за товари та послуги 01.05.2020 15:04:15 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0503YC8GI.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-05-01T19:22:00",
+    "amount": -1580.00,
+    "purposeOfPayment": "Оплата за товари та послуги 01.05.2020 14:50:23 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK05018BDLR.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-30T00:00:00",
+    "amount": 37569.54,
+    "purposeOfPayment": "консолідований внесок власників за Квітень 2020 року",
+    "counterpartyTaxCode": "000000000",
+    "counterpartyName": "Власники",
+    "reference": "",
+    "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-04-29T17:08:00",
+    "amount": 6419.28,
+    "purposeOfPayment": "Пов.пом.спл.коштiв за ел. енергiю, платiж не вiдповiдає р/р, п/д 382 вiд 27.04.20, у т.ч. ПДВ((1542059))",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "HSKLK0429L407W.P",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-29T10:20:00",
+    "amount": -4200.00,
+    "purposeOfPayment": "Ремонт трубопроводу водовiдведення (кв. 275 ? 279) згiдно рахунку №12 вiд  29 квiтня 2020 р. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK4TO39DIAC.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-28T16:12:00",
+    "amount": -5465.97,
+    "purposeOfPayment": "За бух обслуговування зг рах № 87 вiд 30.04.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "42755018",
+    "counterpartyName": "К.У.Б ТОВ",
+    "reference": "JBKLK4SO39C9KT.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-27T12:56:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK4RO3962AV.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-27T12:56:00",
+    "amount": -6419.28,
+    "purposeOfPayment": "Активна електроенергiя. В тому числi за розподiл електроенергiї. Згiдно Рахунок No 111/11868-00/4/1 вiд 23.04.2020 У сумi 5349.40 грн., ПДВ - 20 % 1069.88 грн.",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLK4RO3962AV.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-24T11:28:00",
+    "amount": -5051.20,
+    "purposeOfPayment": "За замiну контакторiв та перемикачiв (5 пiд'Їзд) зг рах № 58 вiд 24.04.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLK4OO390OIA.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-23T12:19:00",
+    "amount": 1500.00,
+    "purposeOfPayment": "За послуги оренди 01-03.2020 зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 1 вiд 31.01.20, без ПДВ.",
+    "counterpartyTaxCode": "25543196",
+    "counterpartyName": "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+    "reference": "HSKLK0423L1AHG.P",
+    "category": "Сервітут",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-04-23T12:19:00",
+    "amount": 6500.00,
+    "purposeOfPayment": "за послуги оренди 12.2018-12.2019 зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 1 вiд 31.12.19, без ПДВ.",
+    "counterpartyTaxCode": "25543196",
+    "counterpartyName": "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+    "reference": "HSKLK0423L1AHF.P",
+    "category": "Сервітут",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-04-23T11:43:00",
+    "amount": 250.00,
+    "purposeOfPayment": "за надання рекламного мiсця в лiфтах житлових будинкiв за квiтень 2020 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ",
+    "counterpartyTaxCode": "31761988",
+    "counterpartyName": "СОЮЗ ТОВ",
+    "reference": "JBKLK4NO38WT0L.1",
+    "category": "Реклама",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-04-21T16:07:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK4LO38PT11.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-21T16:07:00",
+    "amount": -15827.86,
+    "purposeOfPayment": "Послуги з вивозу та захороненню ТПВ у сумi 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
+    "counterpartyTaxCode": "02128158",
+    "counterpartyName": "ТДВ, ДНIПРОКОМУНТРАНС",
+    "reference": "JBKLK4LO38PT11.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-16T10:23:00",
+    "amount": -1250.00,
+    "purposeOfPayment": "ЗА АВАРIЙНЕ ПРОЧИЩЕННЯ КАНАЛIЗАЦIЙНОГО СТОЯКУ ЗГ РАХ № РФ-132Д ВIД 16.04.2020Р. Без ПДВ.",
+    "counterpartyTaxCode": "2911411277",
+    "counterpartyName": "ГОНЧАРЕНКО Р.С. ФОП",
+    "reference": "JBKLK4GO388F4S.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-15T15:53:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK4FO386GZ4.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-13T16:07:00",
+    "amount": 1500.00,
+    "purposeOfPayment": "За розмiщення тех.засобiв телекомунiкацiй за 1 кв. 2020 зг.ДОГ 12G390-1052/19 вiд 22.05.19, РАХ 1 вiд 31.03.20, без ПДВ.",
+    "counterpartyTaxCode": "25543196",
+    "counterpartyName": "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+    "reference": "HSKLK0413L39C7.P",
+    "category": "Сервітут",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-04-13T13:06:00",
+    "amount": -2500.00,
+    "purposeOfPayment": "За докум супровiд у казначействi зг рах № 292 вiд 13.04.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "3303112681",
+    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "reference": "JBKLK4DO37TZX3.1",
+    "category": "Судові та юридичні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-10T04:07:00",
+    "amount": -482.60,
+    "purposeOfPayment": "Оплата за товари та послуги 08.04.2020 17:59:10 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0410SPQDE.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-09T10:37:00",
+    "amount": -1500.00,
+    "purposeOfPayment": "За матерiали для замiни дверного двигуна кабiни лiфта зг рах № 57 вiд 09.04.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLK49O37JHRI.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-09T03:27:00",
+    "amount": -900.00,
+    "purposeOfPayment": "Оплата за товари та послуги 08.04.2020 17:44:53 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0409ROLMW.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-06T11:01:00",
+    "amount": -2500.00,
+    "purposeOfPayment": "Информацiйно-консультацiйнi послуги iз проведення державної реєстрацiї змiн в установчих документах ОСББ згiдно рахунку №11 вiд 06 квiтня 2020 р. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK46O373AT0.1",
+    "category": "Судові та юридичні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-04-01T09:22:00",
+    "amount": -100.00,
+    "purposeOfPayment": "Комiсiя за обслуговування рахунку за березень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00K0401BII59.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-31T00:00:00",
+    "amount": 29611.95,
+    "purposeOfPayment": "консолідований внесок власників за Березень 2020 року",
+    "counterpartyTaxCode": "000000000",
+    "counterpartyName": "Власники",
+    "reference": "",
+    "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-03-30T10:20:00",
+    "amount": -3312.08,
+    "purposeOfPayment": "За замiну стояка ХВП i каналiзацiї у пiд № 9 зг рах № 283 вiд 30.03.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "3303112681",
+    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "reference": "JBKLK3UO36BT7P.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-26T17:08:00",
+    "amount": 1500.00,
+    "purposeOfPayment": "Доступ до iнфраструктури будинку зг уг КДН-ЗШ80  без ПДВ",
+    "counterpartyTaxCode": "38736443",
+    "counterpartyName": "ТОВ \"КДН\"",
+    "reference": "HSKLK0326L3GAU.P",
+    "category": "Сервітут",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-03-25T03:02:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK3OO35Z9PA.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-25T03:02:00",
+    "amount": -6111.84,
+    "purposeOfPayment": "Активна електроенергiя, в тому числi за розподiл електроенергii?, згiдно рахунку №111/11868-00/3/1 вiд 23.03.2020, у сумi 5093.20 грн., ПДВ - 20 % 1018.64 грн.",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLK3OO35Z9PA.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-24T21:13:00",
+    "amount": -1250.00,
+    "purposeOfPayment": "Аварiйне прочищення кухонного стояку 5-го пiд'їзду, згiдно рахунку №РФ-112Д вiд 24 березня 2020 р. Без ПДВ.",
+    "counterpartyTaxCode": "2911411277",
+    "counterpartyName": "ГОНЧАРЕНКО Р.С. ФОП",
+    "reference": "JBKLK3OO35Z9QG.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-20T14:39:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK3KO35OAYZ.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-20T14:39:00",
+    "amount": -952.78,
+    "purposeOfPayment": "Електротовари згiдно рахунку № 42 вiд 18 березня 2020. Без ПДВ.",
+    "counterpartyTaxCode": "2736807837",
+    "counterpartyName": "ФОП ГАРКУША ЮРIЙ ОЛЕКСАНДРОВИЧ",
+    "reference": "JBKLK3KO35OAYZ.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-19T14:00:00",
+    "amount": -5465.97,
+    "purposeOfPayment": "Ведення бух. та податкового облiку за березень 2020р. згiдно рах. №57 вiд 19.03.2020 Без ПДВ.",
+    "counterpartyTaxCode": "42755018",
+    "counterpartyName": "К.У.Б ТОВ",
+    "reference": "JBKLK3JO35GGRD.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-13T03:28:00",
+    "amount": -1440.18,
+    "purposeOfPayment": "Оплата за товари та послуги 11.03.2020 18:55:05 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0313Y73A5.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-12T04:26:00",
+    "amount": -456.32,
+    "purposeOfPayment": "Оплата за товари та послуги 10.03.2020 20:44:01 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0312F6ETZ.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-12T03:50:00",
+    "amount": -2.00,
+    "purposeOfPayment": "Оплата за товари та послуги 10.03.2020 20:46:00 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0312F6BEX.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-11T13:18:00",
+    "amount": -2500.00,
+    "purposeOfPayment": "За докум супровiд у казначействi зг рах № 178 вiд 11.02.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "3303112681",
+    "counterpartyName": "Забiрна К.Ю. ФОП",
+    "reference": "JBKLK3BO34CO4X.1",
+    "category": "Судові та юридичні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-04T08:18:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK34O33FJFH.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-02T14:18:00",
+    "amount": -5465.97,
+    "purposeOfPayment": "ЗА БУХ ОБСЛУГОВУВАННЯ ЗГ РАХ N 31 ВIД 29.02.2020Р. БЕЗ ПДВ",
+    "counterpartyTaxCode": "42755018",
+    "counterpartyName": "К.У.Б ТОВ",
+    "reference": "JBKLK32O336WIR.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-02T12:34:00",
+    "amount": -19470.00,
+    "purposeOfPayment": "Виготовлення та монтаж металевої дверi для вхiдної групи 10-го пiд'їзду згiдно рахунку №8 вiд 01.03.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK32O335MXF.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-02T12:31:00",
+    "amount": -180.00,
+    "purposeOfPayment": "Замiна плат освiтлення п.11-э.6, п.12-э.2, п.8-э.6 згiдно рахунку №7 вiд 01.03.2020р. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK32O335LKY.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-02T11:36:00",
+    "amount": -100.00,
+    "purposeOfPayment": "Комiсiя за обслуговування рахунку за лютий  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00K0302BSL4T.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-03-01T02:56:00",
+    "amount": -57.96,
+    "purposeOfPayment": "Оплата за товари та послуги 28.02.2020 18:48:02 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0301FUNGU.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-29T00:00:00",
+    "amount": 41836.40,
+    "purposeOfPayment": "консолідований внесок власників за Лютий 2020 року",
+    "counterpartyTaxCode": "000000000",
+    "counterpartyName": "Власники",
+    "reference": "",
+    "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-02-24T17:15:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK2OO32DY6L.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-24T17:15:00",
+    "amount": -13.58,
+    "purposeOfPayment": "Комiсiя за викон. платежу 364 вiд 24.02.2020, 6788.88 в нац. валютi в пiсляоперацiйний час, згiдно з вiдкритою офертою банку № б/н вiд 23.05.2016 без ПДВ",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK2OO32DY6L.X",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-24T17:15:00",
+    "amount": -6788.88,
+    "purposeOfPayment": "Активна електроенергiя, в т.ч. за розподiл електроенергii?, згiдно рахунку №111/11868-00/2/1 вiд 23.02.2020 р. у сумi 5657.40 грн., ПДВ - 20 % 1131.48 грн.",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLK2OO32DY6L.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-19T19:01:00",
+    "amount": -790.00,
+    "purposeOfPayment": "Платiж за виконання робiт з розробки документацiї ?для участi у мiськiй Програмi \"Бюджет участi\", згiдно рахунку №3 вiд 19.02.2020. Без ПДВ.",
+    "counterpartyTaxCode": "3080416646",
+    "counterpartyName": "КРАСНIКОВА М.С. ФОП",
+    "reference": "JBKLK2JO31UGQD.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-14T17:12:00",
+    "amount": -360.00,
+    "purposeOfPayment": "Замiна плат освiтлення п.12-э.7. Поточний ремонт системи ЦО (елеватор, пiд?їзд 2). Згiдно рахунку №6 вiд 14.02.2020. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK2EO318SX3.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-14T17:10:00",
+    "amount": -2450.00,
+    "purposeOfPayment": "Информацiйно-консультацiйнi послуги з пiдготовки та проведення Загальних зборiв, згiдно рахунку №5 вiд 14.02.2020. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK2EO318SNR.1",
+    "category": "Загальні збори власників",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-10T11:12:00",
+    "amount": -1315.40,
+    "purposeOfPayment": "Поточний ремонт системи ЦО у кв. 148, згiдно рахунку №2 вiд 10.02.2020 р. Без ПДВ.",
+    "counterpartyTaxCode": "3080416646",
+    "counterpartyName": "КРАСНIКОВА М.С. ФОП",
+    "reference": "JBKLK2AO30H183.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-07T17:28:00",
+    "amount": -4118.00,
+    "purposeOfPayment": "Замiна трубопроводiв ХВП та ЦО (кв. 167), згiдно рахунку №4 вiд 07.02.2020 року. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK27O30EU8Z.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-07T03:59:00",
+    "amount": -53.12,
+    "purposeOfPayment": "Оплата за товари та послуги 05.02.2020 08:57:04 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK02076F4DC.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-05T16:58:00",
+    "amount": -236.00,
+    "purposeOfPayment": "Оплата за товари та послуги 05.02.2020 11:45:10 по картцi 5169330513886512",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "COIIK0205GDWZZ.1",
+    "category": "Дрібні витрати",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-05T14:49:00",
+    "amount": -1176.00,
+    "purposeOfPayment": "Ремонт трубопроводу ХВС (кв. 271 ? 275), згiдно рахунку №3 вiд 05.02.202 р. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK25O2ZZA0Z.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-03T09:25:00",
+    "amount": -100.00,
+    "purposeOfPayment": "Комiсiя за обслуговування рахунку за сiчень  2020 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00K0203BS1JV.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-02-02T17:39:00",
+    "amount": -1975.00,
+    "purposeOfPayment": "Послуги згiдно рахунку №2 вiд 31.01.2020. Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK22O2ZID9H.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-31T13:53:00",
+    "amount": -534.36,
+    "purposeOfPayment": "ЗА БУХ ОБСЛУГОВУВАННЯ ДОПЛАТА ЗГ РАХ N 7 ВIД 31.01.2020Р. БЕЗ ПДВ",
+    "counterpartyTaxCode": "42755018",
+    "counterpartyName": "К.У.Б ТОВ",
+    "reference": "JBKLK1VO2ZEPNZ.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-31T11:43:00",
+    "amount": -4931.61,
+    "purposeOfPayment": "ЗА БУХ ОБСЛУГОВУВАННЯ ЗГ РАХ N 7 ВIД 31.01.2020Р. БЕЗ ПДВ",
+    "counterpartyTaxCode": "42755018",
+    "counterpartyName": "К.У.Б ТОВ",
+    "reference": "JBKLK1VO2ZCOKH.1",
+    "category": "Бухгалтер",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-31T00:00:00",
+    "amount": 33631.64,
+    "purposeOfPayment": "консолідований внесок власників за Січень 2020 року",
+    "counterpartyTaxCode": "000000000",
+    "counterpartyName": "Власники",
+    "reference": "",
+    "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-01-27T20:30:00",
+    "amount": -7883.00,
+    "purposeOfPayment": "Виготовлення та монтаж металевих конструкцiй для вхiдної групи 7-го пiд'їзду Без ПДВ.",
+    "counterpartyTaxCode": "2021300251",
+    "counterpartyName": "СIЗОВ В.Д. ФОП",
+    "reference": "JBKLK1RO2YULW9.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-24T12:07:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK1OO2YM0ZC.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-24T12:07:00",
+    "amount": -6790.56,
+    "purposeOfPayment": "Активна електроенергiя (в т.ч. за розподiл електроенергii?), згiдно рахунку No 111/11868-00/1/1 вiд 23.01.2020 р. У сумi 5658.80 грн., ПДВ - 20 % 1131.76 грн.",
+    "counterpartyTaxCode": "42082379",
+    "counterpartyName": "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+    "reference": "JBKLK1OO2YM0ZC.1",
+    "category": "Послуги (мусор, е/e, прибирання)",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-21T16:29:00",
+    "amount": -1250.00,
+    "purposeOfPayment": "Аварiйне прочищення каналiзацiйного стояку мiж 7-м та 8-м поверхами 2-го пiд'їзду. Рахунок-фактура №РФ-017Д вiд 21.01.2020 р. Без ПДВ.",
+    "counterpartyTaxCode": "2911411277",
+    "counterpartyName": "ГОНЧАРЕНКО Р.С. ФОП",
+    "reference": "JBKLK1LO2Y8V2X.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-20T09:47:00",
+    "amount": 750.00,
+    "purposeOfPayment": "за надання рекламного мiсця в лiфтах житлових будинкiв за 1-й квартал 2020 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ",
+    "counterpartyTaxCode": "31761988",
+    "counterpartyName": "СОЮЗ ТОВ",
+    "reference": "JBKLK1KO2XWPLQ.1",
+    "category": "Реклама",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2020-01-13T20:14:00",
+    "amount": -1386.00,
+    "purposeOfPayment": "Замок електромагнiтний TML-500 LED, згiдно рахунку № 001-1544 вiд 11.01.2020. Без ПДВ.",
+    "counterpartyTaxCode": "3179121173",
+    "counterpartyName": "КОМIНОВ В.В. ФОП",
+    "reference": "JBKLK1DO2X29VK.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-08T16:32:00",
+    "amount": -7600.00,
+    "purposeOfPayment": "Дублiкатор ключiв TMD-5S. MF Zero. T5577. Згiдно рах. № СФ-0000002 вiд 08.01.2020. Без ПДВ.",
+    "counterpartyTaxCode": "3220013779",
+    "counterpartyName": "IВАНЕЦЬ МИХАЙЛО ВОЛОДИМИРОВИЧ ФОП",
+    "reference": "JBKLK18O2WHU4S.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-08T15:02:00",
+    "amount": -1775.00,
+    "purposeOfPayment": "Контроллер доступу DH-ASI1201E, згiдно рах. №001-343 вiд 08.01.2020. Без ПДВ.",
+    "counterpartyTaxCode": "3179121173",
+    "counterpartyName": "КОМIНОВ В.В. ФОП",
+    "reference": "JBKLK18O2WGER2.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-08T10:28:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK18O2WCO7G.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-08T10:28:00",
+    "amount": -1644.00,
+    "purposeOfPayment": "Доводчик King NSK-630. Без ПДВ.",
+    "counterpartyTaxCode": "2833815096",
+    "counterpartyName": "ФОП ДЕНИСЕНКО АНДРIЙ ВIКТОРОВИЧ",
+    "reference": "JBKLK18O2WCO7G.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-08T10:25:00",
+    "amount": -1800.00,
+    "purposeOfPayment": "Контролер RC-4000 V2, згiдно рах. №1 вiд 08.01.2020. Без ПДВ.",
+    "counterpartyTaxCode": "39752808",
+    "counterpartyName": "ГЕОС ЕЛЕКТРОНIКС ТОВ",
+    "reference": "JBKLK18O2WCN39.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-08T00:16:00",
+    "amount": -1580.00,
+    "purposeOfPayment": "Аварiйний ремонт електричних мереж. Замiна модулiв освiтлення. Згiдно рах. №1 вiд 03.01.2020. Без ПДВ.",
+    "counterpartyTaxCode": "3080416646",
+    "counterpartyName": "КРАСНIКОВА М.С. ФОП",
+    "reference": "JBKLK17O2WBV10.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-08T00:01:00",
+    "amount": -3.00,
+    "purposeOfPayment": "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 23.05.2016 та тарифiв банку, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "JBKLK17O2WBRE9.Y",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-08T00:01:00",
+    "amount": -1449.00,
+    "purposeOfPayment": "UT213C струмовi клiщi. Без ПДВ.",
+    "counterpartyTaxCode": "2277316216",
+    "counterpartyName": "ФОП ЯКОВЛЄВ В.А.",
+    "reference": "JBKLK17O2WBRE9.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-07T17:18:00",
+    "amount": -5657.00,
+    "purposeOfPayment": "Аварiйний ремонт електричних мереж. Замiна модулiв освiтлення. Без ПДВ.",
+    "counterpartyTaxCode": "3080416646",
+    "counterpartyName": "КРАСНIКОВА М.С. ФОП",
+    "reference": "JBKLK17O2WBT7L.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-03T17:47:00",
+    "amount": -5040.00,
+    "purposeOfPayment": "За електротовари зг рах N СФ-0000001 вiд 03.01.2019р. Без ПДВ",
+    "counterpartyTaxCode": "3220013779",
+    "counterpartyName": "IВАНЕЦЬ МИХАЙЛО ВОЛОДИМИРОВИЧ ФОП",
+    "reference": "JBKLK13O2W9KGZ.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-03T10:37:00",
+    "amount": -100.00,
+    "purposeOfPayment": "Комiсiя за обслуговування рахунку за грудень  2019 р. згiдно договору банкiвського рахунку вiд 23.05.2016, без ПДВ.",
+    "counterpartyTaxCode": "14360570",
+    "counterpartyName": "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+    "reference": "TZ00K0103B3NI5.1",
+    "category": "Банківськи комісії",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2020-01-03T00:01:00",
+    "amount": -4013.00,
+    "purposeOfPayment": "Оплата за вiдеореєстратор тв вiд. камеру згiдно рах. N912-4982 вiд 02.01.2020 Без ПДВ",
+    "counterpartyTaxCode": "3131821658",
+    "counterpartyName": "ПТАШКIН С.В. ФОП",
+    "reference": "JBKLK12O2W1PK1.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
   }
 ]
