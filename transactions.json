@@ -1,12 +1,22 @@
 [
   {
     "dateTime": "2023-10-31T00:00:00",
-    "amount": 57801.86,
+    "amount": 66510.96,
     "purposeOfPayment": "консолідований внесок власників за Жовтень 2023 року",
     "counterpartyTaxCode": "000000000",
     "counterpartyName": "Власники",
     "reference": "",
     "category": "Внески",
+    "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-10-16T16:15:00",
+    "amount": 1500.00,
+    "purposeOfPayment": "Оплата про участь у витратах на утримання і ремонт будинку зг дог 307603 від 01.01.2017р. за 4 квартал 2023р. Без ПДВ",
+    "counterpartyTaxCode": "21673832",
+    "counterpartyName": "ПрАТ \"Київстар\"",
+    "reference": "HS43N1016L1LQ8.P",
+    "category": "Сервітут",
     "kind": "дохід"
   },
   {
