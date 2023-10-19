@@ -1,13 +1,53 @@
 [
   {
     "dateTime": "2023-10-31T00:00:00",
-    "amount": 70912.54,
+    "amount": 85585.82,
     "purposeOfPayment": "консолідований внесок власників за Жовтень 2023 року",
     "counterpartyTaxCode": "000000000",
     "counterpartyName": "Власники",
     "reference": "",
     "category": "Внески",
     "kind": "дохід"
+  },
+  {
+    "dateTime": "2023-10-17T16:34:00",
+    "amount": -17350.00,
+    "purposeOfPayment": "Сплата за монтаж кранів на системі ХВП (з урахуванням матеріалів) згідно акту №583 від 15.09.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLNAHO85CQV2.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-17T16:34:00",
+    "amount": 16189.00,
+    "purposeOfPayment": "ПОВЕРНЕННЯ ПОМИЛКОВО ОТРИМАНИХ КОШТІВ ЗГІДНО ПЛАТІЖНОГО ДОРУЧЕННЯ №2595016267 ВІД 17.10.2023Р.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLNAHO85CQJE.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-17T16:31:00",
+    "amount": -10072.46,
+    "purposeOfPayment": "ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА ВЕРЕСЕНЬ 2023Р., Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLNAHO85CPAU.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
+  },
+  {
+    "dateTime": "2023-10-17T16:31:00",
+    "amount": -16189.00,
+    "purposeOfPayment": "Сплата за поточний ремонт ліфта 2-го під'їзду (з урахуванням матеріалів) згідно акту №575 від 08.09.2023р. Без ПДВ.",
+    "counterpartyTaxCode": "40485878",
+    "counterpartyName": "КК СПУТНИК ТОВ",
+    "reference": "JBKLNAHO85CPAL.1",
+    "category": "Поточний ремонт та інше",
+    "kind": "витрати"
   },
   {
     "dateTime": "2023-10-16T16:07:00",
