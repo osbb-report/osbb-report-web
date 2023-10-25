@@ -1,12 +1,30 @@
 [ {
   "dateTime" : "2023-10-31T00:00:00",
-  "amount" : 108329.85,
+  "amount" : 110946.66,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2023-10-25T12:39:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLNAPO86QURF.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-10-25T12:39:00",
+  "amount" : -194.00,
+  "purposeOfPayment" : "Перевитрати згідно авансового звіту №82 від 25.10.2023р. Без ПДВ.",
+  "counterpartyTaxCode" : "2774815598",
+  "counterpartyName" : "БЄКОЄВ СОСЛАН ЕНРІКОВИЧ",
+  "reference" : "JBKLNAPO86QURF.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-23T16:57:00",
   "amount" : -6730.08,
