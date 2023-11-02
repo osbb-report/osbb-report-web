@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2023-11-30T00:00:00",
-  "amount" : 1778.40,
+  "amount" : 5968.79,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2023-11-02T17:11:00",
+  "amount" : 1100.00,
+  "purposeOfPayment" : "Внески на утриман.об'єкта-10/2023, згідно договору №43226 від 01.08.2023, без ПДВ.",
+  "counterpartyTaxCode" : "19199961",
+  "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+  "reference" : "HS41N1102L1PCY.P",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-11-01T07:09:00",
