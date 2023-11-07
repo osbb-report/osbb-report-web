@@ -1,12 +1,21 @@
 [ {
   "dateTime" : "2023-11-30T00:00:00",
-  "amount" : 21119.22,
+  "amount" : 23638.59,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2023-11-07T15:46:00",
+  "amount" : -251.71,
+  "purposeOfPayment" : "Сплата за монтаж автомату 63А (матеріал) згідно акту №770 від 07.11.2023р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLNB7O896G3K.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-06T15:06:00",
   "amount" : -13200.00,
