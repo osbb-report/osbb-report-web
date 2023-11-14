@@ -1,12 +1,30 @@
 [ {
   "dateTime" : "2023-11-30T00:00:00",
-  "amount" : 58854.05,
+  "amount" : 63817.74,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2023-11-14T14:11:00",
+  "amount" : -9720.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта 16-го під'їзду згідно акту №778 від 13.11.2023р.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLNBEO8AC14X.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-11-14T14:11:00",
+  "amount" : -11002.00,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №204 від 14.11.2023р.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLNBEO8AC14U.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-11T21:55:00",
   "amount" : 5000.00,
