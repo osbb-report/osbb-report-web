@@ -1,12 +1,48 @@
 [ {
   "dateTime" : "2023-11-30T00:00:00",
-  "amount" : 71589.41,
+  "amount" : 79335.56,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2023-11-16T14:15:00",
+  "amount" : -13200.00,
+  "purposeOfPayment" : "ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА ЛИСТОПАД 2023Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLNBGO8AW6K3.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-11-16T14:15:00",
+  "amount" : -10072.46,
+  "purposeOfPayment" : "ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА ЛИСТОПАД 2023Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLNBGO8AW6JY.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-11-16T14:15:00",
+  "amount" : -6730.08,
+  "purposeOfPayment" : "БУХГАЛТЕРСЬКЕ ОБСЛУГОВУВАННЯ ЗА ЛИСТОПАД 2023Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "2134101089",
+  "counterpartyName" : "ЗАБІРНА О.В. ФОП",
+  "reference" : "JBKLNBGO8AW6JX.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-11-16T14:14:00",
+  "amount" : 2880.00,
+  "purposeOfPayment" : "ПОВЕРНЕННЯ НАДЛИШКОВО ОТРИМАНИХ КОШТІВ, ЗГІДНО ПЛАТІЖНОГО ДОРУЧЕННЯ № 2595016281 ВІД 14.11.2023 РОКУ",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLNBGO8AVOHR.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-14T14:11:00",
   "amount" : -9720.00,
