@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2023-11-30T00:00:00",
-  "amount" : 91881.73,
+  "amount" : 98326.51,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2023-11-21T14:20:00",
+  "amount" : 550.00,
+  "purposeOfPayment" : "за користування спiльним майном за 2023 рiк згiдно дог. N 259/осбб вiд 17.09.2019 року, Без ПДВ.",
+  "counterpartyTaxCode" : "31761988",
+  "counterpartyName" : "СОЮЗ ТОВ",
+  "reference" : "JBKLNBLO8BRM1Q.1",
+  "category" : "Реклама",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-11-16T14:15:00",
