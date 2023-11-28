@@ -1,12 +1,30 @@
 [ {
   "dateTime" : "2023-11-30T00:00:00",
-  "amount" : 95632.65,
+  "amount" : 103718.70,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2023-11-28T12:54:00",
+  "amount" : 3000.00,
+  "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021    за 3-Й КВАРТАЛ 2023 БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "23023044",
+  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "reference" : "JBKLNBSO8CW9FN.1",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2023-11-27T14:18:00",
+  "amount" : -2500.00,
+  "purposeOfPayment" : "Сплата за прочищення кухонного стояку згідно рахунку №РФ-394Д від 27.11.2023р.",
+  "counterpartyTaxCode" : "2911411277",
+  "counterpartyName" : "ГОНЧАРЕНКО Р.С. ФОП",
+  "reference" : "JBKLNBRO8CPQ9N.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-24T14:53:00",
   "amount" : 1500.00,
