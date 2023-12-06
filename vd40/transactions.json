@@ -1,12 +1,30 @@
 [ {
   "dateTime" : "2023-12-31T00:00:00",
-  "amount" : 5396.73,
+  "amount" : 6676.73,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2023-12-05T18:06:00",
+  "amount" : 1100.00,
+  "purposeOfPayment" : "Внески на утриман.об'єкта-11/2023, згідно договору №43226 від 01.08.2023, без ПДВ.",
+  "counterpartyTaxCode" : "19199961",
+  "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+  "reference" : "HS41N1205L25QK.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2023-12-05T17:02:00",
+  "amount" : -19857.16,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00000352 ВІД 04.12.2023Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLNC5O8EERWT.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-01T07:53:00",
   "amount" : -350.00,
