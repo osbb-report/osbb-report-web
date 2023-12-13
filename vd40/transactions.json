@@ -1,12 +1,93 @@
 [ {
   "dateTime" : "2023-12-31T00:00:00",
-  "amount" : 18592.54,
+  "amount" : 54096.29,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2023-12-14T15:09:00",
+  "amount" : -6558.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт системи ХВП в 12-му під'їзді згідно рахунку №231214 від 14.12.2023р.",
+  "counterpartyTaxCode" : "2916208279",
+  "counterpartyName" : "МАЛИШЕВ О.Я. ФОП",
+  "reference" : "JBKLNCEO8G2UA5.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-12-13T13:45:00",
+  "amount" : -1000.00,
+  "purposeOfPayment" : "Доставка кутника стального 100х100х7 2 пог.м. для елеватору 2-го під'їзду. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLNCDO8FTRZI.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-12-13T13:45:00",
+  "amount" : -13200.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА ГРУДЕНЬ 2023Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLNCDO8FTRWG.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-12-13T13:45:00",
+  "amount" : -6730.08,
+  "purposeOfPayment" : "СПЛАТА ЗА БУХГАЛТЕРСЬКЕ ОБСЛУГОВУВАННЯ ЗА ГРУДЕНЬ 2023Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "2134101089",
+  "counterpartyName" : "ЗАБІРНА О.В. ФОП",
+  "reference" : "JBKLNCDO8FTRWB.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-12-13T13:45:00",
+  "amount" : -10072.46,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА ГРУДЕНЬ 2023Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLNCDO8FTRW7.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-12-11T14:48:00",
+  "amount" : 7964.52,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за квітень- листопад 2023 Згідно договору № 32/118 від 19.10.2021Сума 7964,52 грн ПДВ (без ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS41N1211L17EL.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2023-12-11T10:22:00",
+  "amount" : 5000.00,
+  "purposeOfPayment" : "Сплата за оренду приміщення згідно Договору №2 від 01.05.2023р., без ПДВ",
+  "counterpartyTaxCode" : "2865114799",
+  "counterpartyName" : "МИРОШНИЧЕНКО С. М. ФОП",
+  "reference" : "JBKLNCBO8FB0ZB.1",
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2023-12-11T09:44:00",
+  "amount" : -12070.00,
+  "purposeOfPayment" : "Сплата за переробку рамки системи ЦО у підвалі 1-го та 2-го під'їздів. Запуск системи ЦО згідно акту №871 від 08.12.2023р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLNCBO8FAKQA.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-12-11T09:43:00",
+  "amount" : -2200.00,
+  "purposeOfPayment" : "Прибирання місць загального користування в 2-му підїзді. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLNCBO8FAKKX.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-06T15:26:00",
   "amount" : -3.00,
@@ -279,7 +360,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-31T00:00:00",
-  "amount" : 124787.97,
+  "amount" : 125530.75,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
