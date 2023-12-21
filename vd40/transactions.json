@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2023-12-31T00:00:00",
-  "amount" : 80715.87,
+  "amount" : 91297.35,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2023-12-20T15:41:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за грудень 2023 Згідно договору № 32/118 від 19.10.2021 Сума 1000,00 грн ПДВ (звільнення від ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS42N1220L1UPA.P",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-12-18T17:45:00",
