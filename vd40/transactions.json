@@ -1,12 +1,21 @@
 [ {
   "dateTime" : "2023-12-31T00:00:00",
-  "amount" : 102751.22,
+  "amount" : 108595.22,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2023-12-24T13:31:00",
+  "amount" : -20215.00,
+  "purposeOfPayment" : "Прибирання місць загального користування. Адміністративні послуги. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLNCOO8HZ9BB.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-20T15:41:00",
   "amount" : 1000.00,
