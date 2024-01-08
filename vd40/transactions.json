@@ -1,12 +1,30 @@
 [ {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 11037.26,
+  "amount" : 14757.53,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-08T10:09:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO18O8KC02W.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-08T10:09:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO18O8KC02W.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-03T13:09:00",
   "amount" : -7040.00,
