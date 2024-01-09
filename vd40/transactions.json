@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 14757.53,
+  "amount" : 20382.72,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-09T13:28:00",
+  "amount" : 5000.00,
+  "purposeOfPayment" : "Сплата за оренду приміщення згідно Договору №2 від 01.05.2023р., без ПДВ",
+  "counterpartyTaxCode" : "2865114799",
+  "counterpartyName" : "МИРОШНИЧЕНКО С. М. ФОП",
+  "reference" : "JBKLO19O8KMLPD.1",
+  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-01-08T10:09:00",

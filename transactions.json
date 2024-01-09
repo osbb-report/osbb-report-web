@@ -1,12 +1,39 @@
 [ {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 26530.40,
+  "amount" : 30117.40,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-09T11:28:00",
+  "amount" : -6194.46,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського обліку за січень 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLO19O8KKYVF.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-09T11:28:00",
+  "amount" : -10500.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування житлового будинку за січень 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLO19O8KKYVE.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-09T11:28:00",
+  "amount" : -12500.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА СІЧЕНЬ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO19O8KKYV9.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-08T09:55:00",
   "amount" : -3.00,
