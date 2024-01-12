@@ -1,12 +1,156 @@
 [ {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 29413.12,
+  "amount" : 37786.55,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO1BO8L0QMQ.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO1BO8L0QMQ.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO1BO8L0QMM.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO1BO8L0QMM.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO1BO8L0QML.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO1BO8L0QML.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO1BO8L0QMH.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO1BO8L0QMH.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO1BO8L0QMA.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO1BO8L0QMA.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO1BO8L0QM5.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO1BO8L0QM5.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO1BO8L0QM3.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO1BO8L0QM3.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO1BO8L0QM1.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-11T13:02:00",
+  "amount" : -80.00,
+  "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO1BO8L0QM1.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-09T13:28:00",
   "amount" : 5000.00,
