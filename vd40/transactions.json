@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 68351.09,
+  "amount" : 72494.94,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-17T17:02:00",
+  "amount" : 4400.00,
+  "purposeOfPayment" : "доступ за вересень.4кв-л 2023р Договор №795 від 01.09.2023 Сума 4400,00 грн без ПДВ",
+  "counterpartyTaxCode" : "33103969",
+  "counterpartyName" : "ТОВ \"Телесвіт\"",
+  "reference" : "HS43O0117L1HWQ.P",
+  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-01-16T10:44:00",
