@@ -1,12 +1,39 @@
 [ {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 88986.76,
+  "amount" : 92376.10,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-22T13:54:00",
+  "amount" : 550.00,
+  "purposeOfPayment" : "за користування спiльним майном за грудень 2023 року та сiчень 2024 року згiдно дог. N 259/осбб вiд 17.09.2019 року, Без ПДВ.",
+  "counterpartyTaxCode" : "31761988",
+  "counterpartyName" : "СОЮЗ ТОВ",
+  "reference" : "JBKLO1MO8MYJW3.1",
+  "category" : "Реклама",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-22T09:31:00",
+  "amount" : -1025.55,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00000087 ВІД 15.01.2024Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLO1MO8MTUDY.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-01-22T09:31:00",
+  "amount" : -1000.00,
+  "purposeOfPayment" : "Сплата за заміну ділянки ливневої каналізації у 12-му під'їзді згідно акту №22 від 19.01.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO1MO8MTUDO.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-19T14:28:00",
   "amount" : 1000.00,

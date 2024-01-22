@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 83666.69,
+  "amount" : 90590.84,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-22T15:25:00",
+  "amount" : 500.00,
+  "purposeOfPayment" : "за користування спiльним майном за грудень 2023 року та сiчень 2024 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ.",
+  "counterpartyTaxCode" : "31761988",
+  "counterpartyName" : "СОЮЗ ТОВ",
+  "reference" : "JBKLO1MO8N0A96.1",
+  "category" : "Реклама",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-01-18T15:31:00",
