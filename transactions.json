@@ -1,12 +1,21 @@
 [ {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 91257.84,
+  "amount" : 92467.84,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-01-24T09:13:00",
+  "amount" : -6000.00,
+  "purposeOfPayment" : "Часткова сплата за надання послуг за договором №16/01/24 від 16.01.2024р. (Ремонт покрівлі) згідно рахунку №05 від 16.01.2024р.",
+  "counterpartyTaxCode" : "3542412496",
+  "counterpartyName" : "СКОРОХОД А.О. ФОП",
+  "reference" : "JBKLO1OO8NBM1R.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-22T15:25:00",
   "amount" : 500.00,
