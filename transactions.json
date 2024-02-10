@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2024-02-29T00:00:00",
-  "amount" : 15095.00,
+  "amount" : 23373.45,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-02-08T17:45:00",
+  "amount" : 500.00,
+  "purposeOfPayment" : "Послуги сервітуту 01/2024 зг.рах. № 11 від 31.01.2024 Без ПДВ",
+  "counterpartyTaxCode" : "19199961",
+  "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+  "reference" : "HS41O0208L1Y44.P",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-02-03T04:46:00",
