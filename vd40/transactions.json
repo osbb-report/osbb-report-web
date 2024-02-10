@@ -1,12 +1,30 @@
 [ {
   "dateTime" : "2024-02-29T00:00:00",
-  "amount" : 18945.39,
+  "amount" : 32305.97,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-02-06T13:27:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO26O8PP16B.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-02-06T13:27:00",
+  "amount" : -2002.80,
+  "purposeOfPayment" : "LED лампи G45 5.0W 220В E27 4100К та A60 10.0W 220В E27 4100К. 100 штук. Рахунок на оплату №469 вiд 06 лютого 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2864303735",
+  "counterpartyName" : "БАБКОВ РУСЛАН ІВАНОВИЧ",
+  "reference" : "JBKLO26O8PP16B.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-01T15:40:00",
   "amount" : 1100.00,
