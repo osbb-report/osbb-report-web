@@ -1,12 +1,21 @@
 [ {
   "dateTime" : "2024-02-29T00:00:00",
-  "amount" : 66336.70,
+  "amount" : 72641.16,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-02-16T13:10:00",
+  "amount" : -8200.00,
+  "purposeOfPayment" : "Виготовлення та монтаж внутрішніх і зовнішніх перил та пандусу в п.2. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLO2GO8RQ3OO.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-15T16:23:00",
   "amount" : -3.00,
