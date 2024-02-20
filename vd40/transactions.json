@@ -1,12 +1,57 @@
 [ {
   "dateTime" : "2024-02-29T00:00:00",
-  "amount" : 78281.38,
+  "amount" : 86692.52,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-02-20T16:50:00",
+  "amount" : -10576.08,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА ЛЮТИЙ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO2KO8SH0HC.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-02-20T16:50:00",
+  "amount" : -13750.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА ЛЮТИЙ 2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO2KO8SH0H9.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-02-20T16:50:00",
+  "amount" : -7066.58,
+  "purposeOfPayment" : "СПЛАТА ЗА БУХГАЛТЕРСЬКЕ ОБСЛУГОВУВАННЯ ЗА ЛЮТИЙ 2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "2134101089",
+  "counterpartyName" : "ЗАБІРНА О.В. ФОП",
+  "reference" : "JBKLO2KO8SH0H2.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-02-20T13:43:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за лютий 2024р.Згідно договору № 32/118 від 19.10.2021 Сума 1000,00 грн ПДВ (звільнення від ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS41O0220L17CC.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-02-19T16:12:00",
+  "amount" : -6600.00,
+  "purposeOfPayment" : "Сплата за заміну ділянки стояка ХВП та заміну ділянки стояка каналізації у 12-му під'їзді згідно акту №131 від 19.02.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO2JO8S6773.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-16T13:10:00",
   "amount" : -8200.00,
