@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : 19317.23,
+  "amount" : 26474.33,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-03-09T06:11:00",
+  "amount" : 1528.50,
+  "purposeOfPayment" : "О/р 248",
+  "counterpartyTaxCode" : "3219319034",
+  "counterpartyName" : "Кравець Ігор Миколайович",
+  "reference" : "HS43O0309L00ZJ.P",
+  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-03-08T15:09:00",
