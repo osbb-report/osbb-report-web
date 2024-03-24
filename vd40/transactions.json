@@ -1,12 +1,102 @@
 [ {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : 102181.95,
+  "amount" : 108762.75,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-03-22T13:19:00",
+  "amount" : -855.00,
+  "purposeOfPayment" : "Прибирання місць загального користування в під'їзді 2 в березні. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLO3MO8YJPBH.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T13:19:00",
+  "amount" : -9575.00,
+  "purposeOfPayment" : "Прибирання місць загального користування в під'їздах 1,3,8,9,10,11,12,15,16,17 в березні. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLO3MO8YJPB8.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T13:19:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO3MO8YJPB6.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T13:19:00",
+  "amount" : -14850.00,
+  "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно рахунку №3664-24/05225 від 15.03.2024 р. У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
+  "counterpartyTaxCode" : "02128158",
+  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "reference" : "JBKLO3MO8YJPB6.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T10:26:00",
+  "amount" : -6000.00,
+  "purposeOfPayment" : "Комплексне обслуговування будинку та консультування з питань керування ОСББ в період з 01.09.2023 р. по 31.12.2023 р. Часткова сплата згідно рахунку №231228 від 28 грудня 2023 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLO3MO8YGVVJ.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T10:26:00",
+  "amount" : -11705.00,
+  "purposeOfPayment" : "Прибирання місць загального користування навколо будинку в березні. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLO3MO8YGVVH.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T10:26:00",
+  "amount" : -7066.58,
+  "purposeOfPayment" : "СПЛАТА ЗА БУХГАЛТЕРСЬКЕ ОБСЛУГОВУВАННЯ ЗА БЕРЕЗЕНЬ 2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "2134101089",
+  "counterpartyName" : "ЗАБІРНА О.В. ФОП",
+  "reference" : "JBKLO3MO8YGVVA.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T10:26:00",
+  "amount" : -10576.08,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА БЕРЕЗЕНЬ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO3MO8YGVV4.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T10:26:00",
+  "amount" : -13750.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА БЕРЕЗЕНЬ 2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO3MO8YGVV1.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-22T10:26:00",
+  "amount" : -3200.00,
+  "purposeOfPayment" : "ПЕРЕНЕСЕННЯ ТРОТУАРНОЇ ПЛИТКИ ТА ДОРОЖНЬОГО БОРДЮРУ В ДОПОМІЖНІ ПРИМІЩЕННЯ. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLO3MO8YGVUR.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-20T14:44:00",
   "amount" : 1000.00,
