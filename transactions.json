@@ -1,12 +1,30 @@
 [ {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : 81712.54,
+  "amount" : 89758.16,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-03-26T10:59:00",
+  "amount" : -4750.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта 5-го під'їзду (з урахуванням матеріалів) згідно акту №323 від 25.03.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO3QO8Z0WVV.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-03-26T10:59:00",
+  "amount" : -11140.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфтів 1,2,6,7,8,10,11-го під'їздів (з урахуванням матеріалів) згідно рахунку №29 від 26.03.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO3QO8Z0WVR.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-22T13:16:00",
   "amount" : -3.00,
