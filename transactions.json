@@ -1,12 +1,21 @@
 [ {
   "dateTime" : "2024-05-31T00:00:00",
-  "amount" : 74672.16,
+  "amount" : 77760.86,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-05-21T14:21:00",
+  "amount" : -18000.00,
+  "purposeOfPayment" : "Сплата за промивку та гідравлічне випробування внутрішньої мережі опалювання будинку згідно акту №470 від 21.05.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO5LO9AE1MK.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-17T14:32:00",
   "amount" : -18400.00,
