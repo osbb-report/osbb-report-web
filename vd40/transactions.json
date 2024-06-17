@@ -1,11 +1,155 @@
 [ {
   "dateTime" : "2024-06-30T00:00:00",
-  "amount" : 24809.65,
+  "amount" : 75754.80,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-06-17T13:04:00",
+  "amount" : -299.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №144 ВІД 17.06.2024Р.",
+  "counterpartyTaxCode" : "2792809537",
+  "counterpartyName" : "Пузь О.Д. ФОП",
+  "reference" : "JBKLO6HO9FNE0K.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-14T12:18:00",
+  "amount" : -13750.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА ЧЕРВЕНЬ 2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO6EO9F8B5X.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-14T12:18:00",
+  "amount" : -7066.58,
+  "purposeOfPayment" : "СПЛАТА ЗА БУХГАЛТЕРСЬКЕ ОБСЛУГОВУВАННЯ ЗА ЧЕРВЕНЬ 2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "2134101089",
+  "counterpartyName" : "ЗАБІРНА О.В. ФОП",
+  "reference" : "JBKLO6EO9F8B5S.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-14T12:18:00",
+  "amount" : -10576.08,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА ЧЕРВЕНЬ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO6EO9F8B5J.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-14T11:19:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6EO9F6UW6.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-14T11:19:00",
+  "amount" : -8199.84,
+  "purposeOfPayment" : "Електрична енергія в т.ч. за послуги розподілу та передачі електроенергії. Згідно Рах. №256301611260 від 31.05.2024 У сумі 6833.20 грн., ПДВ - 20 % 1366.64 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLO6EO9F6UW6.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-13T16:54:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6DO9F28AI.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-13T16:54:00",
+  "amount" : -2049.74,
+  "purposeOfPayment" : "101 сплата ЄСВ 22% за І пол. червня 2024р.",
+  "counterpartyTaxCode" : "44118658",
+  "counterpartyName" : "ГУ ДПС У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+  "reference" : "JBKLO6DO9F28AI.1",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-13T16:54:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6DO9F28AG.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-13T16:54:00",
+  "amount" : -1677.06,
+  "purposeOfPayment" : "101 сплата ПДФО 18% за І пол. червня 2024р.",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO6DO9F28AG.1",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-13T16:54:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6DO9F28AC.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-13T16:54:00",
+  "amount" : -7500.18,
+  "purposeOfPayment" : "#UA333220010000026207300017728; IПН 2774815598 Бєкоєв С.Е.; Зарплата за I пол. червня 2024р.",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ \"УНІВЕРСАЛ БАНК\"",
+  "reference" : "JBKLO6DO9F28AC.1",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-13T16:54:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6DO9F28AB.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-13T16:54:00",
+  "amount" : -139.76,
+  "purposeOfPayment" : "101 сплата військового збору 1,5% за І пол. червня 2024р.",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO6DO9F28AB.1",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-12T12:30:00",
+  "amount" : -1765.00,
+  "purposeOfPayment" : "Відновлення проектів встановлення приладів обліку на системі централізованого опалення. Згідно рахунку №2406012 від 12 червня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLO6CO9EPYAA.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-10T09:48:00",
+  "amount" : 5000.00,
+  "purposeOfPayment" : "Сплата за оренду приміщення згідно Договору №2 від 01.05.2023р., без ПДВ",
+  "counterpartyTaxCode" : "2865114799",
+  "counterpartyName" : "МИРОШНИЧЕНКО С. М. ФОП",
+  "reference" : "JBKLO6AO9E4IU5.1",
+  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-06-05T14:12:00",
