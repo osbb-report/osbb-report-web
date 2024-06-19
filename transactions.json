@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2024-06-30T00:00:00",
-  "amount" : 66710.86,
+  "amount" : 69166.01,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-06-19T01:46:00",
+  "amount" : 300.60,
+  "purposeOfPayment" : "*345*Янківський В.П.",
+  "counterpartyTaxCode" : "1762100162",
+  "counterpartyName" : "ЯНКІВСЬКА ЛЮБОВ ІВАНІВНА",
+  "reference" : "HS42O0619L00FM.P",
+  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-06-14T12:16:00",
