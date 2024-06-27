@@ -1,12 +1,84 @@
 [ {
   "dateTime" : "2024-06-30T00:00:00",
-  "amount" : 103197.97,
+  "amount" : 109287.11,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "",
   "category" : "Внески",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2024-06-27T14:27:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6RO9HT2XF.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-27T14:27:00",
+  "amount" : -7500.19,
+  "purposeOfPayment" : "#UA333220010000026207300017728; IПН 2774815598 Бєкоєв С.Е.; Зарплата за II пол. червня 2024р.",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ \"УНІВЕРСАЛ БАНК\"",
+  "reference" : "JBKLO6RO9HT2XF.1",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-27T14:27:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6RO9HT2XB.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-27T14:27:00",
+  "amount" : -139.75,
+  "purposeOfPayment" : "101 сплата військового збору 1,5% за ІІ пол. червня 2024р.",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO6RO9HT2XB.1",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-27T14:27:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6RO9HT2X9.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-27T14:27:00",
+  "amount" : -2049.74,
+  "purposeOfPayment" : "101 сплата ЄСВ 22% за ІІ пол. червня 2024р.",
+  "counterpartyTaxCode" : "44118658",
+  "counterpartyName" : "ГУ ДПС У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+  "reference" : "JBKLO6RO9HT2X9.1",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-27T14:27:00",
+  "amount" : -3.00,
+  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 02.06.2016 та тарифiв банку, без ПДВ.",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLO6RO9HT2X0.Y",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-06-27T14:27:00",
+  "amount" : -1677.06,
+  "purposeOfPayment" : "101 сплата ПДФО 18% за ІІ пол. червня 2024р.",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "reference" : "JBKLO6RO9HT2X0.1",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-24T16:29:00",
   "amount" : 250.00,
