@@ -1,6 +1,492 @@
 [ {
+  "dateTime" : "2024-12-31T00:00:00",
+  "amount" : 94262.60,
+  "purposeOfPayment" : "консолідований внесок власників за Грудень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Власники",
+  "reference" : "CONTRIB-2024-12",
+  "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-12-31T00:00:00",
+  "amount" : -350.00,
+  "purposeOfPayment" : "банківськи комісії за Грудень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Банк",
+  "reference" : "BANKFEE-2024-12",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-23T11:22:00",
+  "amount" : -1770.40,
+  "purposeOfPayment" : "Оплата замовлення №24-127685 від Варфоломєй Сергій Вікторович",
+  "counterpartyTaxCode" : "2827606710",
+  "counterpartyName" : "Лазебник Т. Г. ФОП",
+  "reference" : "JBKLOCNOAJCCAS.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-19T20:02:00",
+  "amount" : -1900.00,
+  "purposeOfPayment" : "Вивезення негабаритного сміття. Згідно договору №241219-1 від 19 грудня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLOCJOAIUBMF.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-19T20:02:00",
+  "amount" : -11765.00,
+  "purposeOfPayment" : "Адміністративні послуги в травні. Згідно договору №240101 від 01 січня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLOCJOAIUBMC.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-19T20:02:00",
+  "amount" : -4750.00,
+  "purposeOfPayment" : "Цементування отворів у стінах та перекритті 2-го під'їзду. Згідно договору №241219-2 від 19 грудня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLOCJOAIUBM5.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-18T14:26:00",
+  "amount" : 700.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Грудень 2024. Згідно Дог. про участь у витр.№66/84 від 01.01.2024р. Сума 700,00 грн ПДВ (без ПДВ) 0,00грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS45O1218L0FC6.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-12-17T22:50:00",
+  "amount" : -1870.00,
+  "purposeOfPayment" : "Заміна доводчику на внутрішніх дверях 12-го під'їзду. Виготовлення дублікату ключа від колясочної 8-го під'їзду. Згідно договору №241210 від 10 грудня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLOCHOAIAN33.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-09T17:25:00",
+  "amount" : 3000.00,
+  "purposeOfPayment" : "Сплата за оренду приміщення за уг.24/10 від 01.10.2024р у 10-11.2024рБез ПДВ.",
+  "counterpartyTaxCode" : "45433431",
+  "counterpartyName" : "ПРЕМІУМ.ЛІНК ТОВ",
+  "reference" : "JBKLOC9OAGECFW.1",
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-12-03T22:28:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "D2P3O1203AIBF5.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-11-30T20:50:00",
+  "amount" : -13197.60,
+  "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №258502129679 від 30.11.2024. У сумі 10998.00 грн., ПДВ - 20 % 2199.60 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLOBUOAEI68E.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-30T19:06:00",
+  "amount" : -14850.00,
+  "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). За листопад 2024 р. У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
+  "counterpartyTaxCode" : "02128158",
+  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "reference" : "JBKLOBUOAEI03S.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-30T00:00:00",
+  "amount" : 108961.50,
+  "purposeOfPayment" : "консолідований внесок власників за Листопад 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Власники",
+  "reference" : "CONTRIB-2024-11",
+  "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-11-30T00:00:00",
+  "amount" : -359.00,
+  "purposeOfPayment" : "банківськи комісії за Листопад 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Банк",
+  "reference" : "BANKFEE-2024-11",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-29T13:17:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Оплата за надання доступу до елементів інфраструктури об?єкта будівництва згідно з Договором №?2024090501 від 05.09.24р. за Листопад 2024р.",
+  "counterpartyTaxCode" : "42880795",
+  "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
+  "reference" : "JBKLOBTOAE8RCF.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-11-26T11:43:00",
+  "amount" : 750.00,
+  "purposeOfPayment" : "за користування спiльним майном за серпень-жовтень 2024 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ.",
+  "counterpartyTaxCode" : "31761988",
+  "counterpartyName" : "СОЮЗ ТОВ",
+  "reference" : "JBKLOBQOADE8RR.1",
+  "category" : "Реклама",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-11-21T16:46:00",
+  "amount" : -11765.00,
+  "purposeOfPayment" : "Адміністративні послуги в листопаді. Згідно договору №240101 від 01 січня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLOBLOACNJGT.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-19T13:08:00",
+  "amount" : 700.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Листопад 2024. Згідно Дог. про участь у витр.№66/84 від 01.01.2024р. Сума 700,00 грн ПДВ (без ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS41O1119L10WB.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-11-11T12:27:00",
+  "amount" : -480.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта 11-го під'їзда згідно рахунку №146 від 11.11.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLOBBOAA4SKH.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-11T12:27:00",
+  "amount" : -3000.00,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №230 від 11.11.2024р.",
+  "counterpartyTaxCode" : "2792809537",
+  "counterpartyName" : "Пузь О.Д. ФОП",
+  "reference" : "JBKLOBBOAA4SKE.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-10T23:44:00",
+  "amount" : -11504.16,
+  "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №255701799778 від 31.10.2024. У сумі 9586.80 грн., ПДВ - 20 % 1917.36 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLOBAOAA1CLJ.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-08T17:39:00",
+  "amount" : 6000.00,
+  "purposeOfPayment" : "Доступ до інфраструктури будинку за 2024 рік, зг. уг. КДН-ЗШ80 . без ПДВ",
+  "counterpartyTaxCode" : "38736443",
+  "counterpartyName" : "ТОВ \"КДН\"",
+  "reference" : "HS42O1108L1ZZO.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-31T00:00:00",
+  "amount" : 107018.46,
+  "purposeOfPayment" : "консолідований внесок власників за Жовтень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Власники",
+  "reference" : "CONTRIB-2024-10",
+  "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-31T00:00:00",
+  "amount" : -356.00,
+  "purposeOfPayment" : "банківськи комісії за Жовтень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Банк",
+  "reference" : "BANKFEE-2024-10",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-29T14:24:00",
+  "amount" : -11765.00,
+  "purposeOfPayment" : "Адміністративні послуги в травні. Згідно договору №240101 від 01 січня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLOATOA7ECMA.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-29T14:24:00",
+  "amount" : -15345.00,
+  "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/23942 від 25.10.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
+  "counterpartyTaxCode" : "02128158",
+  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "reference" : "JBKLOATOA7ECII.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-29T14:14:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "D2BPO1029A26H8.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-29T09:55:00",
+  "amount" : 9000.00,
+  "purposeOfPayment" : "За доступ до інфраструктури  за 1-3 квартали 2024 року згідно договору №2-3/80 від 01.10.2021 без ПДВ.",
+  "counterpartyTaxCode" : "23023044",
+  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "reference" : "JBKLOATOA7AGX0.1",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-25T15:41:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Оплата за надання доступу до елементів інфраструктури об?єкта будівництва згідно з Договором №?2024090501 від 05.09.24р. за Жовтень 2024р.",
+  "counterpartyTaxCode" : "42880795",
+  "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
+  "reference" : "JBKLOAPOA6V5RU.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-22T11:29:00",
+  "amount" : -6194.46,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського обліку за жовтень 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLOAMOA60FUJ.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-22T11:29:00",
+  "amount" : -12500.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА ЖОВТЕНЬ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLOAMOA60FUD.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-22T11:29:00",
+  "amount" : -10500.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування житлового будинку за жовтень 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLOAMOA60FTW.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-18T15:41:00",
+  "amount" : 700.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Жовтень 2024. Згідно Дог. про участь у витр.№66/84 від 01.01.2024р. Сума 700,00 грн ПДВ (без ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS41O1018L1STJ.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-17T18:18:00",
+  "amount" : -375.50,
+  "purposeOfPayment" : "4246 **** **** 4556 16.10.2024 14:30:39 Дiм та ремонт: NL5 DNIPROPETROVSK, DNIPROPETROVS",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "COIIOAHY05CSB0.1",
+  "category" : "Дрібні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-15T16:41:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "Оплата про участь у витратах на утримання і ремонт будинку зг дог 307603 від 01.01.2017р. за 4 квартал 2024р. Без ПДВ",
+  "counterpartyTaxCode" : "21673832",
+  "counterpartyName" : "ПрАТ \"Київстар\"",
+  "reference" : "HS41O1015L29P1.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-09T23:21:00",
+  "amount" : -10500.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування інженерних мереж житлового будинку в жовтні 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLOA9OA3FB0H.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-09T23:21:00",
+  "amount" : -6194.46,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського обліку в жовтні 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLOA9OA3FB0G.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-09T23:20:00",
+  "amount" : -12500.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ В ЖОВТНІ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLOA9OA3FB0F.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-09T23:14:00",
+  "amount" : -62560.00,
+  "purposeOfPayment" : "Чищення міжповерхових каналів та монтаж нової електричної проводки від електрощитової до квартир 12-го під'їзду. Згідно договору №241009 від 09 жовтня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLOA9OA3FAV4.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-09T14:24:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "за доступ зг. дог. 198 від 01.03.2024 без ПДВ",
+  "counterpartyTaxCode" : "36094444",
+  "counterpartyName" : "ТОВ \"ІНТРА.КОМ\"",
+  "reference" : "HS41O1009L1ATS.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-03T11:52:00",
+  "amount" : -11318.40,
+  "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №254301792561 від 30.09.2024. У сумі 9432.00 грн., ПДВ - 20 % 1886.40 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLOA3OA1YV6H.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-30T00:00:00",
+  "amount" : 101415.77,
+  "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Власники",
+  "reference" : "CONTRIB-2024-09",
+  "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-09-30T00:00:00",
+  "amount" : -356.00,
+  "purposeOfPayment" : "банківськи комісії за Вересень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Банк",
+  "reference" : "BANKFEE-2024-09",
+  "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-27T15:05:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Оплата за надання доступу до елементів інфраструктури об?єкта будівництва згідно з Договором №?2024090501 від 05.09.24р. за Вересень 2024р.",
+  "counterpartyTaxCode" : "42880795",
+  "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
+  "reference" : "JBKLO9ROA0QVXF.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-09-26T11:28:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "D2P9O0926AOMME.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-09-24T20:58:00",
+  "amount" : -14850.00,
+  "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/20488 від 23.09.2024 р. У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
+  "counterpartyTaxCode" : "02128158",
+  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "reference" : "JBKLO9OOA03QV1.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-24T20:57:00",
+  "amount" : -11765.00,
+  "purposeOfPayment" : "Адміністративні послуги в вересні. Згідно договору №240101 від 01 січня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLO9OOA03QTK.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-23T13:05:00",
+  "amount" : -960.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ПОТОЧНИЙ РЕМОНТ ЛІФТА 5-ГО ПІД'ЇЗДУ ЗГІДНО АКТУ №999 ВІД 20.09.2024Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO9NO9ZOYPL.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-23T13:05:00",
+  "amount" : -10500.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування житлового будинку за вересень 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLO9NO9ZOYP8.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-23T13:05:00",
+  "amount" : -12500.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА ВЕРЕСЕНЬ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO9NO9ZOYP5.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-23T13:05:00",
+  "amount" : -6194.46,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського обліку за вересень 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLO9NO9ZOYP2.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-23T13:00:00",
+  "amount" : -7040.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №838 ВІД 20.09.2024Р.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLO9NO9ZOU99.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-18T13:12:00",
+  "amount" : 700.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Вересень 2024. Згідно Дог. про участь у витр.№66/84 від 01.01.2024р. Сума 700,00 грн ПДВ (без ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS43O0918L0XOP.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-09-01T16:55:00",
+  "amount" : -9871.20,
+  "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №255701716365 від 31.08.2024. У сумі 8226.00 грн., ПДВ - 20 % 1645.20 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLO91O9V2ITJ.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2024-08-31T00:00:00",
-  "amount" : 22950.35,
+  "amount" : 101259.55,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,7 +495,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-31T00:00:00",
-  "amount" : -353.00,
+  "amount" : -356.00,
   "purposeOfPayment" : "банківськи комісії за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
@@ -17,13 +503,85 @@
   "category" : "Банківськи комісії",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-08-02T07:23:00",
-  "amount" : 1807.00,
-  "purposeOfPayment" : "\"Оренда допоміжного приміщення п.11, вкл. ( серпень 2024)компенсацію витрат на електропостачання, згідно рахунку 230519 від 19.05.2023 р.\"",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS42O0802L01Z2.P",
-  "category" : "інщі прибутки",
+  "dateTime" : "2024-08-29T14:26:00",
+  "amount" : -15345.00,
+  "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/17925 від 15.08.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
+  "counterpartyTaxCode" : "02128158",
+  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "reference" : "JBKLO8TO9UJKRV.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-29T14:26:00",
+  "amount" : -11765.00,
+  "purposeOfPayment" : "Адміністративні послуги в серпні. Згідно договору №240101 від 01 січня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLO8TO9UJKRU.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-19T14:49:00",
+  "amount" : -21430.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №764 ВІД 19.08.2024Р.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLO8JO9SJM2N.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-19T14:49:00",
+  "amount" : -3360.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта 7-го під'їзду згідно акту №789 від 19.08.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO8JO9SJM2J.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-19T12:50:00",
+  "amount" : -6194.46,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського обліку за серпень 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLO8JO9SHC8L.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-19T12:50:00",
+  "amount" : -12500.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА СЕРПЕНЬ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO8JO9SHC8K.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-19T12:50:00",
+  "amount" : -10500.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування житлового будинку за серпень 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLO8JO9SHC8D.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-16T13:04:00",
+  "amount" : 700.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Серпень 2024. Згідно Дог. про участь у витр.№66/84 від 01.01.2024р. Сума 700,00 грн ПДВ (без ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS43O0816L13FC.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-08-14T14:31:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "D2P4O0814A5LGZ.P",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-01T19:27:00",
@@ -32,7 +590,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLO81O9P26YS.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-31T00:00:00",
@@ -59,7 +617,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLO7QO9NV4XJ.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-26T13:48:00",
@@ -77,7 +635,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO7NO9N76U1.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-23T09:03:00",
@@ -86,7 +644,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO7NO9MYSZ8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-23T09:03:00",
@@ -95,7 +653,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO7NO9MYSZ7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-23T09:03:00",
@@ -131,8 +689,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS41O0712L18H8.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2024-07-08T13:35:00",
   "amount" : -10131.51,
@@ -176,11 +734,11 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLO6UO9IBFKM.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-30T00:00:00",
-  "amount" : 94439.21,
+  "amount" : 109540.61,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -212,7 +770,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO6OO9H5XMJ.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-24T17:00:00",
@@ -221,26 +779,8 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLO6OO9H5XMG.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2024-06-23T15:23:00",
-  "amount" : 1050.00,
-  "purposeOfPayment" : "Оплата осбб",
-  "counterpartyTaxCode" : "3561000071",
-  "counterpartyName" : "Четверик Павло Романович",
-  "reference" : "HS41O0623L082I.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-06-19T01:46:00",
-  "amount" : 300.60,
-  "purposeOfPayment" : "*345*Янківський В.П.",
-  "counterpartyTaxCode" : "1762100162",
-  "counterpartyName" : "ЯНКІВСЬКА ЛЮБОВ ІВАНІВНА",
-  "reference" : "HS42O0619L00FM.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2024-06-14T12:16:00",
   "amount" : -6194.46,
@@ -257,7 +797,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO6EO9F899B.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-14T12:15:00",
@@ -266,26 +806,8 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO6EO9F899I.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2024-06-09T10:24:00",
-  "amount" : 3335.28,
-  "purposeOfPayment" : "\"Оренда допоміжного приміщення п.11, вкл. ( червень -липень 2024)компенсацію витрат на електропостачання, згідно рахунку 230519 від 19.05.2023 р.\"",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS43O0609L02SU.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-06-06T18:03:00",
-  "amount" : 10415.52,
-  "purposeOfPayment" : "Оренда допоміжного приміщення п.11, вкл. компенсацію витрат на електропостачання, згідно рахунку 230519 від 19 травня 2023 р,., додаткова компенсація електроенергії, без ПДВ.",
-  "counterpartyTaxCode" : "3450406855",
-  "counterpartyName" : "Федориненко Андрій Миколайович",
-  "reference" : "HS43O0606L25F3.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2024-06-03T11:40:00",
   "amount" : -4320.00,
@@ -302,7 +824,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLO5VO9CG2BK.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-31T00:00:00",
@@ -347,7 +869,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLO5RO9BHHLQ.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-21T14:21:00",
@@ -374,7 +896,7 @@
   "counterpartyTaxCode" : "2993615402",
   "counterpartyName" : "БІЛИК Л.А. ФОП",
   "reference" : "JBKLO5FO995DGT.1",
-  "category" : "інщі витрати",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-14T15:10:00",
@@ -383,7 +905,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO5EO98UHLL.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-10T14:26:00",
@@ -392,7 +914,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO5AO989FJZ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-10T14:26:00",
@@ -410,7 +932,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO5AO989FJW.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-07T09:13:00",
@@ -446,11 +968,11 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLO51O96COOX.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-30T00:00:00",
-  "amount" : 131187.18,
+  "amount" : 134187.18,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -482,7 +1004,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLO4OO94Y64H.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-23T16:56:00",
@@ -491,7 +1013,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO4NO94VQ5C.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-15T16:45:00",
@@ -500,8 +1022,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS43O0415L20RC.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2024-04-09T13:57:00",
   "amount" : 750.00,
@@ -527,7 +1049,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO48O91MSYD.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-08T13:17:00",
@@ -536,17 +1058,8 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO48O91MSY8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2024-04-04T07:23:00",
-  "amount" : 3000.00,
-  "purposeOfPayment" : "\"Оренда допоміжного приміщення п.11, вкл. ( квітень-травень 2024) згідно рахунку 230519 від 19.05.2023 р.\"",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS43O0404L01D8.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2024-04-01T11:44:00",
   "amount" : -7418.40,
@@ -554,11 +1067,11 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLO41O904TSG.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : 108270.96,
+  "amount" : 113021.46,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -599,7 +1112,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLO3MO8YJNGO.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-22T10:18:00",
@@ -608,7 +1121,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO3MO8YGRT0.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-22T10:18:00",
@@ -626,7 +1139,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO3MO8YGRSL.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-18T14:49:00",
@@ -665,24 +1178,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-03-09T06:11:00",
-  "amount" : 1528.50,
-  "purposeOfPayment" : "О/р 248",
-  "counterpartyTaxCode" : "3219319034",
-  "counterpartyName" : "Кравець Ігор Миколайович",
-  "reference" : "HS43O0309L00ZJ.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-03-08T15:09:00",
-  "amount" : 3222.00,
-  "purposeOfPayment" : "\"Оренда допоміжного приміщення п.11, вкл. ( лютий- березень 2024)компенсацію витрат на електропостачання, згідно рахунку 230519 від 19.05.2023 р.\"",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS41O0308L1DVZ.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-03-08T13:28:00",
   "amount" : -1500.00,
   "purposeOfPayment" : "Зварювальні роботи по встановленню доводчика на двері вхідної групи 7-го під'їзду. Згідно рахунку №240308 від 8 березня 2024 р.",
@@ -707,7 +1202,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO35O8V0OS5.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-29T14:15:00",
@@ -716,7 +1211,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLO2TO8U5150.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-29T00:00:00",
@@ -752,7 +1247,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLO2QO8TF0ZZ.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-26T10:18:00",
@@ -761,7 +1256,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO2QO8TAKLZ.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-20T16:42:00",
@@ -770,7 +1265,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO2KO8SGWNF.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-20T16:42:00",
@@ -788,7 +1283,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO2KO8SGWN7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-20T09:20:00",
@@ -833,7 +1328,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLO1VO8OMP1Y.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-31T15:37:00",
@@ -842,11 +1337,11 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLO1VO8OMMEM.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 114856.82,
+  "amount" : 128652.82,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -896,7 +1391,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO1PO8NJ6TM.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-24T09:13:00",
@@ -959,16 +1454,7 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS41O0115L24GH.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2024-01-15T15:05:00",
-  "amount" : 3296.00,
-  "purposeOfPayment" : "\"Оренда допоміжного приміщення п.11, вкл. ( грудень2023, січень 2024)компенсацію витрат на електропостачання, згідно рахунку 230519 від 19.05.2023 р.\"",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS41O0115L1BRK.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-01-11T16:53:00",
@@ -1025,15 +1511,6 @@
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-01-10T12:25:00",
-  "amount" : 10500.00,
-  "purposeOfPayment" : "Оренда допоміжного приміщення п.9, вкл. компенсацію витрат на електропостачання, згідно рахунку 230519 від 19 травня 2023 р., без ПДВ.",
-  "counterpartyTaxCode" : "3450406855",
-  "counterpartyName" : "Федориненко Андрій Миколайович",
-  "reference" : "HS43O0110L0NF2.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-01-09T11:28:00",
   "amount" : -6194.46,
   "purposeOfPayment" : "Сплата за ведення бухгалтерського обліку за січень 2024р. Без ПДВ.",
@@ -1049,7 +1526,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO19O8KKYVE.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-09T11:28:00",
@@ -1058,7 +1535,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO19O8KKYV9.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-08T09:55:00",
@@ -1085,7 +1562,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLO12O8JFHUD.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-31T00:00:00",
@@ -1130,7 +1607,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLNCRO8ILI5Y.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-27T10:40:00",
@@ -1157,7 +1634,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNCDO8FTQDF.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-13T13:42:00",
@@ -1166,7 +1643,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLNCDO8FTQDB.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-12T15:09:00",
@@ -1202,7 +1679,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLNC1O8DS8ES.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-01T16:37:00",
@@ -1211,7 +1688,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLNC1O8DS7KT.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-01T09:28:00",
@@ -1224,7 +1701,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-11-30T00:00:00",
-  "amount" : 110375.13,
+  "amount" : 112295.13,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1265,7 +1742,7 @@
   "counterpartyTaxCode" : "33769837",
   "counterpartyName" : "ТОВ \"МЕГА ЛІНК\"",
   "reference" : "HS41N1124L1G9C.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-11-23T13:01:00",
@@ -1310,7 +1787,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLNBGO8AW4L1.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-16T14:11:00",
@@ -1328,7 +1805,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNBGO8AW4KV.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-16T02:56:00",
@@ -1376,15 +1853,6 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2023-11-06T21:09:00",
-  "amount" : 1920.00,
-  "purposeOfPayment" : "\"Оренда допоміжного приміщення п.11, вкл. ( листопад 2023) компенсацію витрат на електропостачання, згідно рахунку 230519 від 19.05.2023 р.\"",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS41N1106L2K4J.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2023-10-31T00:00:00",
   "amount" : 108865.22,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2023 року",
@@ -1409,7 +1877,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLNAQO870T04.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-23T16:38:00",
@@ -1418,7 +1886,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLNANO86F6LL.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-20T10:39:00",
@@ -1427,7 +1895,7 @@
   "counterpartyTaxCode" : "44703621",
   "counterpartyName" : "Перший Правобережний ВДВС",
   "reference" : "HS42N1020L0GNF.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-20T10:39:00",
@@ -1436,7 +1904,7 @@
   "counterpartyTaxCode" : "44703621",
   "counterpartyName" : "Перший Правобережний ВДВС",
   "reference" : "HS42N1020L0GNE.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-20T10:39:00",
@@ -1445,7 +1913,7 @@
   "counterpartyTaxCode" : "44703621",
   "counterpartyName" : "Перший Правобережний ВДВС",
   "reference" : "HS42N1020L0GND.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-18T14:36:00",
@@ -1472,8 +1940,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS43N1016L1LQ8.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-13T12:50:00",
   "amount" : -12447.00,
@@ -1521,7 +1989,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-30T00:00:00",
-  "amount" : 98927.92,
+  "amount" : 102177.92,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1553,7 +2021,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN9RO81JMM6.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-27T10:20:00",
@@ -1562,7 +2030,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN9RO81JLWI.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-25T11:38:00",
@@ -1580,7 +2048,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN9PO814ZN5.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-25T11:38:00",
@@ -1589,7 +2057,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN9PO814ZMX.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-25T11:38:00",
@@ -1607,7 +2075,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN9PO814ZMN.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-25T11:38:00",
@@ -1616,7 +2084,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN9PO814ZMI.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-21T15:57:00",
@@ -1625,7 +2093,7 @@
   "counterpartyTaxCode" : "33769837",
   "counterpartyName" : "ТОВ \"МЕГА ЛІНК\"",
   "reference" : "HS41N0921L1H8O.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-09-14T13:11:00",
@@ -1663,15 +2131,6 @@
   "reference" : "JBKLN96O7Y1LMK.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-09-02T20:17:00",
-  "amount" : 3250.00,
-  "purposeOfPayment" : "\"Оренда допоміжного приміщення п.11, вкл. ( вересень-жовтень2023) компенсацію витрат на електропостачання, згідно рахунку 230519 від 19.05.2023 р.\"",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS43N0902L0CR0.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-08-31T00:00:00",
   "amount" : 93883.22,
@@ -1724,7 +2183,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN8NO7VR7MU.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-23T15:14:00",
@@ -1733,7 +2192,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN8NO7VR6TN.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-17T14:12:00",
@@ -1760,7 +2219,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN8EO7TXQYP.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-14T03:34:00",
@@ -1805,7 +2264,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN8AO7TGIZS.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-10T10:25:00",
@@ -1845,7 +2304,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-31T00:00:00",
-  "amount" : 108628.69,
+  "amount" : 119153.89,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1895,7 +2354,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN7PO7QSS8R.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-25T11:26:00",
@@ -1904,7 +2363,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN7PO7QOM3E.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-19T16:08:00",
@@ -1913,7 +2372,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN7JO7PUSDT.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-19T16:08:00",
@@ -1940,7 +2399,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN7JO7PUSDL.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-19T12:11:00",
@@ -1958,8 +2417,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS42N0717L167K.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-07-11T17:57:00",
   "amount" : 500.00,
@@ -1968,24 +2427,6 @@
   "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
   "reference" : "HS41N0711L1MDT.P",
   "category" : "Сервітут",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2023-07-10T07:55:00",
-  "amount" : 3000.00,
-  "purposeOfPayment" : "Оренда допоміжного приміщення п.11, згідно рахунку 230501 (липень-серпень2023)",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS43N0710L0137.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2023-07-06T09:44:00",
-  "amount" : 7525.20,
-  "purposeOfPayment" : "Оренда допоміжного приміщення п.9, вкл. компенсацію витрат на електропостачання, згідно рахунку 230519 від 19 травня 2023 р., без ПДВ.",
-  "counterpartyTaxCode" : "3450406855",
-  "counterpartyName" : "Федориненко Андрій Миколайович",
-  "reference" : "HS43N0706L05XP.P",
-  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-06-30T00:00:00",
@@ -2030,7 +2471,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN6QO7LQRJG.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-26T11:44:00",
@@ -2039,7 +2480,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN6QO7LQO12.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-26T11:42:00",
@@ -2066,7 +2507,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN6EO7JULXX.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-14T10:30:00",
@@ -2084,7 +2525,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN6EO7JULXP.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-12T12:46:00",
@@ -2151,7 +2592,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-31T00:00:00",
-  "amount" : 125206.28,
+  "amount" : 136222.04,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -2183,26 +2624,8 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN5PO7GVV09.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-05-25T08:29:00",
-  "amount" : 10500.00,
-  "purposeOfPayment" : "Оренда допоміжного приміщення п.11, згідно рахунку 230501 (січень2022-червень2023р)",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS43N0525L029T.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2023-05-25T08:02:00",
-  "amount" : 515.76,
-  "purposeOfPayment" : "Компенсація витрат на електопостачання в допоміжному приміщенні в п.11 ( грудень2022-травень2023)",
-  "counterpartyTaxCode" : "3224009682",
-  "counterpartyName" : "Білан Марина Олександрівна",
-  "reference" : "HS42N0525L017K.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-05-24T17:06:00",
   "amount" : -8644.50,
@@ -2219,7 +2642,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN5OO7GPB8W.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-22T16:12:00",
@@ -2273,7 +2696,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN5CO7EQNE7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-12T11:03:00",
@@ -2282,7 +2705,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN5CO7EQNE5.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-12T11:03:00",
@@ -2354,7 +2777,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN4QO7C5XIM.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-26T11:08:00",
@@ -2363,7 +2786,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN4QO7C5VX1.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-21T14:20:00",
@@ -2399,8 +2822,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS43N0414L1F5K.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-04-11T18:27:00",
   "amount" : 1500.00,
@@ -2444,7 +2867,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN3VO78E8M8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-31T12:50:00",
@@ -2453,7 +2876,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN3VO78E8M3.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-31T00:00:00",
@@ -2480,7 +2903,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN3NO77E3NS.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-23T22:38:00",
@@ -2489,7 +2912,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN3NO77E3KY.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-15T11:44:00",
@@ -2516,7 +2939,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN32O74585J.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-02T09:01:00",
@@ -2534,7 +2957,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN32O74585D.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-28T00:00:00",
@@ -2561,7 +2984,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN2PO73FXMZ.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-27T00:01:00",
@@ -2570,7 +2993,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN2PO73FXDC.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-17T10:23:00",
@@ -2642,7 +3065,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN27O70S7SC.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-07T08:41:00",
@@ -2651,7 +3074,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN27O70S7SB.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-07T08:41:00",
@@ -2696,7 +3119,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLN1PO6Z7T1M.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-25T16:48:00",
@@ -2705,7 +3128,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLN1PO6Z7R7B.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-25T13:49:00",
@@ -2750,7 +3173,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN1HO6Y1VM9.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-17T12:29:00",
@@ -2759,7 +3182,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN1HO6Y1VM8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-17T12:29:00",
@@ -2777,8 +3200,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLN0113L273Y.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-01-09T14:07:00",
   "amount" : -744.75,
@@ -3047,7 +3470,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLMCQO6V53SU.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-23T13:21:00",
@@ -3056,7 +3479,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLMCNO6UZU3S.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-23T13:17:00",
@@ -3065,7 +3488,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLMCNO6UZSZT.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-21T10:17:00",
@@ -3092,7 +3515,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMCKO6UE3TY.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-20T11:32:00",
@@ -3101,7 +3524,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMCKO6UE3TU.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-14T11:05:00",
@@ -3146,7 +3569,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLMC1O6RZJ7J.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-01T16:41:00",
@@ -3155,7 +3578,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLMC1O6RZI5A.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-30T00:00:00",
@@ -3191,7 +3614,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMBIO6QCJT2.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-18T14:45:00",
@@ -3200,7 +3623,7 @@
   "counterpartyTaxCode" : "2134101089",
   "counterpartyName" : "ЗАБІРНА О.В. ФОП",
   "reference" : "JBKLMBIO6QCJT1.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-18T14:45:00",
@@ -3263,7 +3686,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLMAOO6MW1VD.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-24T15:31:00",
@@ -3272,7 +3695,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLMAOO6MW12G.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-24T11:09:00",
@@ -3290,7 +3713,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLMAOO6MSTHC.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-24T10:08:00",
@@ -3299,7 +3722,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMAOO6MS6UK.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-17T15:41:00",
@@ -3317,8 +3740,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM1017L2A87.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-10-05T10:17:00",
   "amount" : -138265.45,
@@ -3380,7 +3803,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM9OO6IXT9C.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-26T00:01:00",
@@ -3389,7 +3812,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM9OO6IXT68.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-22T17:17:00",
@@ -3416,7 +3839,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM9LO6IG7ZW.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-21T09:20:00",
@@ -3434,7 +3857,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM9LO6IG79Y.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-31T00:00:00",
@@ -3470,7 +3893,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM8OO6EX3ID.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-24T16:36:00",
@@ -3479,7 +3902,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM8OO6EX36Y.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-24T15:55:00",
@@ -3488,7 +3911,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM8OO6EWWOY.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-24T15:54:00",
@@ -3506,7 +3929,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM8OO6EWWH2.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-23T15:42:00",
@@ -3614,7 +4037,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM7PO6AZC5R.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-25T14:56:00",
@@ -3623,7 +4046,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM7PO6AZC5M.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-25T14:48:00",
@@ -3632,7 +4055,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM7PO6AZ8NK.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-25T14:48:00",
@@ -3650,7 +4073,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM7PO6AZ8NA.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-15T13:52:00",
@@ -3659,8 +4082,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0715L1Y1F.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3668,8 +4091,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2H1V.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3677,8 +4100,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2H1U.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3686,8 +4109,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2H0Y.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3695,8 +4118,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2H00.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3704,8 +4127,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GY7.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3713,8 +4136,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GY5.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3722,8 +4145,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GX8.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3731,8 +4154,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GV4.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3740,8 +4163,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GTB.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3749,8 +4172,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GSP.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3758,8 +4181,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GS0.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3767,8 +4190,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GRF.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3776,8 +4199,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GQM.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3785,8 +4208,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GOO.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3794,8 +4217,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GON.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3803,8 +4226,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GNN.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3812,8 +4235,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GNM.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3821,8 +4244,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GMJ.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3830,8 +4253,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GMI.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3839,8 +4262,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GLG.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3848,8 +4271,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GLE.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3857,8 +4280,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GJC.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3866,8 +4289,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GJ8.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3875,8 +4298,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GJ7.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:21:00",
   "amount" : 500.00,
@@ -3884,8 +4307,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2DE4.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:21:00",
   "amount" : 500.00,
@@ -3893,8 +4316,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2DAZ.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:20:00",
   "amount" : 500.00,
@@ -3902,8 +4325,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2DB1.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:20:00",
   "amount" : 500.00,
@@ -3911,8 +4334,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2D9Z.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:20:00",
   "amount" : 500.00,
@@ -3920,8 +4343,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2D7V.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:20:00",
   "amount" : 500.00,
@@ -3929,8 +4352,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2D6V.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-06-30T00:00:00",
   "amount" : 112286.42,
@@ -3992,7 +4415,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM6NO673NE8.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-23T13:52:00",
@@ -4001,7 +4424,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM6NO673KZX.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-23T13:52:00",
@@ -4010,7 +4433,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM6NO673KZT.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-23T13:52:00",
@@ -4028,7 +4451,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM6NO673IZR.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-23T11:35:00",
@@ -4136,7 +4559,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM5PO63SJNC.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-25T15:25:00",
@@ -4145,7 +4568,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM5PO63SJ16.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-24T13:22:00",
@@ -4154,7 +4577,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM5OO63MPTM.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-24T13:22:00",
@@ -4163,7 +4586,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM5OO63MPTE.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-24T13:22:00",
@@ -4235,7 +4658,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM4PO60NZFG.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-25T13:26:00",
@@ -4244,7 +4667,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM4PO60NZ9C.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-19T16:15:00",
@@ -4271,7 +4694,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM4FO5ZTQKW.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-15T10:48:00",
@@ -4289,7 +4712,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM4FO5ZTQ9L.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-08T10:13:00",
@@ -4343,7 +4766,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM3OO5Y1KAV.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-24T09:27:00",
@@ -4352,7 +4775,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM3OO5Y1K7A.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-22T13:51:00",
@@ -4370,7 +4793,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM3MO5XWFK2.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-22T13:48:00",
@@ -4379,7 +4802,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM3MO5XWF4T.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-01T14:21:00",
@@ -4415,7 +4838,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLM2PO5W9AFE.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-24T15:32:00",
@@ -4424,7 +4847,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM2OO5W84QB.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-24T15:14:00",
@@ -4433,7 +4856,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM2OO5W8149.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-18T15:18:00",
@@ -4460,7 +4883,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM2FO5UM4Y8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-15T15:39:00",
@@ -4469,7 +4892,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM2FO5UM4H9.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-10T03:44:00",
@@ -4518,7 +4941,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-01-31T00:00:00",
-  "amount" : 100511.23,
+  "amount" : 109499.23,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -4544,13 +4967,31 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
+  "dateTime" : "2022-01-28T11:33:00",
+  "amount" : -2397.00,
+  "purposeOfPayment" : "Пов.плат.2021.07.06№144863741.1;2021.07.06№144864014.1та ін. згід. листа№2701/21497 від 27.01.22 Лавренева7/10, ІПН 2930306712 Майоров Сергій Володимирович",
+  "counterpartyTaxCode" : "2930306712",
+  "counterpartyName" : "МАЙОРОВ СЕРГІЙ ВОЛОДИМИРОВИЧ",
+  "reference" : "JBKLM1SO5RR8LZ.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2022-01-28T11:33:00",
+  "amount" : -597.00,
+  "purposeOfPayment" : "Пов.плат.2021.03.13№115396994.1;2021.04.02№120612423.1 лист№2701/21496 від 27.01.22 Лавренева7/10, ІПН 2930306712 Майоров Сергій Володимирович",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLM1SO5RR89G.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2022-01-26T19:54:00",
   "amount" : -9190.00,
   "purposeOfPayment" : "Прибирання МЗК. Січень 2022. Згідно рахунку №220125 від 25 січня 2022 р. Без ПДВ.",
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLM1QO5RJ23M.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-26T19:52:00",
@@ -4559,7 +5000,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLM1QO5RJ20N.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-26T19:51:00",
@@ -4568,7 +5009,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLM1QO5RJ20C.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-26T14:58:00",
@@ -4588,6 +5029,24 @@
   "reference" : "JBKLM1PO5R8NX2.1",
   "category" : "Сервітут",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2022-01-24T12:06:00",
+  "amount" : -2997.00,
+  "purposeOfPayment" : "Пов.плат.2021.03.13№115396994.1;2021.04.02№120612423.1;2021.07.06№14486374.1та інш.;лист№1801/21237 Лавренева7/10, ІПН 2930306712 МайоровСергійВолодимирович",
+  "counterpartyTaxCode" : "2930306712",
+  "counterpartyName" : "Майоров Сергій Володимирович",
+  "reference" : "JBKLM1OO5R18JE.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2022-01-21T12:37:00",
+  "amount" : -2997.00,
+  "purposeOfPayment" : "Пов.плат.2021.03.13№115396994.1;2021.04.02№120612423.1;2021.07.06№14486374.1та інш.;лист№1801/21237 Лавренева7/10, ІПН 2930306712 МайоровСергійВолодимирович",
+  "counterpartyTaxCode" : "2930306712",
+  "counterpartyName" : "АТ УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLM1LO5QSI8M.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-20T14:19:00",
   "amount" : 1000.00,
@@ -4658,7 +5117,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM1CO5P62MZ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-12T13:53:00",
@@ -4667,7 +5126,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM1CO5P60YQ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-11T11:46:00",
@@ -4689,7 +5148,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-31T00:00:00",
-  "amount" : 113098.67,
+  "amount" : 114286.67,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -4778,13 +5237,22 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
+  "dateTime" : "2021-12-24T15:10:00",
+  "amount" : -188.00,
+  "purposeOfPayment" : "Повернен. плат. від 2021.11.20 №282009356.1 Утримання буд. від Бабенко Любов, о/р осбб порядок о р 86, вул.49 Гвардійської Дивізії, буд18, корп.4, кв.86.",
+  "counterpartyTaxCode" : "2108109255",
+  "counterpartyName" : "Бабенко Микола Олексійович",
+  "reference" : "JBKLLCOO5MTQOJ.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2021-12-23T14:43:00",
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLLCNO5MLPYK.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-23T14:24:00",
@@ -4793,7 +5261,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLLCNO5MLGKJ.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-23T14:23:00",
@@ -4802,7 +5270,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLLCNO5MLFN2.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-15T16:57:00",
@@ -4811,7 +5279,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLCFO5L6AHK.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-15T16:57:00",
@@ -4820,7 +5288,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLCFO5L6AHC.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-15T16:57:00",
@@ -4847,7 +5315,16 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLC6O5JJL93.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-12-03T11:22:00",
+  "amount" : -1000.00,
+  "purposeOfPayment" : "Повернення платежу від 2021-10-08 №269328404.1 Утриман. будин. від Ставицький Олексій Анатолійович, о/р ОСББ, вул.Лавреньова, буд.24, кв.29. Пл-к Ставицький О.А",
+  "counterpartyTaxCode" : "3515714410",
+  "counterpartyName" : "Ставицький Олексій Анатолійович",
+  "reference" : "JBKLLC3O5J44RH.1",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-30T17:43:00",
@@ -4860,7 +5337,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-30T00:00:00",
-  "amount" : 97506.78,
+  "amount" : 98146.78,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -4892,7 +5369,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBOO5HKV53.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-23T15:19:00",
@@ -4901,7 +5378,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLLBNO5HIOQ8.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-23T14:59:00",
@@ -4910,7 +5387,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLLBNO5HIESB.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-23T14:59:00",
@@ -4919,7 +5396,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLLBNO5HIEKZ.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-17T15:21:00",
@@ -4937,8 +5414,8 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBFO5G27L9.1",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T13:17:00",
   "amount" : 10000.00,
@@ -4946,8 +5423,8 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBFO5G2735.1",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T13:14:00",
   "amount" : 12000.00,
@@ -4955,8 +5432,8 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLBFO5G2538.1",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T10:28:00",
   "amount" : -5465.97,
@@ -4973,7 +5450,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLBFO5FYN2K.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-15T10:28:00",
@@ -4982,7 +5459,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBFO5FYN28.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-09T14:36:00",
@@ -4992,6 +5469,15 @@
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLB9O5F96WZ.1",
   "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-11-08T17:12:00",
+  "amount" : -640.00,
+  "purposeOfPayment" : "Пов.плат.від2021-10-12№270275330.1,2021-09-14№262517165.1,2021-08-15№254838019.1,2021-07-12№146162203.1Университетская 126, ІПН 3118909214 Брежнєв Сергій Петров",
+  "counterpartyTaxCode" : "3118909214",
+  "counterpartyName" : "АТ УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLLB8O5F3ZBA.1",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-05T13:16:00",
@@ -5018,11 +5504,11 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLLAVO5DRAH1.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-31T00:00:00",
-  "amount" : 125941.54,
+  "amount" : 125978.54,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5054,7 +5540,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLLAPO5CTYDM.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-25T14:09:00",
@@ -5072,7 +5558,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLLAPO5CTTVE.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-20T15:05:00",
@@ -5117,7 +5603,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLAFO5BD2ND.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-15T13:32:00",
@@ -5135,7 +5621,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLAFO5BD2IO.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-13T12:50:00",
@@ -5309,6 +5795,15 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
+  "dateTime" : "2021-10-04T10:07:00",
+  "amount" : -37.00,
+  "purposeOfPayment" : "Повернення платежу від 12.09.21 №261926275.1 Утрим.буд. від Волкова Наталя Олександрівна, о/р 23709220. Платник: ІПН 3025014219 Волков Олег Миколайович.",
+  "counterpartyTaxCode" : "3025014219",
+  "counterpartyName" : "Волков Олег Миколайович",
+  "reference" : "JBKLLA4O59EPJ2.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2021-09-30T00:00:00",
   "amount" : 115896.60,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2021 року",
@@ -5333,7 +5828,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL9QO58ACM8.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-27T00:01:00",
@@ -5342,7 +5837,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL9QO58ACJU.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-26T14:20:00",
@@ -5351,7 +5846,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL9QO58ACJE.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-21T14:20:00",
@@ -5396,7 +5891,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL9FO56NNLR.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-15T13:18:00",
@@ -5414,7 +5909,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL9FO56NM4U.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-08T18:17:00",
@@ -5454,7 +5949,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-31T00:00:00",
-  "amount" : 103273.84,
+  "amount" : 104704.69,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5540,7 +6035,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL8OO537KW9.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-25T00:01:00",
@@ -5549,7 +6044,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL8OO537KVM.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-19T14:48:00",
@@ -5579,6 +6074,42 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
+  "dateTime" : "2021-08-17T14:54:00",
+  "amount" : -370.94,
+  "purposeOfPayment" : "Поверн. плат. від 05.01.21 №99498797.1, від 03.02.21 №106416895.1. Утрим. будинку від Рудченко Ольга Василівна, п-к: ІПН 3575507242 Лєншина Олена Артурівна",
+  "counterpartyTaxCode" : "3575507242",
+  "counterpartyName" : "Лєншина Олена Артурівна",
+  "reference" : "JBKLL8HO52D6JM.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-08-17T14:54:00",
+  "amount" : -370.94,
+  "purposeOfPayment" : "Поверн. плат. від 05.03.21 №113711689.1, від 05.04.21 №121342141.1. Утрим. будинку від Рудченко Ольга Василівна, п-к: ІПН 3575507242 Лєншина Олена Артурівна",
+  "counterpartyTaxCode" : "3575507242",
+  "counterpartyName" : "Лєншина Олена Артурівна",
+  "reference" : "JBKLL8HO52D6JC.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-08-17T14:54:00",
+  "amount" : -318.03,
+  "purposeOfPayment" : "Поверн. плат. від 01.05.21 №128287017.1, від 03.06.21 №136733988.1. Утрим. будинку від Рудченко Ольга Василівна, п-к: ІПН 3575507242 Лєншина лена Артурівна",
+  "counterpartyTaxCode" : "3575507242",
+  "counterpartyName" : "Лєншина Олена Артурівна",
+  "reference" : "JBKLL8HO52D6IG.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-08-17T14:54:00",
+  "amount" : -370.94,
+  "purposeOfPayment" : "Поверн. плат. від 03.07.21 №144124947.1, від 30.07.21 №251070653.1. Утрим. будинку від Рудченко Ольга Василівна, п-к: ІПН 3575507242 Лєншина Олена Артурівна",
+  "counterpartyTaxCode" : "3575507242",
+  "counterpartyName" : "Лєншина Олена Артурівна",
+  "reference" : "JBKLL8HO52D6HN.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2021-08-17T13:49:00",
   "amount" : 40347.43,
   "purposeOfPayment" : "Повернення коштiв згiдно депозитного договору No 1009509 вiд 31.03.2021",
@@ -5594,7 +6125,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL8HO52CB9V.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-16T10:31:00",
@@ -5612,7 +6143,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL8GO52051C.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-16T10:28:00",
@@ -5621,7 +6152,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL8GO5203SX.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-12T15:09:00",
@@ -5693,7 +6224,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL7KO4Y0U1L.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-20T11:21:00",
@@ -5738,7 +6269,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL7DO4WXZ3K.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-13T16:12:00",
@@ -5747,7 +6278,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL7DO4WXZ34.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-13T16:12:00",
@@ -5787,7 +6318,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-30T00:00:00",
-  "amount" : 103963.06,
+  "amount" : 108143.06,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5810,7 +6341,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL6OO4U6GHM.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-24T16:17:00",
@@ -5819,7 +6350,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL6OO4U6GAO.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-18T11:47:00",
@@ -5831,13 +6362,31 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
+  "dateTime" : "2021-06-17T15:13:00",
+  "amount" : -1050.00,
+  "purposeOfPayment" : "Повер. 3х плат.№104116470.1(23.01.21), №111396480.1 и №111397974.1(23.02.21), Утрим.буд Євтушенко І.О, О/р40216486, п-к: ІПН 3392810642 Євтушенко Ірина Олегівна",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL6HO4T7DW1.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-06-17T14:56:00",
+  "amount" : -700.00,
+  "purposeOfPayment" : "Поверн.2 платежів №120415874.1 (01.04.21), №132413254.1 (18.05.21), Утрим.буд від Євтушенко І.О., О/р 40216486, п-к: ІПН 3392810642 Євтушенко Ірина Олегівна",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL6HO4T7EQV.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2021-06-15T16:37:00",
   "amount" : -5328.96,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №252700299868 від 23.05.2021. У сумі 4440.80 грн., ПДВ - 20 % 888.16 грн.",
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL6FO4SU971.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-14T16:23:00",
@@ -5855,7 +6404,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL6EO4SKRFS.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-14T16:19:00",
@@ -5864,7 +6413,25 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL6EO4SKPRQ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-06-14T09:47:00",
+  "amount" : -292.00,
+  "purposeOfPayment" : "ПОВЕРН.ПЛАТЕЖІВ №107174485.1 (07.02.21), №113205692.1 (02.03.21), УТРИМ.БУД ВІД ВІРА АРТЕМЕНКО, о/р 4171330, ПЛАТНИК: ІПН 1483001762 АРТЕМЕНКО ВІРА ВАСИЛІВНА",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL6EO4SF59M.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-06-14T09:47:00",
+  "amount" : -292.00,
+  "purposeOfPayment" : "ПОВЕРН.ПЛАТЕЖІВ №120790721.1 (02.04.21), №129147069.1 (05.05.21), УТРИМ.БУД ВІД ВІРА АРТЕМЕНКО, о/р 4171330, ПЛАТНИК: ІПН 1483001762 АРТЕМЕНКО ВІРА ВАСИЛІВНА",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL6EO4SF59K.1",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-10T16:35:00",
@@ -5885,6 +6452,42 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
+  "dateTime" : "2021-06-04T14:07:00",
+  "amount" : -300.00,
+  "purposeOfPayment" : "Повер.плат.№85908160.1(04.11.20),№79055463.1(02.10.20),№73110990.1(02.09.20) Утрим.буд від Теребчук Ігор Миколайович, Плат-к: ІПН 3122515790 Теребчук Ігор М.",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL64O4R9ZI6.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-06-04T14:06:00",
+  "amount" : -700.00,
+  "purposeOfPayment" : "Повер.плат.№106386095.1(03.02.21),№99351055.1(04.01.21),№92095697.1(02.12.20) Утрим.буд від Теребчук Ігор Миколайович, Плат-к: ІПН 3122515790 Теребчук Ігор М.",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL64O4R9YZC.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-06-04T14:01:00",
+  "amount" : -700.00,
+  "purposeOfPayment" : "Повер.плат.№128783752.1(04.05.21),№120642168.1(02.04.21),№113038792.1(02.03.21) Утрим.буд від Теребчук Ігор Миколайович, Плат-к: ІПН 3122515790 Теребчук Ігор М.",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL64O4R9WHP.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-06-02T16:05:00",
+  "amount" : -146.00,
+  "purposeOfPayment" : "ПОВЕР.ПЛАТ. №100031897.1 від 08.01.2021 УТРИМ. БУДИНКУ ВІД КОВАЛЬ ОЛЬГА СЕРГІЇВНА, О/Р 4171330, платник ІПН 2810107149 Коваль Ольга Сергіївна",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL62O4QWDU0.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2021-05-31T12:04:00",
   "amount" : 500.00,
   "purposeOfPayment" : "за користування спiльним майном за травень-червень 2021 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ.",
@@ -5895,7 +6498,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-05-31T00:00:00",
-  "amount" : 92298.24,
+  "amount" : 93438.24,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5963,7 +6566,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL5PO4PKURQ.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-25T10:11:00",
@@ -5972,7 +6575,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL5PO4PKUN9.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-19T09:06:00",
@@ -5981,7 +6584,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL5JO4OOV0X.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-19T09:06:00",
@@ -5999,7 +6602,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL5JO4OOV0R.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-18T15:23:00",
@@ -6029,8 +6632,17 @@
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
 }, {
+  "dateTime" : "2021-05-11T14:52:00",
+  "amount" : -1140.00,
+  "purposeOfPayment" : "Повер.плат. №97583702.1 (26.12.20), №66406838.1 (27.07.20) Утрим.будинку від Данілевська Анжела Василівна, О/Р 433524799000002600, ІПН 3018520184.",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL5BO4NFKCA.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2021-04-30T00:00:00",
-  "amount" : 96021.11,
+  "amount" : 96175.11,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -6062,7 +6674,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL4RO4LOYSH.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-27T11:38:00",
@@ -6080,7 +6692,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL4RO4LOY5K.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-26T20:15:00",
@@ -6089,7 +6701,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL4QO4LN4TB.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-26T20:08:00",
@@ -6098,7 +6710,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL4QO4LN4MV.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-26T20:07:00",
@@ -6107,7 +6719,16 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL4QO4LN4LH.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-04-22T16:41:00",
+  "amount" : -154.00,
+  "purposeOfPayment" : "Повер.плат.№122696132.1(11.04.21), №117981718.1(21.03.21) Утрим.буд. Григор`єв Олександр Валерійович, о/р 023524570000026005300633281, прос.Строителей,14А/кв39.",
+  "counterpartyTaxCode" : "21133352",
+  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
+  "reference" : "JBKLL4MO4L95PJ.1",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-20T17:01:00",
@@ -6197,8 +6818,8 @@
   "counterpartyTaxCode" : "40118015",
   "counterpartyName" : "ЗАПОРІЗЬКЕ ШОСЕ 80 ОСББ",
   "reference" : "HSACL0331L03TY.1",
-  "category" : "Доходи від депозитів",
-  "kind" : "дохід"
+  "category" : "Перерахування на депозит",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-31T12:18:00",
   "amount" : 1500.00,
@@ -6210,7 +6831,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-03-31T00:00:00",
-  "amount" : 100118.72,
+  "amount" : 101058.72,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -6233,7 +6854,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL3OO4H131J.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-24T15:00:00",
@@ -6251,7 +6872,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL3OO4H10Y0.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-24T14:37:00",
@@ -6260,7 +6881,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL3OO4H0TJG.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-24T14:36:00",
@@ -6269,7 +6890,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL3OO4H0T2U.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-23T17:52:00",
@@ -6278,7 +6899,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL3NO4GX7VP.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-23T17:50:00",
@@ -6297,6 +6918,24 @@
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL32O4DZFNI.1",
   "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-03-01T13:31:00",
+  "amount" : -315.00,
+  "purposeOfPayment" : "Поверн. помилк. плат. 0.0.1935321171.1, м/о @2PL525269 вiд 09.12.2020 п-к Михальченко Ольга Сергiївна, зверн. № 29302514, згiдно листа вiд 15.01.2021",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLL31O4DPLIO.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2021-03-01T13:31:00",
+  "amount" : -625.00,
+  "purposeOfPayment" : "Поверн. помилк. плат. 0.0.1845209822.1, м/о @2PL982220 вiд 22.09.2020 п-к Михальченко Ольга Сергiївна, зверн. № 29302578, згiдно листа вiд 15.01.2021",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "JBKLL31O4DPLIF.1",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-28T00:00:00",
@@ -6323,7 +6962,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL2QO4DI4DT.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-23T18:41:00",
@@ -6332,7 +6971,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL2NO4CZU4C.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-23T18:34:00",
@@ -6341,7 +6980,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL2NO4CZTRG.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-23T18:32:00",
@@ -6350,7 +6989,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL2NO4CZTMR.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-23T11:35:00",
@@ -6368,7 +7007,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL2NO4CW1GH.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-22T16:50:00",
@@ -6494,8 +7133,8 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "COIIL0210T97ZH.P",
-  "category" : "Дрібні витрати",
-  "kind" : "витрати"
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2021-02-10T03:40:00",
   "amount" : -2248.98,
@@ -6602,7 +7241,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL1QO493ZE6.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-26T14:29:00",
@@ -6629,7 +7268,7 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLL1QO493JW2.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-26T13:31:00",
@@ -6638,7 +7277,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL1QO493EF8.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-26T13:22:00",
@@ -6647,7 +7286,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLL1QO493BE8.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-25T15:05:00",
@@ -6710,7 +7349,7 @@
   "counterpartyTaxCode" : "02128158",
   "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
   "reference" : "JBKLKCVO45NWCE.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-04T00:01:00",
@@ -6719,6 +7358,6 @@
   "counterpartyTaxCode" : "42082379",
   "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
   "reference" : "JBKLKCVO45NW7I.1",
-  "category" : "Послуги (мусор, е/e, прибирання)",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 } ]
