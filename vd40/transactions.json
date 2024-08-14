@@ -1,6 +1,15 @@
 [ {
   "dateTime" : "2024-08-31T00:00:00",
-  "amount" : 45294.05,
+  "amount" : -11372.84,
+  "purposeOfPayment" : "витрати на зарплату за Серпень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Працівники",
+  "reference" : "SALARY-2024-08",
+  "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-31T00:00:00",
+  "amount" : 49618.51,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,12 +18,21 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-31T00:00:00",
-  "amount" : -356.00,
+  "amount" : -368.00,
   "purposeOfPayment" : "банківськи комісії за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2024-08",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-14T03:34:00",
+  "amount" : -504.00,
+  "purposeOfPayment" : "5169 **** **** 2713 13.08.2024 22:02:25 Поповнення мобільного: +380730040402",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "COIIO8EY0HEQDS.1",
+  "category" : "Дрібні витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-12T17:46:00",
