@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-31T00:00:00",
-  "amount" : 78462.44,
+  "amount" : 79638.44,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -116,15 +116,6 @@
   "category" : "Дрібні витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-08-12T17:46:00",
-  "amount" : 1176.00,
-  "purposeOfPayment" : "Особ/рах. 307, Платник Цибченко Ганна Савелівна,",
-  "counterpartyTaxCode" : "39859339",
-  "counterpartyName" : "ТОВ \"СВІФТ ГАРАНТ\"",
-  "reference" : "HS42O0812L1ZI4.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-08-09T10:36:00",
   "amount" : 5000.00,
   "purposeOfPayment" : "Сплата за оренду приміщення згідно Договору №2 від 01.05.2023р., без ПДВ",
@@ -167,7 +158,7 @@
   "counterpartyTaxCode" : "03341305",
   "counterpartyName" : "КП \"ДНІПРОВОДОКАНАЛ\"",
   "reference" : "JBKLO81O9P25RN.1",
-  "category" : "інщі витрати",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-01T17:04:00",
@@ -189,7 +180,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-31T00:00:00",
-  "amount" : 121319.46,
+  "amount" : 123799.46,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -233,30 +224,12 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-07-29T16:22:00",
-  "amount" : 350.00,
-  "purposeOfPayment" : "Особ/р. 307, Платник Цибченко Ганна Савелівна,",
-  "counterpartyTaxCode" : "39859339",
-  "counterpartyName" : "ТОВ \"СВІФТ ГАРАНТ\"",
-  "reference" : "HS43O0729L1IED.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-07-26T15:10:00",
   "amount" : 1100.00,
   "purposeOfPayment" : "Оплата за надання доступу до елементів інфраструктури об'єкта будівництва  за Липень 2024 р.  згідно договору №2024072501 від 25.07.2024",
   "counterpartyTaxCode" : "42880795",
   "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
   "reference" : "JBKLO7QO9NSMD1.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-07-26T13:38:00",
-  "amount" : 256.10,
-  "purposeOfPayment" : "ЗА ПОСЛУГИ ВЕЛИКА ДІЇВСЬКА 40, ОСББ ВІД Велиика Діївська 40, Цибченко Ганна Савелівна",
-  "counterpartyTaxCode" : "35442539",
-  "counterpartyName" : "ТОВ \"ФК \"КОНТРАКТОВИЙ ДІМ\"",
-  "reference" : "HS43O0726L0X21.P",
   "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
@@ -267,15 +240,6 @@
   "counterpartyName" : "СОЮЗ ТОВ",
   "reference" : "JBKLO7QO9NQ3MR.1",
   "category" : "Реклама",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-07-25T13:23:00",
-  "amount" : 280.00,
-  "purposeOfPayment" : "велика діївська 40 кв. 398, Платник Балабуц Лариса ВАСИЛЬЕВНА,",
-  "counterpartyTaxCode" : "39859339",
-  "counterpartyName" : "ТОВ \"СВІФТ ГАРАНТ\"",
-  "reference" : "HS43O0725L0RPB.P",
-  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-07-23T14:23:00",
@@ -338,7 +302,7 @@
   "counterpartyTaxCode" : "03341305",
   "counterpartyName" : "КП \"ДНІПРОВОДОКАНАЛ\"",
   "reference" : "JBKLO7NO9MYZ9U.1",
-  "category" : "інщі витрати",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-23T09:08:00",
@@ -404,15 +368,6 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2024-07-11T22:13:00",
-  "amount" : 1593.90,
-  "purposeOfPayment" : "О/Р 488 А Н/П ВІД РАХМАНОВ В.Ю. ЗА 2 КВАРТАЛ",
-  "counterpartyTaxCode" : "2812204902",
-  "counterpartyName" : "Ломтікова Л. І. ФОП",
-  "reference" : "JBKLO7BO9KTT1M.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-07-09T14:17:00",
   "amount" : -15000.00,
   "purposeOfPayment" : "Сплата за перемотування ліфтового електродвигуна (3-й під'їзд) згідно рахунку №12 від 09.07.2024р.",
@@ -468,7 +423,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-30T00:00:00",
-  "amount" : 115478.75,
+  "amount" : 115728.75,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -493,15 +448,6 @@
   "reference" : "JBKLO6SO9I317T.1",
   "category" : "інщі витрати",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2024-06-24T16:29:00",
-  "amount" : 250.00,
-  "purposeOfPayment" : "велика діївська 40 кв.398, Платник Балабуц Лариса ВАСИЛЬЕВНА,",
-  "counterpartyTaxCode" : "39859339",
-  "counterpartyName" : "ТОВ \"СВІФТ ГАРАНТ\"",
-  "reference" : "HS42O0624L1J2E.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2024-06-24T15:32:00",
   "amount" : -6000.00,
@@ -702,7 +648,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-31T00:00:00",
-  "amount" : 119142.80,
+  "amount" : 120138.80,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -872,15 +818,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-05-13T16:53:00",
-  "amount" : 996.00,
-  "purposeOfPayment" : "осбб велика діївська 40 кв. 398, Платник Балабуц Лариса ВАСИЛЬЕВНА,",
-  "counterpartyTaxCode" : "39859339",
-  "counterpartyName" : "ТОВ \"СВІФТ ГАРАНТ\"",
-  "reference" : "HS42O0513L1NH7.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-05-10T14:30:00",
   "amount" : -10576.08,
   "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА ТРАВЕНЬ 2024Р., Без ПДВ.",
@@ -923,7 +860,7 @@
   "counterpartyTaxCode" : "03341305",
   "counterpartyName" : "КП \"ДНІПРОВОДОКАНАЛ\"",
   "reference" : "JBKLO58O97PV2Z.1",
-  "category" : "інщі витрати",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-07T11:26:00",
@@ -954,7 +891,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-30T00:00:00",
-  "amount" : 121193.17,
+  "amount" : 123780.07,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1025,15 +962,6 @@
   "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-04-22T17:56:00",
-  "amount" : 993.00,
-  "purposeOfPayment" : "за березень 2024 о/р 98 Богуславський А В , платник Дмитренко Олександр Григорович, № оп.472976080",
-  "counterpartyTaxCode" : "20042839",
-  "counterpartyName" : "ПрАТ Банк Фамільний",
-  "reference" : "HS41O0422L2BKU.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-04-19T14:27:00",
   "amount" : -1949.01,
   "purposeOfPayment" : "Перевитрати згідно авансового звіту №86 від 19.04.2024р. Без ПДВ.",
@@ -1068,15 +996,6 @@
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS43O0415L1XX2.P",
   "category" : "Сервітут",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-04-10T22:13:00",
-  "amount" : 1593.90,
-  "purposeOfPayment" : "О/Р 488 А Н/П ВІД РАХМАНОВ В.Ю. ЗА 2 КВАРТАЛ",
-  "counterpartyTaxCode" : "2812204902",
-  "counterpartyName" : "Ломтікова Л. І. ФОП",
-  "reference" : "JBKLO4AO929RGL.1",
-  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-04-10T17:35:00",
@@ -1215,7 +1134,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : 132420.55,
+  "amount" : 134014.45,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1338,15 +1257,6 @@
   "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
   "reference" : "HS43O0305L1YC9.P",
   "category" : "Сервітут",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-03-04T17:07:00",
-  "amount" : 1593.90,
-  "purposeOfPayment" : " О/р 488 а н/п від Рахманов В.Ю. за 1 квартал",
-  "counterpartyTaxCode" : "2812204902",
-  "counterpartyName" : "Ломтікова Л. І. ФОП",
-  "reference" : "JBKLO34O8UUUCX.1",
-  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-03-04T09:26:00",
@@ -2646,7 +2556,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-31T00:00:00",
-  "amount" : 114791.28,
+  "amount" : 114984.28,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -2680,15 +2590,6 @@
   "reference" : "JBKLN8TO7WJGV0.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-08-24T17:22:00",
-  "amount" : 193.00,
-  "purposeOfPayment" : "рахунок на сплату внеску інших платежів за липень2023 від 03.08.2023 о/р 98,вул велика діївська ,буд40,кв98 , платник Дмитренко Олександр Григорович",
-  "counterpartyTaxCode" : "20042839",
-  "counterpartyName" : "ПрАТ \"БАНК ФАМІЛЬНИЙ\"",
-  "reference" : "HS41N0824L1DEZ.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-08-23T14:37:00",
   "amount" : -25532.00,
@@ -2880,7 +2781,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-31T00:00:00",
-  "amount" : 136254.33,
+  "amount" : 136654.33,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -2923,15 +2824,6 @@
   "reference" : "JBKLN7QO7QUEHG.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-07-25T17:34:00",
-  "amount" : 400.00,
-  "purposeOfPayment" : "рахунок на сплату внеску та інших платежів за червень 2023,від 04.07.2023 ,о/р 98 дмитренко (за площю квартири) , платник Дмитренко Олександр Григорович",
-  "counterpartyTaxCode" : "20042839",
-  "counterpartyName" : "ФЧ д/р с по реквизитам b342",
-  "reference" : "HS41N0725L1KY0.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-07-24T15:11:00",
   "amount" : -26805.00,

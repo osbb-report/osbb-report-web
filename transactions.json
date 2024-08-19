@@ -243,7 +243,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-30T00:00:00",
-  "amount" : 94439.21,
+  "amount" : 94739.81,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -293,15 +293,6 @@
   "counterpartyTaxCode" : "3561000071",
   "counterpartyName" : "Четверик Павло Романович",
   "reference" : "HS41O0623L082I.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-06-19T01:46:00",
-  "amount" : 300.60,
-  "purposeOfPayment" : "*345*Янківський В.П.",
-  "counterpartyTaxCode" : "1762100162",
-  "counterpartyName" : "ЯНКІВСЬКА ЛЮБОВ ІВАНІВНА",
-  "reference" : "HS42O0619L00FM.P",
   "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
@@ -621,7 +612,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : 108270.96,
+  "amount" : 109799.46,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -727,15 +718,6 @@
   "reference" : "JBKLO3EO8WVMVG.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2024-03-09T06:11:00",
-  "amount" : 1528.50,
-  "purposeOfPayment" : "О/р 248",
-  "counterpartyTaxCode" : "3219319034",
-  "counterpartyName" : "Кравець Ігор Миколайович",
-  "reference" : "HS43O0309L00ZJ.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2024-03-08T15:09:00",
   "amount" : 3222.00,
