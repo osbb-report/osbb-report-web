@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-31T00:00:00",
-  "amount" : 104941.67,
+  "amount" : 109753.37,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -25,6 +25,24 @@
   "reference" : "BANKFEE-2024-08",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2024-08-29T17:19:00",
+  "amount" : 1100.00,
+  "purposeOfPayment" : "Оплата по договору №Б\\Н від 01.08.2023р., без ПДВ.",
+  "counterpartyTaxCode" : "19199961",
+  "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+  "reference" : "HS41O0829L1VZ3.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-08-28T16:22:00",
+  "amount" : 6816.00,
+  "purposeOfPayment" : "за доступ зг. дог. 194 від 01.03.2024 без ПДВ",
+  "counterpartyTaxCode" : "36094444",
+  "counterpartyName" : "ТОВ \"ІНТРА.КОМ\"",
+  "reference" : "HS41O0828L1PMV.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-26T15:03:00",
   "amount" : -4595.00,
