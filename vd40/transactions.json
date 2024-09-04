@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : 6436.00,
+  "amount" : 8444.16,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,12 +9,75 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : -353.00,
+  "amount" : -359.00,
   "purposeOfPayment" : "банківськи комісії за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2024-09",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-04T14:33:00",
+  "amount" : 0.01,
+  "purposeOfPayment" : "ВД №205/3976/21; 24.01.2022; Зима ДО; ВП №75860892; Кошти за ВД, стягнуті на користь стягувача",
+  "counterpartyTaxCode" : "2856712550",
+  "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
+  "reference" : "JBKLO94O9VSBI5.P",
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-09-04T10:20:00",
+  "amount" : -10761.12,
+  "purposeOfPayment" : "Електрична енергія в т.ч. за послуги розподілу та передачі електроенергії. Згідно Рах. №254701754884 від 31.07.2024 У сумі 8967.60 грн., ПДВ - 20 % 1793.52 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLO94O9VOCOF.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-04T10:20:00",
+  "amount" : -26.33,
+  "purposeOfPayment" : "3% річних згідно попередження №521000030017/100003154597 від 22.08.2024р., о/р №521000030017.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLO94O9VOCOC.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-04T09:19:00",
+  "amount" : -6500.00,
+  "purposeOfPayment" : "Сплата за заміну ділянки каналізаційного стояка (1-2 поверх, 12-й під'їзд) згідно акту №892 від 04.09.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO94O9VNMMT.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-04T09:19:00",
+  "amount" : -1000.00,
+  "purposeOfPayment" : "Сплата за заміну вузла системи ЦО (підвал 9-го під'їзду) згідно акту №893 від 04.09.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO94O9VNMMS.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-04T09:19:00",
+  "amount" : -2760.24,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00001646 ВІД 02.09.2024Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLO94O9VNMMQ.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-04T09:19:00",
+  "amount" : -645.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00001633 ВІД 30.08.2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLO94O9VNMMN.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-02T14:16:00",
