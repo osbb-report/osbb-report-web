@@ -1,11 +1,29 @@
 [ {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : 2647.52,
+  "amount" : 3857.84,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "CONTRIB-2024-09",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-09-09T11:05:00",
+  "amount" : 1466.08,
+  "purposeOfPayment" : "Управління багатоквартирним будинком кв 483",
+  "counterpartyTaxCode" : "3197218844",
+  "counterpartyName" : "Лі Ірина Станіславівна",
+  "reference" : "HS43O0909L0FSG.P",
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-09-09T09:01:00",
+  "amount" : 608.08,
+  "purposeOfPayment" : "Мінічев С.А. Управління багатоквартирним будинком за вересень 2024, адреса- вул. Метробудівська, буд. 5, кв. 158, о/р 158",
+  "counterpartyTaxCode" : "2756012847",
+  "counterpartyName" : "Мінічева Наталія Миколаївна",
+  "reference" : "HS42O0909L03WT.P",
+  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-14T16:48:00",
