@@ -1,11 +1,20 @@
 [ {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : 33375.06,
+  "amount" : 33777.22,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
   "reference" : "CONTRIB-2024-09",
   "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-09-23T13:48:00",
+  "amount" : 399.52,
+  "purposeOfPayment" : "Сплата  за вересень 2024, Донченко Тетяна Вадимівна",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "D2P1O0923APHF9.P",
+  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-22T18:57:00",
