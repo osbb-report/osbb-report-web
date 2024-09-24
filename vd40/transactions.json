@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : 117713.65,
+  "amount" : 119248.94,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -24,6 +24,42 @@
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2024-09",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-24T09:23:00",
+  "amount" : -10576.08,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА ВЕРЕСЕНЬ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO9OO9ZVDXM.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-24T09:23:00",
+  "amount" : -13750.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА ВЕРЕСЕНЬ 2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO9OO9ZVDXH.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-24T09:23:00",
+  "amount" : -7066.58,
+  "purposeOfPayment" : "СПЛАТА ЗА БУХГАЛТЕРСЬКЕ ОБСЛУГОВУВАННЯ ЗА ВЕРЕСЕНЬ 2024Р. Без ПДВ.",
+  "counterpartyTaxCode" : "2134101089",
+  "counterpartyName" : "ЗАБІРНА О.В. ФОП",
+  "reference" : "JBKLO9OO9ZVDXG.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-24T09:23:00",
+  "amount" : -30640.00,
+  "purposeOfPayment" : "Сплата за прибирання місць загального користування у вересні 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLO9OO9ZVDXA.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-17T13:04:00",
@@ -144,7 +180,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-31T00:00:00",
-  "amount" : -22745.68,
+  "amount" : -7737.26,
   "purposeOfPayment" : "витрати на зарплату за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -153,7 +189,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-31T00:00:00",
-  "amount" : 113688.51,
+  "amount" : 98680.09,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -387,7 +423,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-07-31T00:00:00",
-  "amount" : -22745.68,
+  "amount" : -7737.26,
   "purposeOfPayment" : "витрати на зарплату за Липень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -396,7 +432,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-31T00:00:00",
-  "amount" : 123799.46,
+  "amount" : 108791.04,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -630,7 +666,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-06-30T00:00:00",
-  "amount" : -22733.48,
+  "amount" : -7733.11,
   "purposeOfPayment" : "витрати на зарплату за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -639,7 +675,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-30T00:00:00",
-  "amount" : 115728.75,
+  "amount" : 100728.38,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -855,7 +891,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-05-31T00:00:00",
-  "amount" : -22733.48,
+  "amount" : -7733.11,
   "purposeOfPayment" : "витрати на зарплату за Травень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -864,7 +900,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-31T00:00:00",
-  "amount" : 120138.80,
+  "amount" : 105138.43,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1098,7 +1134,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-04-30T00:00:00",
-  "amount" : -22733.48,
+  "amount" : -7733.11,
   "purposeOfPayment" : "витрати на зарплату за Квітень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -1107,7 +1143,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-30T00:00:00",
-  "amount" : 123780.07,
+  "amount" : 108779.70,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1341,7 +1377,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : -22733.48,
+  "amount" : -7733.11,
   "purposeOfPayment" : "витрати на зарплату за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -1350,7 +1386,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : 134014.45,
+  "amount" : 119014.08,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1494,7 +1530,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-29T00:00:00",
-  "amount" : -22733.48,
+  "amount" : -7733.11,
   "purposeOfPayment" : "витрати на зарплату за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -1503,7 +1539,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-29T00:00:00",
-  "amount" : 120640.40,
+  "amount" : 105640.03,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -1701,7 +1737,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : -30233.66,
+  "amount" : -15233.29,
   "purposeOfPayment" : "витрати на зарплату за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -1710,7 +1746,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 114525.72,
+  "amount" : 99525.35,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5517,7 +5553,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-28T00:00:00",
-  "amount" : 112705.32,
+  "amount" : 114705.32,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5587,15 +5623,6 @@
   "reference" : "COIIM0217MFDGE.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-02-15T17:06:00",
-  "amount" : 2000.00,
-  "purposeOfPayment" : "Рах. на сплату та інших платежів.",
-  "counterpartyTaxCode" : "2791812974",
-  "counterpartyName" : "Чередник Сергій Олексійович",
-  "reference" : "HSKLM0215L4APY.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-02-15T13:02:00",
   "amount" : 4805.00,
@@ -7389,7 +7416,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-30T00:00:00",
-  "amount" : 118242.18,
+  "amount" : 119242.18,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -7630,15 +7657,6 @@
   "reference" : "JBKLL46O4IOIH3.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-04-05T04:09:00",
-  "amount" : 1000.00,
-  "purposeOfPayment" : "оплата",
-  "counterpartyTaxCode" : "3604206140",
-  "counterpartyName" : "Шамаракова Єлизавета Сергіївна",
-  "reference" : "HSKLL0405L04GK.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-04-02T11:10:00",
   "amount" : -12350.00,
