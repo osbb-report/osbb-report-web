@@ -1,6 +1,24 @@
 [ {
+  "dateTime" : "2024-09-30T10:32:00",
+  "amount" : -10150.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №857 ВІД 27.09.2024Р.  БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLO9UOA0YZF3.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-09-30T10:32:00",
+  "amount" : -4200.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта 9-го під'їзду згідно акту №1008 від 27.09.2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLO9UOA0YZEY.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : -3868.63,
+  "amount" : -7737.26,
   "purposeOfPayment" : "витрати на зарплату за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -9,7 +27,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : 134526.40,
+  "amount" : 127425.89,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -18,7 +36,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : -374.00,
+  "amount" : -386.00,
   "purposeOfPayment" : "банківськи комісії за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
