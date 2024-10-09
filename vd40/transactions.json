@@ -104,7 +104,7 @@
   "counterpartyTaxCode" : "42880795",
   "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
   "reference" : "JBKLO9ROA0QW0Q.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-26T17:00:00",
@@ -122,7 +122,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO9OO9ZVDXM.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-24T09:23:00",
@@ -131,7 +131,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO9OO9ZVDXH.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-24T09:23:00",
@@ -158,7 +158,7 @@
   "counterpartyTaxCode" : "43376691",
   "counterpartyName" : "ТОВ \"НОВОБОКС\"",
   "reference" : "HS42O0917L11Z3.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-16T15:33:00",
@@ -167,7 +167,7 @@
   "counterpartyTaxCode" : "2856712550",
   "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
   "reference" : "JBKLO9GO9Y8YCU.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-12T09:04:00",
@@ -176,7 +176,7 @@
   "counterpartyTaxCode" : "2856712550",
   "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
   "reference" : "JBKLO9CO9XDWT9.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-09T10:21:00",
@@ -203,7 +203,7 @@
   "counterpartyTaxCode" : "2856712550",
   "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
   "reference" : "JBKLO94O9VSBI5.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-04T10:20:00",
@@ -239,7 +239,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO94O9VNMMS.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-04T09:19:00",
@@ -302,7 +302,7 @@
   "counterpartyTaxCode" : "42880795",
   "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
   "reference" : "JBKLO8UO9UZ22A.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-29T17:19:00",
@@ -347,7 +347,7 @@
   "counterpartyTaxCode" : "2856712550",
   "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
   "reference" : "JBKLO8NO9TI83Z.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-23T10:45:00",
@@ -356,7 +356,7 @@
   "counterpartyTaxCode" : "2856712550",
   "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
   "reference" : "JBKLO8NO9TI83Q.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-20T14:36:00",
@@ -392,7 +392,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO8JO9SHF06.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-19T12:54:00",
@@ -410,7 +410,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO8JO9SHEZJ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-16T15:40:00",
@@ -572,7 +572,7 @@
   "counterpartyTaxCode" : "42880795",
   "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
   "reference" : "JBKLO7QO9NSMD1.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-07-26T12:32:00",
@@ -662,7 +662,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO7NO9MYU0W.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-23T09:08:00",
@@ -671,7 +671,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO7NO9MYU0V.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-19T14:52:00",
@@ -905,7 +905,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO6EO9F8B5X.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-14T12:18:00",
@@ -923,7 +923,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO6EO9F8B5J.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-14T11:19:00",
@@ -1166,7 +1166,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO5AO989HSI.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-10T14:30:00",
@@ -1184,7 +1184,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO5AO989HS3.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-10T12:01:00",
@@ -1400,7 +1400,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO48O91MVA3.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-08T13:21:00",
@@ -1418,7 +1418,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO48O91MV9Q.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-05T11:02:00",
@@ -1553,7 +1553,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO3MO8YGVV4.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-22T10:26:00",
@@ -1562,7 +1562,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO3MO8YGVV1.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-22T10:26:00",
@@ -1733,7 +1733,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO2KO8SH0HC.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-20T16:50:00",
@@ -1742,7 +1742,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO2KO8SH0H9.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-20T16:50:00",
@@ -1922,7 +1922,7 @@
   "counterpartyTaxCode" : "33103969",
   "counterpartyName" : "ТОВ \"Телесвіт\"",
   "reference" : "HS43O0117L1HWQ.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-01-16T10:44:00",
@@ -1940,7 +1940,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO1GO8LS44H.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-16T10:44:00",
@@ -1949,7 +1949,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO1GO8LS44E.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-15T18:18:00",
@@ -2097,7 +2097,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-31T00:00:00",
-  "amount" : 125503.96,
+  "amount" : 125815.96,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -2159,15 +2159,6 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2023-12-18T17:45:00",
-  "amount" : 312.00,
-  "purposeOfPayment" : "Платежі за Недоговірні платежі 541 перепелиця о д Жовті Води велика діївська 40 2023-12-14",
-  "counterpartyTaxCode" : "21560045",
-  "counterpartyName" : "АТ \"Укрпошта\"",
-  "reference" : "HS42N1218L246C.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2023-12-14T15:09:00",
   "amount" : -6558.00,
   "purposeOfPayment" : "Сплата за поточний ремонт системи ХВП в 12-му під'їзді згідно рахунку №231214 від 14.12.2023р.",
@@ -2192,7 +2183,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNCDO8FTRWG.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-13T13:45:00",
@@ -2210,7 +2201,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNCDO8FTRW7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-11T14:48:00",
@@ -2237,7 +2228,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNCBO8FAKQA.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-11T09:43:00",
@@ -2318,7 +2309,7 @@
   "counterpartyTaxCode" : "33769837",
   "counterpartyName" : "ТОВ \"МЕГА ЛІНК\"",
   "reference" : "HS41N1124L1GLS.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-11-24T14:47:00",
@@ -2345,7 +2336,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNBGO8AW6K3.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-16T14:15:00",
@@ -2354,7 +2345,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNBGO8AW6JY.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-16T14:15:00",
@@ -2372,8 +2363,8 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNBGO8AVOHR.1",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-11-14T14:11:00",
   "amount" : -9720.00,
@@ -2426,7 +2417,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNB6O88V1Y0.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-03T14:48:00",
@@ -2462,7 +2453,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNB3O88EUM4.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-02T17:11:00",
@@ -2543,8 +2534,8 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNAHO85CQJE.1",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-17T16:31:00",
   "amount" : -10072.46,
@@ -2552,7 +2543,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNAHO85CPAU.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-17T16:31:00",
@@ -2615,7 +2606,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNA9O83ODY4.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-04T21:02:00",
@@ -2975,7 +2966,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN8LO7V8FBG.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-21T12:28:00",
@@ -2993,7 +2984,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN8LO7V8FB7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-21T12:24:00",
@@ -3182,7 +3173,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN7OO7QIHSA.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-24T13:08:00",
@@ -3191,7 +3182,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN7OO7QIHS5.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-24T13:08:00",
@@ -3299,7 +3290,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN6NO7LHGII.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-23T10:26:00",
@@ -3308,7 +3299,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN6NO7LHGIE.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-23T10:26:00",
@@ -3362,7 +3353,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN66O7IP283.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-05T15:17:00",
@@ -3380,7 +3371,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN65O7IFPAV.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-31T00:00:00",
@@ -3416,7 +3407,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN5PO7GTJJ6.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-24T12:29:00",
@@ -3605,7 +3596,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN4KO7BGTDB.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-20T17:21:00",
@@ -3623,7 +3614,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN4KO7BGTD6.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-20T17:21:00",
@@ -3812,7 +3803,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN3HO76DXBE.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-17T10:16:00",
@@ -3821,7 +3812,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN3HO76DXB9.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-15T10:56:00",
@@ -3938,7 +3929,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN2KO72OTD0.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-20T15:32:00",
@@ -3956,7 +3947,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN2KO72OTCN.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-18T12:46:00",
@@ -4082,7 +4073,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN1UO6ZN6SF.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-23T12:13:00",
@@ -4334,7 +4325,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMCNO6UYOTJ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-23T12:02:00",
@@ -4361,7 +4352,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMCNO6UYOT1.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-22T09:55:00",
@@ -4487,7 +4478,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMBUO6RSZFM.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-30T17:10:00",
@@ -4649,7 +4640,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMAPO6N0URJ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-25T13:40:00",
@@ -4793,7 +4784,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM9RO6J7UXR.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-27T15:05:00",
@@ -4955,7 +4946,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM8QO6F3PMY.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-26T11:08:00",
@@ -5108,7 +5099,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM7LO6AKBM2.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-21T12:56:00",
@@ -5252,7 +5243,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM6LO66SMM4.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-21T14:12:00",
@@ -5360,7 +5351,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM5PO63S8KA.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-25T14:52:00",
@@ -5450,7 +5441,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM4MO60LEN7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-22T16:26:00",
@@ -5603,7 +5594,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM3LO5XR7SC.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-21T10:30:00",
@@ -5675,7 +5666,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM2OO5W6B4D.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-24T11:12:00",
@@ -5900,7 +5891,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM1PO5RALCH.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-25T14:59:00",
@@ -6152,7 +6143,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLCLO5M2136.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-21T10:53:00",
@@ -6314,7 +6305,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLBTO5I4O6R.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-29T08:51:00",
@@ -6503,7 +6494,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLAMO5CHSYH.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-22T11:21:00",
@@ -6647,7 +6638,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL9RO58C63C.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-25T14:32:00",
@@ -6791,7 +6782,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL8PO538O8U.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-25T09:59:00",
@@ -7007,7 +6998,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL7RO4YZNYJ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-22T16:57:00",
@@ -7187,7 +7178,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL6MO4TSSQI.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-22T15:46:00",
@@ -7403,7 +7394,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL5PO4PL2GP.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-25T10:29:00",
@@ -7529,7 +7520,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL4QO4LIV5N.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-26T11:45:00",
@@ -7817,7 +7808,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL3PO4H3PRQ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-25T10:38:00",
@@ -7997,8 +7988,8 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL2MO4CQL5C.1",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2021-02-22T11:38:00",
   "amount" : -13027.25,
@@ -8087,7 +8078,7 @@
   "counterpartyTaxCode" : "42755018",
   "counterpartyName" : "К.У.Б ТОВ",
   "reference" : "JBKLL28O4AVX7R.1",
-  "category" : "Бухгалтер",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-04T10:06:00",

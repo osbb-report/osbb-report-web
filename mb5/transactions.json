@@ -9,7 +9,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-10-31T00:00:00",
-  "amount" : -350.00,
+  "amount" : -353.00,
   "purposeOfPayment" : "банківськи комісії за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
@@ -23,7 +23,7 @@
   "counterpartyTaxCode" : "3271507392",
   "counterpartyName" : "КУШНИР Д. А. ФОП",
   "reference" : "JBKLOA9OA3AL15.1",
-  "category" : "інщі витрати",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-10-08T14:52:00",
@@ -33,15 +33,6 @@
   "counterpartyName" : "К.У.Б ТОВ",
   "reference" : "JBKLOA8OA32V3W.1",
   "category" : "Бухгалтер",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2024-10-08T08:34:00",
-  "amount" : -3.00,
-  "purposeOfPayment" : "Комiсiя за виконання платежiв в нацiональнiй валютi, згiдно з вiдкритою офертою банку N б/н вiд 09.07.2024 та тарифiв банку, без ПДВ.",
-  "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
-  "reference" : "JBKLOA8OA2XCN2.Y",
-  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-10-08T08:34:00",
@@ -68,7 +59,7 @@
   "counterpartyTaxCode" : "42880795",
   "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
   "reference" : "JBKLO9ROA0QVVQ.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-22T18:57:00",
@@ -77,7 +68,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "COIIO9MY01IWGG.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Дрібні витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-14T16:48:00",

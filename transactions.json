@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2024-10-31T00:00:00",
-  "amount" : 35375.90,
+  "amount" : 35570.40,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,42 @@
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2024-10",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-09T23:21:00",
+  "amount" : -10500.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування інженерних мереж житлового будинку в жовтні 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLOA9OA3FB0H.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-09T23:21:00",
+  "amount" : -6194.46,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського обліку в жовтні 2024р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLOA9OA3FB0G.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-09T23:20:00",
+  "amount" : -12500.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ В ЖОВТНІ 2024Р., Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLOA9OA3FB0F.1",
+  "category" : "Послуги (мусор, е/e, прибирання)",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-09T23:14:00",
+  "amount" : -62560.00,
+  "purposeOfPayment" : "Чищення міжповерхових каналів та монтаж нової електричної проводки від електрощитової до квартир 12-го під'їзду. Згідно договору №241009 від 09 жовтня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLOA9OA3FAV4.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-10-09T14:24:00",
@@ -59,7 +95,7 @@
   "counterpartyTaxCode" : "42880795",
   "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
   "reference" : "JBKLO9ROA0QVXF.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-26T11:28:00",
@@ -104,7 +140,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO9NO9ZOYP8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-23T13:05:00",
@@ -113,7 +149,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO9NO9ZOYP5.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-23T13:05:00",
@@ -140,7 +176,7 @@
   "counterpartyTaxCode" : "43376691",
   "counterpartyName" : "ТОВ \"НОВОБОКС\"",
   "reference" : "HS43O0918L0XOP.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-01T16:55:00",
@@ -221,7 +257,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO8JO9SHC8K.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-19T12:50:00",
@@ -230,7 +266,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO8JO9SHC8D.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-16T13:04:00",
@@ -311,7 +347,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO7NO9MYSZ8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-23T09:03:00",
@@ -320,7 +356,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO7NO9MYSZ7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-23T09:03:00",
@@ -356,8 +392,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS41O0712L18H8.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2024-07-08T13:35:00",
   "amount" : -10131.51,
@@ -464,7 +500,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO6EO9F899B.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-14T12:15:00",
@@ -473,7 +509,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO6EO9F899I.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-03T11:40:00",
@@ -581,7 +617,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO5AO989FJZ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-10T14:26:00",
@@ -599,7 +635,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO5AO989FJW.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-07T09:13:00",
@@ -689,8 +725,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS43O0415L20RC.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2024-04-09T13:57:00",
   "amount" : 750.00,
@@ -716,7 +752,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO48O91MSYD.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-08T13:17:00",
@@ -725,7 +761,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO48O91MSY8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-01T11:44:00",
@@ -788,7 +824,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO3MO8YGRT0.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-22T10:18:00",
@@ -806,7 +842,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO3MO8YGRSL.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-18T14:49:00",
@@ -932,7 +968,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO2KO8SGWNF.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-20T16:42:00",
@@ -950,7 +986,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO2KO8SGWN7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-20T09:20:00",
@@ -1121,8 +1157,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS41O0115L24GH.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2024-01-11T16:53:00",
   "amount" : 500.00,
@@ -1193,7 +1229,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO19O8KKYVE.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-09T11:28:00",
@@ -1202,7 +1238,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO19O8KKYV9.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-08T09:55:00",
@@ -1301,7 +1337,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNCDO8FTQDF.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-13T13:42:00",
@@ -1310,7 +1346,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLNCDO8FTQDB.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-12T15:09:00",
@@ -1409,7 +1445,7 @@
   "counterpartyTaxCode" : "33769837",
   "counterpartyName" : "ТОВ \"МЕГА ЛІНК\"",
   "reference" : "HS41N1124L1G9C.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-11-23T13:01:00",
@@ -1454,7 +1490,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLNBGO8AW4L1.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-16T14:11:00",
@@ -1472,7 +1508,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLNBGO8AW4KV.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-16T02:56:00",
@@ -1562,7 +1598,7 @@
   "counterpartyTaxCode" : "44703621",
   "counterpartyName" : "Перший Правобережний ВДВС",
   "reference" : "HS42N1020L0GNF.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-20T10:39:00",
@@ -1571,7 +1607,7 @@
   "counterpartyTaxCode" : "44703621",
   "counterpartyName" : "Перший Правобережний ВДВС",
   "reference" : "HS42N1020L0GNE.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-20T10:39:00",
@@ -1580,7 +1616,7 @@
   "counterpartyTaxCode" : "44703621",
   "counterpartyName" : "Перший Правобережний ВДВС",
   "reference" : "HS42N1020L0GND.P",
-  "category" : "інщі прибутки",
+  "category" : "Стягування боргів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-18T14:36:00",
@@ -1607,8 +1643,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS43N1016L1LQ8.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-13T12:50:00",
   "amount" : -12447.00,
@@ -1715,7 +1751,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN9PO814ZN5.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-25T11:38:00",
@@ -1724,7 +1760,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN9PO814ZMX.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-25T11:38:00",
@@ -1742,7 +1778,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN9PO814ZMN.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-25T11:38:00",
@@ -1751,7 +1787,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN9PO814ZMI.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-21T15:57:00",
@@ -1760,7 +1796,7 @@
   "counterpartyTaxCode" : "33769837",
   "counterpartyName" : "ТОВ \"МЕГА ЛІНК\"",
   "reference" : "HS41N0921L1H8O.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-09-14T13:11:00",
@@ -1886,7 +1922,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN8EO7TXQYP.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-14T03:34:00",
@@ -1931,7 +1967,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN8AO7TGIZS.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-10T10:25:00",
@@ -2039,7 +2075,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN7JO7PUSDT.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-19T16:08:00",
@@ -2066,7 +2102,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN7JO7PUSDL.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-19T12:11:00",
@@ -2084,8 +2120,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS42N0717L167K.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-07-11T17:57:00",
   "amount" : 500.00,
@@ -2174,7 +2210,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN6EO7JULXX.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-14T10:30:00",
@@ -2192,7 +2228,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN6EO7JULXP.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-12T12:46:00",
@@ -2363,7 +2399,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN5CO7EQNE7.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-12T11:03:00",
@@ -2372,7 +2408,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN5CO7EQNE5.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-12T11:03:00",
@@ -2489,8 +2525,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HS43N0414L1F5K.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-04-11T18:27:00",
   "amount" : 1500.00,
@@ -2534,7 +2570,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN3VO78E8M8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-31T12:50:00",
@@ -2543,7 +2579,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN3VO78E8M3.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-31T00:00:00",
@@ -2606,7 +2642,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN32O74585J.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-02T09:01:00",
@@ -2624,7 +2660,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN32O74585D.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-28T00:00:00",
@@ -2732,7 +2768,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN27O70S7SC.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-07T08:41:00",
@@ -2741,7 +2777,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN27O70S7SB.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-07T08:41:00",
@@ -2840,7 +2876,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLN1HO6Y1VM9.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-17T12:29:00",
@@ -2849,7 +2885,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLN1HO6Y1VM8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-17T12:29:00",
@@ -2867,8 +2903,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLN0113L273Y.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2023-01-09T14:07:00",
   "amount" : -744.75,
@@ -3182,7 +3218,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMCKO6UE3TY.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-20T11:32:00",
@@ -3191,7 +3227,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMCKO6UE3TU.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-14T11:05:00",
@@ -3281,7 +3317,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMBIO6QCJT2.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-18T14:45:00",
@@ -3290,7 +3326,7 @@
   "counterpartyTaxCode" : "2134101089",
   "counterpartyName" : "ЗАБІРНА О.В. ФОП",
   "reference" : "JBKLMBIO6QCJT1.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-18T14:45:00",
@@ -3380,7 +3416,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLMAOO6MSTHC.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-24T10:08:00",
@@ -3389,7 +3425,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMAOO6MS6UK.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-17T15:41:00",
@@ -3407,8 +3443,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM1017L2A87.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-10-05T10:17:00",
   "amount" : -138265.45,
@@ -3506,7 +3542,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM9LO6IG7ZW.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-21T09:20:00",
@@ -3524,7 +3560,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM9LO6IG79Y.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-31T00:00:00",
@@ -3578,7 +3614,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM8OO6EWWOY.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-24T15:54:00",
@@ -3596,7 +3632,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM8OO6EWWH2.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-23T15:42:00",
@@ -3722,7 +3758,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM7PO6AZ8NK.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-25T14:48:00",
@@ -3740,7 +3776,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM7PO6AZ8NA.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-15T13:52:00",
@@ -3749,8 +3785,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0715L1Y1F.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3758,8 +3794,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2H1V.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3767,8 +3803,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2H1U.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3776,8 +3812,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2H0Y.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3785,8 +3821,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2H00.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3794,8 +3830,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GY7.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3803,8 +3839,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GY5.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3812,8 +3848,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GX8.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3821,8 +3857,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GV4.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3830,8 +3866,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GTB.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3839,8 +3875,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GSP.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3848,8 +3884,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GS0.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3857,8 +3893,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GRF.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3866,8 +3902,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GQM.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3875,8 +3911,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GOO.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3884,8 +3920,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GON.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3893,8 +3929,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GNN.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3902,8 +3938,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GNM.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3911,8 +3947,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GMJ.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3920,8 +3956,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GMI.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3929,8 +3965,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GLG.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3938,8 +3974,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GLE.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3947,8 +3983,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GJC.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3956,8 +3992,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GJ8.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:25:00",
   "amount" : 500.00,
@@ -3965,8 +4001,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2GJ7.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:21:00",
   "amount" : 500.00,
@@ -3974,8 +4010,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2DE4.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:21:00",
   "amount" : 500.00,
@@ -3983,8 +4019,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2DAZ.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:20:00",
   "amount" : 500.00,
@@ -3992,8 +4028,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2DB1.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:20:00",
   "amount" : 500.00,
@@ -4001,8 +4037,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2D9Z.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:20:00",
   "amount" : 500.00,
@@ -4010,8 +4046,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2D7V.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-12T16:20:00",
   "amount" : 500.00,
@@ -4019,8 +4055,8 @@
   "counterpartyTaxCode" : "21673832",
   "counterpartyName" : "ПрАТ \"Київстар\"",
   "reference" : "HSKLM0712L2D6V.P",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2022-06-30T00:00:00",
   "amount" : 112286.42,
@@ -4091,7 +4127,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM6NO673KZX.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-23T13:52:00",
@@ -4100,7 +4136,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM6NO673KZT.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-23T13:52:00",
@@ -4244,7 +4280,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM5OO63MPTM.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-24T13:22:00",
@@ -4253,7 +4289,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM5OO63MPTE.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-24T13:22:00",
@@ -4361,7 +4397,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM4FO5ZTQKW.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-15T10:48:00",
@@ -4379,7 +4415,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM4FO5ZTQ9L.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-08T10:13:00",
@@ -4460,7 +4496,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM3MO5XWFK2.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-22T13:48:00",
@@ -4469,7 +4505,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM3MO5XWF4T.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-01T14:21:00",
@@ -4550,7 +4586,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM2FO5UM4Y8.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-15T15:39:00",
@@ -4559,7 +4595,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM2FO5UM4H9.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-10T03:44:00",
@@ -4748,7 +4784,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLM1CO5P62MZ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-12T13:53:00",
@@ -4757,7 +4793,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLM1CO5P60YQ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-11T11:46:00",
@@ -4901,7 +4937,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLCFO5L6AHK.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-15T16:57:00",
@@ -4910,7 +4946,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLCFO5L6AHC.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-15T16:57:00",
@@ -4937,7 +4973,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLC6O5JJL93.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-30T17:43:00",
@@ -4982,7 +5018,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBOO5HKV53.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-23T15:19:00",
@@ -5045,8 +5081,8 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLBFO5G2538.1",
-  "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
+  "category" : "інщі прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T10:28:00",
   "amount" : -5465.97,
@@ -5063,7 +5099,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLBFO5FYN2K.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-15T10:28:00",
@@ -5072,7 +5108,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBFO5FYN28.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-09T14:36:00",
@@ -5207,7 +5243,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLAFO5BD2ND.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-15T13:32:00",
@@ -5225,7 +5261,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLAFO5BD2IO.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-13T12:50:00",
@@ -5486,7 +5522,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL9FO56NNLR.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-15T13:18:00",
@@ -5504,7 +5540,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL9FO56NM4U.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-08T18:17:00",
@@ -5702,7 +5738,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL8GO52051C.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-16T10:28:00",
@@ -5711,7 +5747,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL8GO5203SX.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-12T15:09:00",
@@ -5828,7 +5864,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL7DO4WXZ3K.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-13T16:12:00",
@@ -5837,7 +5873,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL7DO4WXZ34.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-13T16:12:00",
@@ -5945,7 +5981,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL6EO4SKRFS.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-14T16:19:00",
@@ -5954,7 +5990,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL6EO4SKPRQ.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-10T16:35:00",
@@ -6071,7 +6107,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL5JO4OOV0X.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-19T09:06:00",
@@ -6089,7 +6125,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL5JO4OOV0R.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-18T15:23:00",
@@ -6152,7 +6188,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL4RO4LOYSH.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-27T11:38:00",
@@ -6170,7 +6206,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL4RO4LOY5K.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-26T20:15:00",
@@ -6323,7 +6359,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL3OO4H131J.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-24T15:00:00",
@@ -6341,7 +6377,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL3OO4H10Y0.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-24T14:37:00",
@@ -6413,7 +6449,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLL2QO4DI4DT.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-23T18:41:00",
@@ -6458,7 +6494,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL2NO4CW1GH.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-22T16:50:00",
@@ -6692,7 +6728,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLL1QO493ZE6.1",
-  "category" : "Поточний ремонт та інше",
+  "category" : "Послуги (мусор, е/e, прибирання)",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-26T14:29:00",
