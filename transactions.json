@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2024-10-31T00:00:00",
-  "amount" : 35570.40,
+  "amount" : 39697.95,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -122,7 +122,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO9OOA03QTK.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-23T13:05:00",
@@ -221,7 +221,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO8TO9UJKRU.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-19T14:49:00",
@@ -338,7 +338,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO7NO9N76U1.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-23T09:03:00",
@@ -473,7 +473,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO6OO9H5XMJ.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-24T17:00:00",
@@ -608,7 +608,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO5EO98UHLL.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-10T14:26:00",
@@ -716,7 +716,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO4NO94VQ5C.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-15T16:45:00",
@@ -905,7 +905,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO35O8V0OS5.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-29T14:15:00",
@@ -959,7 +959,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO2QO8TAKLZ.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-20T16:42:00",
@@ -1094,7 +1094,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLO1PO8NJ6TM.1",
-  "category" : "інщі витрати",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-24T09:13:00",
