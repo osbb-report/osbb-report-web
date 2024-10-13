@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2024-10-31T00:00:00",
-  "amount" : 48411.20,
+  "amount" : 53956.75,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3285,7 +3285,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-30T00:00:00",
-  "amount" : 99506.20,
+  "amount" : 102341.20,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3336,6 +3336,15 @@
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLMBIO6QCJST.1",
   "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2022-11-13T12:26:00",
+  "amount" : -2835.00,
+  "purposeOfPayment" : "Організація святкування річниці ОСББ. Згідно договору №221112 від 12.11.2022р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLMBDO6PH7U4.1",
+  "category" : "Святкування",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-11T17:57:00",
