@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2024-10-31T00:00:00",
-  "amount" : 85890.43,
+  "amount" : 98117.48,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,12 +9,48 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-10-31T00:00:00",
-  "amount" : -353.00,
+  "amount" : -356.00,
   "purposeOfPayment" : "банківськи комісії за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2024-10",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-15T17:14:00",
+  "amount" : 4500.00,
+  "purposeOfPayment" : "Оплата зг.дог. 491703 про надання доступу до буд.розпод.мережі та інфраструктури будинку від 01.07.2024р. за 4 квартал 2024р. Без ПДВ",
+  "counterpartyTaxCode" : "21673832",
+  "counterpartyName" : "ПрАТ \"Київстар\"",
+  "reference" : "HS42O1015L28UU.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-10-15T15:45:00",
+  "amount" : -22500.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування ліфтів за вересень згідно рахунку №СФ-0000000048 від 30.09.2024р.",
+  "counterpartyTaxCode" : "41702143",
+  "counterpartyName" : "ЛІФТРЕММОНТАЖ ДНІПРО-НОВОКОДАЦЬКИЙ ТОВ",
+  "reference" : "JBKLOAFOA4K4I8.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-15T15:45:00",
+  "amount" : -15448.32,
+  "purposeOfPayment" : "Сплата за електричну енергію згідно рах. №258002090837 від 30.09.2024р., о/р №521000073448. У сумі 12873.60 грн., ПДВ - 20 % 2574.72 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLOAFOA4K4I2.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-10-15T02:58:00",
+  "amount" : -2897.12,
+  "purposeOfPayment" : "5169 **** **** 3779 13.10.2024 13:23:28 Дiм та ремонт: GHIPERMARKET EPICENTR, vul.Logistychna, 25",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "COIIOAFY04ZQ9P.1",
+  "category" : "Дрібні витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-10-11T11:36:00",
