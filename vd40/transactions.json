@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-11-30T00:00:00",
-  "amount" : 102817.91,
+  "amount" : 105334.56,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -18,12 +18,30 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-11-30T00:00:00",
-  "amount" : -365.00,
+  "amount" : -368.00,
   "purposeOfPayment" : "банківськи комісії за Листопад 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2024-11",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-25T15:38:00",
+  "amount" : -33100.00,
+  "purposeOfPayment" : "Сплата за прибирання місць загального користування у листопаді 2024р. Без ПДВ",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLOBPOAD8V8B.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-11-25T15:37:00",
+  "amount" : -375.80,
+  "purposeOfPayment" : "Перевитрати згідно авансового звіту від 25.11.2024р. Без ПДВ",
+  "counterpartyTaxCode" : "2774815598",
+  "counterpartyName" : "БЄКОЄВ СОСЛАН ЕНРІКОВИЧ",
+  "reference" : "JBKLOBPOAD8V1L.1",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-11-19T13:11:00",
