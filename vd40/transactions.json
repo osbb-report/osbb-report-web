@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2024-12-31T00:00:00",
-  "amount" : -11372.84,
+  "amount" : -23314.32,
   "purposeOfPayment" : "витрати на зарплату за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Працівники",
@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-31T00:00:00",
-  "amount" : 60366.57,
+  "amount" : 65777.62,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -18,7 +18,7 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-12-31T00:00:00",
-  "amount" : -368.00,
+  "amount" : -380.00,
   "purposeOfPayment" : "банківськи комісії за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
