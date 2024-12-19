@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2024-12-31T00:00:00",
-  "amount" : 150285.35,
+  "amount" : 165046.92,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,15 @@
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2024-12",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-18T18:33:00",
+  "amount" : -758.00,
+  "purposeOfPayment" : "5169 **** **** 3779 17.12.2024 12:53:46 Дiм та ремонт: SHOP EPITSENTR K YU, 25.25.BABENKA ST. AVE",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "COIIOCIY0FDA1V.1",
+  "category" : "Дрібні витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-11T16:49:00",
