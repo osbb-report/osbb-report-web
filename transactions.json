@@ -5148,6 +5148,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-31T00:00:00",
+  "amount" : 77212.33,
+  "purposeOfPayment" : "повернення коштів з депозита за Грудень 2021 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Депозит",
+  "reference" : "SAVEIN-2021-12",
+  "category" : "Доходи від депозитів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2021-12-31T00:00:00",
   "amount" : 114286.67,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2021 року",
   "counterpartyTaxCode" : "000000000",
@@ -5173,15 +5182,6 @@
   "reference" : "JBKLLCUO5NVP5O.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-12-30T15:48:00",
-  "amount" : 77212.33,
-  "purposeOfPayment" : "Повернення коштiв згiдно депозитного договору No 996236 вiд 25.12.2020",
-  "counterpartyTaxCode" : "40118015",
-  "counterpartyName" : "ЗАПОРІЗЬКЕ ШОСЕ 80 ОСББ",
-  "reference" : "HSAVL1230B4DD2.1",
-  "category" : "Доходи від депозитів",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-12-30T14:15:00",
   "amount" : 1000.00,
@@ -5949,6 +5949,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-31T00:00:00",
+  "amount" : 40347.43,
+  "purposeOfPayment" : "повернення коштів з депозита за Серпень 2021 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Депозит",
+  "reference" : "SAVEIN-2021-08",
+  "category" : "Доходи від депозитів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2021-08-31T00:00:00",
   "amount" : 104704.69,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2021 року",
   "counterpartyTaxCode" : "000000000",
@@ -6110,15 +6119,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-08-17T13:49:00",
-  "amount" : 40347.43,
-  "purposeOfPayment" : "Повернення коштiв згiдно депозитного договору No 1009509 вiд 31.03.2021",
-  "counterpartyTaxCode" : "40118015",
-  "counterpartyName" : "ЗАПОРІЗЬКЕ ШОСЕ 80 ОСББ",
-  "reference" : "HSAVL0817BQMJC.1",
-  "category" : "Доходи від депозитів",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-08-17T13:47:00",
   "amount" : -4425.12,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №255300369328 від 23.07.2021. У сумі 3687.60 грн., ПДВ - 20 % 737.52 грн.",
@@ -6172,6 +6172,15 @@
   "reference" : "JBKLL8AO51B7W6.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2021-07-31T00:00:00",
+  "amount" : 76314.91,
+  "purposeOfPayment" : "повернення коштів з депозита за Липень 2021 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Депозит",
+  "reference" : "SAVEIN-2021-07",
+  "category" : "Доходи від депозитів",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2021-07-31T00:00:00",
   "amount" : 112398.63,
@@ -6235,15 +6244,6 @@
   "reference" : "JBKLL7KO4Y0T75.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-07-20T11:16:00",
-  "amount" : 76314.91,
-  "purposeOfPayment" : "Повернення коштiв згiдно депозитного договору No 991527 вiд 28.11.2020",
-  "counterpartyTaxCode" : "40118015",
-  "counterpartyName" : "ЗАПОРІЗЬКЕ ШОСЕ 80 ОСББ",
-  "reference" : "HSAVL0720BOFBR.1",
-  "category" : "Доходи від депозитів",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-07-15T14:34:00",
   "amount" : -590.00,
@@ -6812,15 +6812,6 @@
   "category" : "Реклама",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2021-03-31T20:41:00",
-  "amount" : -40000.00,
-  "purposeOfPayment" : "Перерахування коштів на депозит згідно з відкритою офертою банку, договір № 1009509 від 31-03-2021р., без ПДВ. Строк - 90 дн., ставка - 3.0 %",
-  "counterpartyTaxCode" : "40118015",
-  "counterpartyName" : "ЗАПОРІЗЬКЕ ШОСЕ 80 ОСББ",
-  "reference" : "HSACL0331L03TY.1",
-  "category" : "Перерахування на депозит",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-03-31T12:18:00",
   "amount" : 1500.00,
   "purposeOfPayment" : "За послуги оренди за 01-03/2021  зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 1 вiд 31.03.21, без ПДВ.",
@@ -6829,6 +6820,15 @@
   "reference" : "HSKLL0331L20YS.P",
   "category" : "Сервітут",
   "kind" : "дохід"
+}, {
+  "dateTime" : "2021-03-31T00:00:00",
+  "amount" : -40000.00,
+  "purposeOfPayment" : "перерахування коштів на депозит за Березень 2021 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Депозит",
+  "reference" : "SAVEOUT-2021-03",
+  "category" : "Перерахування на депозит",
+  "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-31T00:00:00",
   "amount" : 101058.72,
