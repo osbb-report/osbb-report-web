@@ -50,7 +50,7 @@
   "counterpartyTaxCode" : "19199961",
   "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
   "reference" : "HS47O1219L0Q2M.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-12-18T14:26:00",
@@ -185,7 +185,7 @@
   "counterpartyTaxCode" : "19199961",
   "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
   "reference" : "HS42O1128L2RM1.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-11-26T13:17:00",

@@ -41,7 +41,7 @@
   "counterpartyTaxCode" : "19199961",
   "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
   "reference" : "HS49O1219L0RWV.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-12-18T12:08:00",
@@ -158,7 +158,7 @@
   "counterpartyTaxCode" : "19199961",
   "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
   "reference" : "HS42O1128L2RV4.P",
-  "category" : "інщі прибутки",
+  "category" : "Сервітут",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-11-11T13:44:00",
@@ -387,7 +387,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-30T00:00:00",
-  "amount" : 78237.56,
+  "amount" : 78568.06,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -439,15 +439,6 @@
   "reference" : "JBKLO99O9WPO24.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2024-09-04T15:43:00",
-  "amount" : 330.50,
-  "purposeOfPayment" : "КОРОБКОВА В.Ю.;0663020201 ;Управління багатоквартирним будинком;О/р:42, за 08/2024",
-  "counterpartyTaxCode" : "09305480",
-  "counterpartyName" : "Транз.рах. прийому комунальних платежів",
-  "reference" : "HS42O0904L1ERS.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-02T14:37:00",
   "amount" : -2355.00,
@@ -594,7 +585,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-31T00:00:00",
-  "amount" : 112912.29,
+  "amount" : 120312.29,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -618,60 +609,6 @@
   "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
   "reference" : "HS42O0730L261J.P",
   "category" : "Сервітут",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-07-29T16:41:00",
-  "amount" : 500.00,
-  "purposeOfPayment" : "УТРИМАННЯ БАГАТОКВ.БУД О/Р36 ВУЛ.РАДИСТІВ 2/36;Пл.: ПОЛИВЯНИЙ ОЛЕКСАНДР ОЛЕКСАНДРОВИЧА",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ И КАССЫ",
-  "reference" : "HS43O0729L1J87.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-07-29T16:41:00",
-  "amount" : 700.00,
-  "purposeOfPayment" : "УТРИМАННЯ БАГАТОКВ.БУД О/Р85 ВУЛ.РАДИСТІВ 2/85;Пл.: ПОЛИВЯНИЙ ОЛЕКСАНДР ОЛЕКСАНДРОВИЧ",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ И КАССЫ",
-  "reference" : "HS43O0729L1J85.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-07-29T16:28:00",
-  "amount" : 3400.00,
-  "purposeOfPayment" : "УТРИМАННЯ БАГАТОКВ.БУД О/Р 191 ВУЛ.РАДИСТІВ 2/191;Пл.: МАКАРЕНКО КАТЕРИНА АНАТОЛІЇВНА",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ И КАССЫ",
-  "reference" : "HS43O0729L1J86.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-07-29T16:28:00",
-  "amount" : 600.00,
-  "purposeOfPayment" : "УТРИМАННЯ БАГАТОКВ.БУД О/Р 86 ВУЛ.РАДИСТІВ 2/86;Пл.: КУКУРЕКОВ АНАТОЛІЙ АНАТОЛІЙОВИЧ",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ И КАССЫ",
-  "reference" : "HS43O0729L1J84.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-07-29T16:28:00",
-  "amount" : 900.00,
-  "purposeOfPayment" : "УТРИМАННЯ БАГАТОКВ.БУД О/Р 72 ВУЛ.РАДИСТІВ 2/72;Пл.: ПОЛИВЯНИЙ ОЛЕКСАНДР ОЛЕКСАНДРОВИЧ",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ И КАССЫ",
-  "reference" : "HS43O0729L1J83.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2024-07-29T16:28:00",
-  "amount" : 1300.00,
-  "purposeOfPayment" : "УТРИМАННЯ БАГАТОКВ.БУД. О/Р 87 ВУЛ.РАДИСТІВ 2/87;Пл.: МКАРЕНКО КАТЕРИНА АНАТОЛІЇВНА",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ И КАССЫ",
-  "reference" : "HS43O0729L1J82.P",
-  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-07-29T15:02:00",
@@ -1304,15 +1241,6 @@
   "category" : "Дрібні витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-04-30T08:46:00",
-  "amount" : 0.54,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOO0430BPM88.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-04-30T00:00:00",
   "amount" : -64051.31,
   "purposeOfPayment" : "перерахування коштів на депозит за Квітень 2024 року",
@@ -1323,7 +1251,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-30T00:00:00",
-  "amount" : 64662.95,
+  "amount" : 64663.49,
   "purposeOfPayment" : "повернення коштів з депозита за Квітень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -1481,7 +1409,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLO43O90T07E.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-02T16:49:00",
@@ -1520,15 +1448,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-03-31T08:45:00",
-  "amount" : 1.19,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOO0331BMN7U.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-03-31T00:00:00",
   "amount" : -33776.62,
   "purposeOfPayment" : "перерахування коштів на депозит за Березень 2024 року",
@@ -1539,7 +1458,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-31T00:00:00",
-  "amount" : 36650.00,
+  "amount" : 36651.19,
   "purposeOfPayment" : "повернення коштів з депозита за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -1616,7 +1535,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLO35O8V2XHG.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-29T10:47:00",
@@ -1628,15 +1547,6 @@
   "category" : "Бухгалтер",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-02-29T08:46:00",
-  "amount" : 1.76,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOO0229BKGFG.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-02-29T00:00:00",
   "amount" : -56598.48,
   "purposeOfPayment" : "перерахування коштів на депозит за Лютий 2024 року",
@@ -1647,7 +1557,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-29T00:00:00",
-  "amount" : 75822.00,
+  "amount" : 75823.76,
   "purposeOfPayment" : "повернення коштів з депозита за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -1706,7 +1616,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLO27O8PXPUO.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-01T15:40:00",
@@ -1727,15 +1637,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-01-31T08:45:00",
-  "amount" : 2.47,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOO0131BIS0N.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2024-01-31T00:00:00",
   "amount" : -46416.72,
   "purposeOfPayment" : "перерахування коштів на депозит за Січень 2024 року",
@@ -1746,7 +1647,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-31T00:00:00",
-  "amount" : 39200.00,
+  "amount" : 39202.47,
   "purposeOfPayment" : "повернення коштів з депозита за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -1832,17 +1733,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLO16O8KA7UN.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-12-31T08:45:00",
-  "amount" : 1.77,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON1231BH4VD.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-12-31T00:00:00",
   "amount" : -54487.75,
@@ -1854,7 +1746,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-31T00:00:00",
-  "amount" : 47020.50,
+  "amount" : 47022.27,
   "purposeOfPayment" : "повернення коштів з депозита за Грудень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -1922,7 +1814,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLNC7O8EQQPS.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-06T15:35:00",
@@ -1961,15 +1853,6 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2023-11-30T08:46:00",
-  "amount" : 10.16,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON1130BFFQI.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2023-11-30T00:00:00",
   "amount" : -46633.72,
   "purposeOfPayment" : "перерахування коштів на депозит за Листопад 2023 року",
@@ -1980,7 +1863,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-30T00:00:00",
-  "amount" : 97520.00,
+  "amount" : 97530.16,
   "purposeOfPayment" : "повернення коштів з депозита за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2057,7 +1940,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLNB2O888O6O.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-31T10:56:00",
@@ -2078,15 +1961,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2023-10-31T08:46:00",
-  "amount" : 12.04,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON1031BC361.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2023-10-31T00:00:00",
   "amount" : -60718.47,
   "purposeOfPayment" : "перерахування коштів на депозит за Жовтень 2023 року",
@@ -2097,7 +1971,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-31T00:00:00",
-  "amount" : 49100.00,
+  "amount" : 49112.04,
   "purposeOfPayment" : "повернення коштів з депозита за Жовтень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2210,17 +2084,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLNA3O82NUQ0.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-09-30T08:45:00",
-  "amount" : 11.53,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0930B9PQS.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-09-30T00:00:00",
   "amount" : -66673.03,
@@ -2232,7 +2097,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-30T00:00:00",
-  "amount" : 70000.00,
+  "amount" : 70011.53,
   "purposeOfPayment" : "повернення коштів з депозита за Вересень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2309,7 +2174,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN8VO7X1UQK.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-31T16:55:00",
@@ -2330,15 +2195,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2023-08-31T08:47:00",
-  "amount" : 10.90,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0831B7M9V.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2023-08-31T00:00:00",
   "amount" : -49767.07,
   "purposeOfPayment" : "перерахування коштів на депозит за Серпень 2023 року",
@@ -2349,7 +2205,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-31T00:00:00",
-  "amount" : 60650.00,
+  "amount" : 60660.90,
   "purposeOfPayment" : "повернення коштів з депозита за Серпень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2399,17 +2255,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN81O7RVGYZ.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-07-31T08:48:00",
-  "amount" : 10.54,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0731B52ZH.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-07-31T00:00:00",
   "amount" : -47358.78,
@@ -2421,7 +2268,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-31T00:00:00",
-  "amount" : 40300.00,
+  "amount" : 40310.54,
   "purposeOfPayment" : "повернення коштів з депозита за Липень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2498,17 +2345,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN74O7N6733.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-06-30T08:49:00",
-  "amount" : 9.28,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0630B2QH9.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-06-30T00:00:00",
   "amount" : -46040.91,
@@ -2520,7 +2358,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-30T00:00:00",
-  "amount" : 40200.00,
+  "amount" : 40209.28,
   "purposeOfPayment" : "повернення коштів з депозита за Червень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2606,17 +2444,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN61O7HZMHX.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-05-31T08:48:00",
-  "amount" : 11.70,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0531B14EH.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-05-31T00:00:00",
   "amount" : -48872.63,
@@ -2628,7 +2457,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-31T00:00:00",
-  "amount" : 63800.00,
+  "amount" : 63811.70,
   "purposeOfPayment" : "повернення коштів з депозита за Травень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2750,17 +2579,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN51O7CW88A.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-04-30T08:46:00",
-  "amount" : 12.44,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0430BSUY2.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-04-30T00:00:00",
   "amount" : -88186.23,
@@ -2772,7 +2592,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-30T00:00:00",
-  "amount" : 95550.00,
+  "amount" : 95562.44,
   "purposeOfPayment" : "повернення коштів з депозита за Квітень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2894,17 +2714,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN43O78ONWX.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-03-31T08:47:00",
-  "amount" : 14.10,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0331BQSQL.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-03-31T00:00:00",
   "amount" : -44287.79,
@@ -2916,7 +2727,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-31T00:00:00",
-  "amount" : 42700.00,
+  "amount" : 42714.10,
   "purposeOfPayment" : "повернення коштів з депозита за Березень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -2975,17 +2786,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN31O741MKY.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-02-28T08:47:00",
-  "amount" : 14.26,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0228BO086.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2023-02-28T00:00:00",
   "amount" : -50477.79,
@@ -2997,7 +2799,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-28T00:00:00",
-  "amount" : 83250.00,
+  "amount" : 83264.26,
   "purposeOfPayment" : "повернення коштів з депозита за Лютий 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -3083,7 +2885,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN27O70S6FF.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-07T08:03:00",
@@ -3104,15 +2906,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2023-01-31T08:47:00",
-  "amount" : 11.58,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0131BMDFO.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2023-01-31T00:00:00",
   "amount" : -65550.18,
   "purposeOfPayment" : "перерахування коштів на депозит за Січень 2023 року",
@@ -3123,7 +2916,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-31T00:00:00",
-  "amount" : 43700.00,
+  "amount" : 43719.26,
   "purposeOfPayment" : "повернення коштів з депозита за Січень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -3173,7 +2966,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLN1CO6XJFSX.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-03T13:02:00",
@@ -3193,15 +2986,6 @@
   "reference" : "JBKLN13O6WENM2.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2023-01-02T00:01:00",
-  "amount" : 7.68,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAON0101BKT3C.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-12-31T00:00:00",
   "amount" : -58977.96,
@@ -3231,7 +3015,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-31T00:00:00",
-  "amount" : 59821.79,
+  "amount" : 60176.83,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3248,32 +3032,14 @@
   "category" : "Банківськи комісії",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2022-12-19T12:37:00",
-  "amount" : 355.04,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №373, згідно реєстру за Листопад 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM1219L1R3E.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-12-08T11:46:00",
   "amount" : -1200.00,
   "purposeOfPayment" : "послуги з охорони за грудень 2022р. по рахунку № 19469 від 01.12.2022р.БезПДВ",
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLMC8O6SVE7U.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-11-30T08:47:00",
-  "amount" : 6.87,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM1130BIK85.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-11-30T00:00:00",
   "amount" : -39055.94,
@@ -3285,7 +3051,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-30T00:00:00",
-  "amount" : 66500.00,
+  "amount" : 66506.87,
   "purposeOfPayment" : "повернення коштів з депозита за Листопад 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -3303,7 +3069,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-30T00:00:00",
-  "amount" : 45055.71,
+  "amount" : 46209.96,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3338,15 +3104,6 @@
   "category" : "Бухгалтер",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2022-11-21T07:36:00",
-  "amount" : 1154.25,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №373, згідно реєстру за Жовтень 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM1121L08KI.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-11-10T15:27:00",
   "amount" : -2448.00,
   "purposeOfPayment" : "манометр 100мм 12шт. рахунок №59309 від 10.11.2022 р. У сумі 2040.00 грн., ПДВ - 20 % 408.00 грн.",
@@ -3380,7 +3137,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLMB1O6NWB3B.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-31T13:50:00",
@@ -3390,15 +3147,6 @@
   "counterpartyName" : "ТОВ \"НОВОБОКС\"",
   "reference" : "HSKLM1031L25PO.P",
   "category" : "Сервітут",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2022-10-31T08:47:00",
-  "amount" : 10.84,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM1031BFZ74.1",
-  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-10-31T00:00:00",
@@ -3411,7 +3159,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-31T00:00:00",
-  "amount" : 53400.00,
+  "amount" : 53410.84,
   "purposeOfPayment" : "повернення коштів з депозита за Жовтень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -3429,7 +3177,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-31T00:00:00",
-  "amount" : 62469.00,
+  "amount" : 62558.13,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3473,15 +3221,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2022-10-18T12:09:00",
-  "amount" : 89.13,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №373, згідно реєстру за Вересень 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM1018L17Q3.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-10-17T13:48:00",
   "amount" : 2160.00,
   "purposeOfPayment" : "Відшкод.витрат зг.дог. 437230 про надання доступу до буд.розпод.мережі та участь у витратах на утр. і рем.будинку від 01.01.2022р. за 4 квартал 2022р. Без ПДВ",
@@ -3506,17 +3245,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLMACO6L75YE.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-09-30T08:49:00",
-  "amount" : 6.13,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0930BDIUZ.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-09-30T00:00:00",
   "amount" : -51857.44,
@@ -3528,7 +3258,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-30T00:00:00",
-  "amount" : 38400.00,
+  "amount" : 38406.13,
   "purposeOfPayment" : "повернення коштів з депозита за Вересень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -3546,7 +3276,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-30T00:00:00",
-  "amount" : 52654.57,
+  "amount" : 52851.63,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3562,15 +3292,6 @@
   "reference" : "BANKFEE-2022-09",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-09-22T12:09:00",
-  "amount" : 197.06,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №373, згідно реєстру за Серпень 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM0922L181E.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-09-21T09:48:00",
   "amount" : -6000.00,
@@ -3596,7 +3317,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLM91O6FTDCK.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-31T14:46:00",
@@ -3608,15 +3329,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2022-08-31T08:47:00",
-  "amount" : 8.01,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0831BBTAH.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-08-31T00:00:00",
   "amount" : -51027.57,
   "purposeOfPayment" : "перерахування коштів на депозит за Серпень 2022 року",
@@ -3627,7 +3339,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-31T00:00:00",
-  "amount" : 51380.00,
+  "amount" : 51388.01,
   "purposeOfPayment" : "повернення коштів з депозита за Серпень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -3645,7 +3357,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-31T00:00:00",
-  "amount" : 54660.59,
+  "amount" : 54841.29,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3680,15 +3392,6 @@
   "category" : "Бухгалтер",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2022-08-23T16:26:00",
-  "amount" : 180.70,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №373, згідно реєстру за Липень 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM0823L2VFA.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-08-18T12:10:00",
   "amount" : -8278.12,
   "purposeOfPayment" : "Засувка 30ч6бр Ду 80 2 шт. ПО РАХУНКУ № 2142 від 18.08.2022Р. БЕЗ ПДВ.",
@@ -3722,17 +3425,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLM82O6C102B.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-07-31T08:46:00",
-  "amount" : 6.23,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0731B9XVU.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-31T00:00:00",
   "amount" : -48278.85,
@@ -3744,7 +3438,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-31T00:00:00",
-  "amount" : 53965.00,
+  "amount" : 53971.23,
   "purposeOfPayment" : "повернення коштів з депозита за Липень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -3762,7 +3456,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-31T00:00:00",
-  "amount" : 48897.49,
+  "amount" : 48920.49,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3778,15 +3472,6 @@
   "reference" : "BANKFEE-2022-07",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-07-28T11:20:00",
-  "amount" : 23.00,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №373, згідно реєстру за Червень 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM0728L0NUU.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-26T12:23:00",
   "amount" : -3630.00,
@@ -3887,15 +3572,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2022-06-30T08:47:00",
-  "amount" : 5.72,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0630B82DT.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-06-30T00:00:00",
   "amount" : -49383.55,
   "purposeOfPayment" : "перерахування коштів на депозит за Червень 2022 року",
@@ -3906,7 +3582,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-30T00:00:00",
-  "amount" : 31320.00,
+  "amount" : 31325.72,
   "purposeOfPayment" : "повернення коштів з депозита за Червень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -3924,7 +3600,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-30T00:00:00",
-  "amount" : 50505.97,
+  "amount" : 50620.94,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -3947,17 +3623,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLM6TO67PJT0.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-06-28T17:18:00",
-  "amount" : 114.97,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №373, згідно реєстру за Травень 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM0628L8W20.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-06-24T10:17:00",
   "amount" : -29466.50,
@@ -4010,17 +3677,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLM5VO64G33L.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-05-31T08:46:00",
-  "amount" : 5.29,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0531B625T.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-05-31T00:00:00",
   "amount" : -48261.07,
@@ -4032,7 +3690,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-31T00:00:00",
-  "amount" : 63305.00,
+  "amount" : 63310.29,
   "purposeOfPayment" : "повернення коштів з депозита за Травень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -4050,7 +3708,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-31T00:00:00",
-  "amount" : 50218.84,
+  "amount" : 51079.49,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -4103,32 +3761,14 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2022-05-18T07:32:00",
-  "amount" : 860.65,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №373, згідно реєстру за Квітень 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM0518L02YY.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-05-09T16:34:00",
   "amount" : -1100.00,
   "purposeOfPayment" : "послуги з охорони за травень 2022р. по рахунку № 7832 від 01.05.2022р.БезПДВ",
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLM59O621QCG.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-04-30T08:46:00",
-  "amount" : 7.48,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0430B41QC.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-04-30T00:00:00",
   "amount" : -37753.50,
@@ -4140,7 +3780,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-30T00:00:00",
-  "amount" : 38900.00,
+  "amount" : 38907.48,
   "purposeOfPayment" : "повернення коштів з депозита за Квітень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -4217,17 +3857,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLM43O5YRCD9.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2022-03-31T08:46:00",
-  "amount" : 8.98,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0331B2RFH.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2022-03-31T00:00:00",
   "amount" : -38450.89,
@@ -4239,7 +3870,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-31T00:00:00",
-  "amount" : 72200.00,
+  "amount" : 72208.98,
   "purposeOfPayment" : "повернення коштів з депозита за Березень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -4257,7 +3888,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-31T00:00:00",
-  "amount" : 38244.98,
+  "amount" : 39399.23,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -4301,15 +3932,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2022-03-21T21:57:00",
-  "amount" : 1154.25,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Лютий 2022 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLM0321L74IN.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-03-07T13:17:00",
   "amount" : -24472.00,
   "purposeOfPayment" : "Бензиновий генератор Vitals WP 5.0be по рахунку №10844 вiд 07.03.22р. У сумi 20393.33 грн., ПДВ - 20 % 4078.67 грн.",
@@ -4325,7 +3947,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLM37O5WUS4O.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-03T13:52:00",
@@ -4337,15 +3959,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2022-02-28T08:46:00",
-  "amount" : 10.81,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0228B0DU3.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2022-02-28T00:00:00",
   "amount" : -53004.70,
   "purposeOfPayment" : "перерахування коштів на депозит за Лютий 2022 року",
@@ -4356,7 +3969,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-28T00:00:00",
-  "amount" : 39400.00,
+  "amount" : 39410.81,
   "purposeOfPayment" : "повернення коштів з депозита за Лютий 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -4487,7 +4100,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLM22O5SHA1D.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-31T13:38:00",
@@ -4497,15 +4110,6 @@
   "counterpartyName" : "ТОВ \"НОВОБОКС\"",
   "reference" : "HSKLM0131L4X1J.P",
   "category" : "Сервітут",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2022-01-31T08:46:00",
-  "amount" : 9.53,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOM0131BUKAU.1",
-  "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-01-31T00:00:00",
@@ -4518,7 +4122,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-31T00:00:00",
-  "amount" : 42650.00,
+  "amount" : 42659.53,
   "purposeOfPayment" : "повернення коштів з депозита за Січень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -4598,15 +4202,6 @@
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-12-31T08:46:00",
-  "amount" : 8.96,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL1231BS98C.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-12-31T00:00:00",
   "amount" : -49120.65,
   "purposeOfPayment" : "перерахування коштів на депозит за Грудень 2021 року",
@@ -4617,7 +4212,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-31T00:00:00",
-  "amount" : 39250.00,
+  "amount" : 39258.96,
   "purposeOfPayment" : "повернення коштів з депозита за Грудень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -4635,7 +4230,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-31T00:00:00",
-  "amount" : 52186.70,
+  "amount" : 52498.53,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -4670,15 +4265,6 @@
   "category" : "Бухгалтер",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-12-20T08:04:00",
-  "amount" : 311.83,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Листопад 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL1220L1K6K.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-12-16T14:21:00",
   "amount" : -1825.00,
   "purposeOfPayment" : "Автоматичнi вимикачi NXB-125 1P C 125A 10kA; 5шт.; рахунок № 1364 вiд 25.11.2021р. Без ПДВ.",
@@ -4697,15 +4283,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-11-30T08:46:00",
-  "amount" : 8.17,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL1130BPZK0.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-11-30T00:00:00",
   "amount" : -57015.31,
   "purposeOfPayment" : "перерахування коштів на депозит за Листопад 2021 року",
@@ -4716,7 +4293,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-30T00:00:00",
-  "amount" : 71754.73,
+  "amount" : 71762.90,
   "purposeOfPayment" : "повернення коштів з депозита за Листопад 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -4734,7 +4311,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-30T00:00:00",
-  "amount" : 50102.66,
+  "amount" : 60198.57,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -4757,7 +4334,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLLBTO5I5UXS.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-29T10:46:00",
@@ -4766,7 +4343,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLLBTO5I5UXN.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-26T18:08:00",
@@ -4814,60 +4391,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-11-19T12:18:00",
-  "amount" : 1485.91,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Жовтень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL1119L26QB.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2021-11-16T17:48:00",
-  "amount" : 600.00,
-  "purposeOfPayment" : "За ком/послуги о/р 191 вул.Радистів 2 кв.191;Пл.: Макаренко катерина Анатоліївна",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ  И КАССЫ",
-  "reference" : "HSKLL1116L5LJZ.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2021-11-16T17:48:00",
-  "amount" : 1280.00,
-  "purposeOfPayment" : "За ком/послуги о/р 86 вул.Радистів 2 кв.86;Пл.: Кукуреков Григорій Олександрович",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ  И КАССЫ",
-  "reference" : "HSKLL1116L5LHK.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2021-11-16T17:48:00",
-  "amount" : 1600.00,
-  "purposeOfPayment" : "За ком/послуги о/р 85 вул.Радистів 2 кв.85;Пл.: Полив`яний Олександр Олександрович",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ  И КАССЫ",
-  "reference" : "HSKLL1116L5LGE.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2021-11-16T17:48:00",
-  "amount" : 3050.00,
-  "purposeOfPayment" : "За ком/послуги о/р 87 вул.Радистів 2 кв.87;Пл.: Макаренко Катерина Анатоліївна",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ  И КАССЫ",
-  "reference" : "HSKLL1116L5LGD.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
-  "dateTime" : "2021-11-16T17:48:00",
-  "amount" : 2080.00,
-  "purposeOfPayment" : "За ком/послуги о/р 72 вул.Радистів 2 кв.72;Пл.: Поливяний Олександр Олександрович",
-  "counterpartyTaxCode" : "14352406",
-  "counterpartyName" : "ОТДЕЛЕНИЯ  И КАССЫ",
-  "reference" : "HSKLL1116L5KAX.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-11-15T12:25:00",
   "amount" : -26185.90,
   "purposeOfPayment" : "Тех. обслуговування внутрішньобудинкових газових мереж   рахунок №164 від 15.11.2021 р.  договір  №15-11/21 від 15.11.21р. Без ПДВ.",
@@ -4910,17 +4433,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLLB1O5DSCOH.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-10-31T08:46:00",
-  "amount" : 8.32,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL1031BNLR8.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-10-31T00:00:00",
   "amount" : -56461.07,
@@ -4932,7 +4446,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-31T00:00:00",
-  "amount" : 46096.50,
+  "amount" : 46104.82,
   "purposeOfPayment" : "повернення коштів з депозита за Жовтень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -4950,7 +4464,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-31T00:00:00",
-  "amount" : 57527.10,
+  "amount" : 58108.60,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5003,32 +4517,14 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2021-10-22T15:05:00",
-  "amount" : 581.50,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Вересень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL1022L3OLJ.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-09-30T14:25:00",
   "amount" : -1100.00,
   "purposeOfPayment" : "за послуги охорони за жовтень 2021р. по рахунку № 15522 від 01.10.21р. Без ПДВ.",
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL9UO590PQ8.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-09-30T08:46:00",
-  "amount" : 1.73,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0930BL7HO.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-09-30T00:00:00",
   "amount" : -28012.76,
@@ -5040,6 +4536,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-30T00:00:00",
+  "amount" : 1.73,
+  "purposeOfPayment" : "повернення коштів з депозита за Вересень 2021 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Депозит",
+  "reference" : "SAVEIN-2021-09",
+  "category" : "Доходи від депозитів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2021-09-30T00:00:00",
   "amount" : -5328.91,
   "purposeOfPayment" : "витрати на зарплату за Вересень 2021 року",
   "counterpartyTaxCode" : "000000000",
@@ -5049,7 +4554,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-30T00:00:00",
-  "amount" : 65974.43,
+  "amount" : 66628.43,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5065,15 +4570,6 @@
   "reference" : "BANKFEE-2021-09",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-09-27T11:23:00",
-  "amount" : 654.00,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Серпень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0927L20U1.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-09-22T12:25:00",
   "amount" : -27106.50,
@@ -5144,20 +4640,11 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL8VO54DH6S.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-08-31T08:46:00",
-  "amount" : 4.66,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0831BIUM4.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-08-31T00:00:00",
-  "amount" : 59510.00,
+  "amount" : 59514.66,
   "purposeOfPayment" : "повернення коштів з депозита за Серпень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -5175,7 +4662,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-31T00:00:00",
-  "amount" : 48598.38,
+  "amount" : 48692.38,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5191,15 +4678,6 @@
   "reference" : "BANKFEE-2021-08",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-08-26T13:48:00",
-  "amount" : 94.00,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Липень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0826L2T4N.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-08-25T23:52:00",
   "amount" : -6000.00,
@@ -5261,17 +4739,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL82O4ZSH6D.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-07-31T08:46:00",
-  "amount" : 12.29,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0731BGO1R.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-07-31T00:00:00",
   "amount" : -49400.89,
@@ -5283,7 +4752,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-31T00:00:00",
-  "amount" : 61400.00,
+  "amount" : 61412.29,
   "purposeOfPayment" : "повернення коштів з депозита за Липень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -5301,7 +4770,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-31T00:00:00",
-  "amount" : 60260.66,
+  "amount" : 60354.66,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5317,15 +4786,6 @@
   "reference" : "BANKFEE-2021-07",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-07-27T15:21:00",
-  "amount" : 94.00,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Червень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0727L2UD7.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-07-27T11:19:00",
   "amount" : -27106.50,
@@ -5441,7 +4901,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL75O4VKSCA.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-02T16:16:00",
@@ -5453,15 +4913,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-06-30T08:46:00",
-  "amount" : 11.69,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0630BEI9R.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-06-30T00:00:00",
   "amount" : -60251.69,
   "purposeOfPayment" : "перерахування коштів на депозит за Червень 2021 року",
@@ -5472,7 +4923,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-30T00:00:00",
-  "amount" : 39520.00,
+  "amount" : 39531.69,
   "purposeOfPayment" : "повернення коштів з депозита за Червень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -5490,7 +4941,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-30T00:00:00",
-  "amount" : 61745.71,
+  "amount" : 61839.71,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5534,15 +4985,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-06-18T08:16:00",
-  "amount" : 94.00,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Травень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0618L055I.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-06-15T21:57:00",
   "amount" : -1463.00,
   "purposeOfPayment" : "LED лампи А65 по рахунку №704 вiд 15.06.21р. Без ПДВ.",
@@ -5551,15 +4993,6 @@
   "reference" : "JBKLL6FO4SVD81.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-05-31T08:46:00",
-  "amount" : 13.06,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0531BCEKM.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-05-31T00:00:00",
   "amount" : -105534.54,
@@ -5571,7 +5004,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-31T00:00:00",
-  "amount" : 102140.00,
+  "amount" : 102153.06,
   "purposeOfPayment" : "повернення коштів з депозита за Травень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -5589,7 +5022,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-31T00:00:00",
-  "amount" : 111420.51,
+  "amount" : 111514.51,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5612,7 +5045,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL5SO4Q8WX0.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-27T12:29:00",
@@ -5678,15 +5111,6 @@
   "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2021-05-18T08:16:00",
-  "amount" : 94.00,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Квітень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0518L05HH.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-05-13T13:18:00",
   "amount" : -2544.00,
   "purposeOfPayment" : "сантехнічні матеріали по рахунку № 0000001196 від 13.05.21 Без ПДВ.",
@@ -5702,17 +5126,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL4UO4MGE18.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-04-30T08:47:00",
-  "amount" : 13.62,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0430BA70M.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-04-30T00:00:00",
   "amount" : -41089.55,
@@ -5724,7 +5139,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-30T00:00:00",
-  "amount" : 57706.50,
+  "amount" : 57720.12,
   "purposeOfPayment" : "повернення коштів з депозита за Квітень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -5742,7 +5157,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-30T00:00:00",
-  "amount" : 45173.06,
+  "amount" : 45594.56,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5867,15 +5282,6 @@
   "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2021-04-16T07:46:00",
-  "amount" : 421.50,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Березень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0416L05RU.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-04-15T15:21:00",
   "amount" : -657.58,
   "purposeOfPayment" : "сантехнічні матеріали по рахунку №50 від 15.04.2021р. Без ПДВ.",
@@ -5891,17 +5297,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL41O4I06PM.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-03-31T08:47:00",
-  "amount" : 12.91,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0331B82B7.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-03-31T00:00:00",
   "amount" : -43551.58,
@@ -5913,7 +5310,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-31T00:00:00",
-  "amount" : 38222.00,
+  "amount" : 38234.91,
   "purposeOfPayment" : "повернення коштів з депозита за Березень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -5931,7 +5328,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-31T00:00:00",
-  "amount" : 47599.89,
+  "amount" : 47693.89,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5975,15 +5372,6 @@
   "category" : "інщі прибутки",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2021-03-22T04:05:00",
-  "amount" : 94.00,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Лютий 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0322L0A9Y.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-03-09T13:47:00",
   "amount" : -5048.72,
   "purposeOfPayment" : "Труба 89 185 кг. по рахунку № 247 від 24.02.2021р. У сумі 4207.27 грн., ПДВ - 20 % 841.45 грн.",
@@ -5999,17 +5387,8 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL32O4DTQ2J.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-02-28T08:46:00",
-  "amount" : 11.59,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0228B5XBO.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-02-28T00:00:00",
   "amount" : -53386.54,
@@ -6021,7 +5400,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-28T00:00:00",
-  "amount" : 43725.00,
+  "amount" : 43736.59,
   "purposeOfPayment" : "повернення коштів з депозита за Лютий 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -6039,7 +5418,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-28T00:00:00",
-  "amount" : 58711.91,
+  "amount" : 59031.45,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -6074,15 +5453,6 @@
   "category" : "Бухгалтер",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-02-18T08:01:00",
-  "amount" : 319.54,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Січень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0218L05ML.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-02-16T11:48:00",
   "amount" : -13250.00,
   "purposeOfPayment" : "адвокатські послуги (Підготовка, написання Довідок-попереджень з Актом звірки, та Претензій) згідно договору від 12.02.2021р., акт№1 від 15.02.2021р. Без ПДВ.",
@@ -6110,15 +5480,6 @@
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-01-31T08:46:00",
-  "amount" : 9.33,
-  "purposeOfPayment" : "Виплата вiдсоткiв згiдно депозитного договору No 891211 вiд 22.07.2019",
-  "counterpartyTaxCode" : "40579096",
-  "counterpartyName" : "РАДИСТ ОСББ",
-  "reference" : "HSAOL0131B3NF4.1",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-01-31T00:00:00",
   "amount" : -62122.46,
   "purposeOfPayment" : "перерахування коштів на депозит за Січень 2021 року",
@@ -6129,7 +5490,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-31T00:00:00",
-  "amount" : 36150.00,
+  "amount" : 36159.33,
   "purposeOfPayment" : "повернення коштів з депозита за Січень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
@@ -6147,7 +5508,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-31T00:00:00",
-  "amount" : 61106.57,
+  "amount" : 61200.57,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -6170,7 +5531,7 @@
   "counterpartyTaxCode" : "41638969",
   "counterpartyName" : "БЕЗПЕКА КОМПЛЕКС 2004 ТОВ",
   "reference" : "JBKLL1RO498EJ3.1",
-  "category" : "інщі витрати",
+  "category" : "Охорона",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-27T13:12:00",
@@ -6190,15 +5551,6 @@
   "reference" : "JBKLL1QO494MOB.1",
   "category" : "Бухгалтер",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-01-18T18:32:00",
-  "amount" : 94.00,
-  "purposeOfPayment" : "Зарахування пільги: 1, ПКМУ №848, згідно реєстру за Грудень 2020 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0118L4JRS.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-01-18T11:19:00",
   "amount" : 590.40,
