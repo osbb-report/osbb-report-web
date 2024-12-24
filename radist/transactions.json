@@ -5022,7 +5022,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-31T00:00:00",
-  "amount" : 111514.51,
+  "amount" : 111760.51,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5102,15 +5102,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-05-18T09:47:00",
-  "amount" : 246.00,
-  "purposeOfPayment" : "Зарахування субсидії: 1, ПКМУ №848, згідно реєстру за Квітень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0518L0F8Y.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-05-13T13:18:00",
   "amount" : -2544.00,
   "purposeOfPayment" : "сантехнічні матеріали по рахунку № 0000001196 від 13.05.21 Без ПДВ.",
@@ -5157,7 +5148,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-30T00:00:00",
-  "amount" : 45594.56,
+  "amount" : 45840.56,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5273,15 +5264,6 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2021-04-16T11:18:00",
-  "amount" : 246.00,
-  "purposeOfPayment" : "Зарахування субсидії: 1, ПКМУ №848, згідно реєстру за Березень 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0416L102C.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
-}, {
   "dateTime" : "2021-04-15T15:21:00",
   "amount" : -657.58,
   "purposeOfPayment" : "сантехнічні матеріали по рахунку №50 від 15.04.2021р. Без ПДВ.",
@@ -5328,7 +5310,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-31T00:00:00",
-  "amount" : 47693.89,
+  "amount" : 47939.89,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5362,15 +5344,6 @@
   "reference" : "JBKLL3NO4GTOX4.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-03-22T04:05:00",
-  "amount" : 246.00,
-  "purposeOfPayment" : "Зарахування субсидії: 1, ПКМУ №848, згідно реєстру за Лютий 2021 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0322L0ECU.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-03-09T13:47:00",
   "amount" : -5048.72,
@@ -5508,7 +5481,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-31T00:00:00",
-  "amount" : 61200.57,
+  "amount" : 61790.97,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -5551,15 +5524,6 @@
   "reference" : "JBKLL1QO494MOB.1",
   "category" : "Бухгалтер",
   "kind" : "витрати"
-}, {
-  "dateTime" : "2021-01-18T11:19:00",
-  "amount" : 590.40,
-  "purposeOfPayment" : "Зарахування субсидії: 1, ПКМУ №848, згідно реєстру за Грудень 2020 р.",
-  "counterpartyTaxCode" : "37567866",
-  "counterpartyName" : "МІН. СОЦ.ПОЛІТИКИ УКРАЇНИ (безготівков",
-  "reference" : "HSKLL0118L16Q7.P",
-  "category" : "інщі прибутки",
-  "kind" : "дохід"
 }, {
   "dateTime" : "2021-01-05T18:04:00",
   "amount" : 1416.90,
