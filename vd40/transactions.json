@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-31T00:00:00",
-  "amount" : 114005.38,
+  "amount" : 114677.53,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -24,6 +24,51 @@
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2024-12",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-30T16:35:00",
+  "amount" : 9900.00,
+  "purposeOfPayment" : "доступ за 1 -3квартал 2024р Договор №795 від 01.09.2023 Сума 9900,00 грн без ПДВ",
+  "counterpartyTaxCode" : "33103969",
+  "counterpartyName" : "ТОВ \"Телесвіт\"",
+  "reference" : "HS45O1230L0NAT.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2024-12-30T13:10:00",
+  "amount" : -2440.37,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00002511 ВІД 24.12.2024Р.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLOCUOAKSFL6.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-30T13:10:00",
+  "amount" : -2351.71,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00002512 ВІД 24.12.2024Р.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLOCUOAKSFCZ.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-30T13:09:00",
+  "amount" : -3500.00,
+  "purposeOfPayment" : "Сплата за заміну ділянки стояка ХВП (17 під'їзд) згідно рахунку №191 від 27.12.2024р.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLOCUOAKSF4W.1",
+  "category" : "інщі витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-12-30T13:09:00",
+  "amount" : -3500.00,
+  "purposeOfPayment" : "Сплата за заміну ділянки стояка ХВП (1 під'їзд) згідно рахунку №190 від 27.12.2024р.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLOCUOAKSEUY.1",
+  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-27T14:38:00",
