@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 2603.32,
+  "amount" : 4298.05,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,15 @@
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2025-01",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-03T16:26:00",
+  "amount" : -1170.00,
+  "purposeOfPayment" : "Сплата за заміну блоку живлення СКУД на дверях вхідної групи 15-го під'їзду згідно рахунку №241224 від 24.12.2024р.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLP13OALJC99.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-03T03:23:00",
