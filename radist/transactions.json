@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 11007.95,
+  "amount" : 12700.45,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -684,6 +684,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-31T00:00:00",
+  "amount" : -364.21,
+  "purposeOfPayment" : "Інші виплати фізичним особам Липень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2024-07",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-07-31T00:00:00",
   "amount" : 120312.29,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2024 року",
   "counterpartyTaxCode" : "000000000",
@@ -798,15 +807,6 @@
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLO7FO9LAVRW.1",
   "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2024-07-15T13:07:00",
-  "amount" : -364.21,
-  "purposeOfPayment" : "4731 **** **** 3060 Компенсація при звільнені за 2024 р. Браславець О.В.",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "БРАСЛАВЕЦЬ ОЛЕГ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLO7FO9LALO1.1",
-  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-12T13:58:00",
@@ -1143,6 +1143,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-31T00:00:00",
+  "amount" : -8968.55,
+  "purposeOfPayment" : "Інші виплати фізичним особам Травень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2024-05",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-05-31T00:00:00",
   "amount" : 146681.89,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2024 року",
   "counterpartyTaxCode" : "000000000",
@@ -1259,15 +1268,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2024-05-10T13:24:00",
-  "amount" : -8968.55,
-  "purposeOfPayment" : "4731 **** **** 3060 Компенсація при звільнені за травень 2024 р. Браславець О.В.",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "БРАСЛАВЕЦЬ ОЛЕГ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLO5AO988ID1.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2024-05-09T14:38:00",
   "amount" : -2083.50,
   "purposeOfPayment" : "Сплата боргу за Договором про реструктуризацію №110000068022/1 від 01.05.2024р. за травень 2024р. У сумі 1736.25 грн., ПДВ - 20 % 347.25 грн.",
@@ -1365,6 +1365,15 @@
   "counterpartyName" : "Працівники",
   "reference" : "SALARY-2024-04",
   "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2024-04-30T00:00:00",
+  "amount" : -60.00,
+  "purposeOfPayment" : "Інші виплати фізичним особам Квітень 2024 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2024-04",
+  "category" : "Інші виплати фіз. особам",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-30T00:00:00",
@@ -1491,15 +1500,6 @@
   "counterpartyName" : "БЕКЕТОВ К. В.,ПІДПРИЄМЕЦЬ",
   "reference" : "JBKLO48O91JV7M.1",
   "category" : "Бухгалтер",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2024-04-05T12:44:00",
-  "amount" : -60.00,
-  "purposeOfPayment" : "погашення заборгованості  підзвітнінй особі Браславець О.В. (поштові послуги)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLO45O918ZRB.1",
-  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-03T17:08:00",
@@ -2088,6 +2088,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-31T00:00:00",
+  "amount" : -2911.70,
+  "purposeOfPayment" : "Інші виплати фізичним особам Жовтень 2023 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2023-10",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-10-31T00:00:00",
   "amount" : 59605.19,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2023 року",
   "counterpartyTaxCode" : "000000000",
@@ -2114,42 +2123,6 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2023-10-26T03:03:00",
-  "amount" : -974.95,
-  "purposeOfPayment" : "погашення заборгованості  підзвітнінй особі Браславець О.В. (лопата совкова)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLNAQO86VEA2.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-10-26T03:03:00",
-  "amount" : -96.00,
-  "purposeOfPayment" : "погашення заборгованості  підзвітнінй особі Браславець О.В. (канцтовари)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLNAQO86VEA1.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-10-26T03:03:00",
-  "amount" : -1418.40,
-  "purposeOfPayment" : "погашення заборгованості  підзвітнінй особі Браславець О.В. (канцтовари)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLNAQO86VEA0.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-10-20T11:53:00",
-  "amount" : -164.90,
-  "purposeOfPayment" : "погашення заборгованості  підзвітнінй особі Браславець О.В. (мітла кругла)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLNAKO85YY2T.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2023-10-20T11:49:00",
   "amount" : -4921.05,
   "purposeOfPayment" : "Реле часу Feron 16A TM-41 23248 5 шт. рахунок № 11 вiд 20.10.2023р. Без ПДВ.",
@@ -2167,15 +2140,6 @@
   "reference" : "HS41N1016L1M4G.P",
   "category" : "Сервітут",
   "kind" : "дохід"
-}, {
-  "dateTime" : "2023-10-06T12:46:00",
-  "amount" : -257.45,
-  "purposeOfPayment" : "5363 **** **** 2012 погашення заборгованості підзвітній особі Браславець О.В. (бензин)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "БРАСЛАВЕЦЬ ОЛЕГ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLNA6O83FEB6.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-03T12:26:00",
   "amount" : -1200.00,
@@ -2385,6 +2349,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-31T00:00:00",
+  "amount" : -433.90,
+  "purposeOfPayment" : "Інші виплати фізичним особам Липень 2023 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2023-07",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-07-31T00:00:00",
   "amount" : 46819.55,
   "purposeOfPayment" : "консолідований внесок власників за Липень 2023 року",
   "counterpartyTaxCode" : "000000000",
@@ -2418,15 +2391,6 @@
   "counterpartyName" : "БЕКЕТОВ К. В.,ПІДПРИЄМЕЦЬ",
   "reference" : "JBKLN7OO7QI8D6.1",
   "category" : "Бухгалтер",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-07-20T09:59:00",
-  "amount" : -433.90,
-  "purposeOfPayment" : "4731 **** **** 3060 погашення заборгованості підзвітнінй особі Браславець О.В. (бензин)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "БРАСЛАВЕЦЬ ОЛЕГ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLN7KO7PXJ8G.1",
-  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-17T14:58:00",
@@ -2475,6 +2439,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-30T00:00:00",
+  "amount" : -781.79,
+  "purposeOfPayment" : "Інші виплати фізичним особам Червень 2023 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2023-06",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-06-30T00:00:00",
   "amount" : 47846.79,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2023 року",
   "counterpartyTaxCode" : "000000000",
@@ -2508,33 +2481,6 @@
   "counterpartyName" : "БЕКЕТОВ К. В.,ПІДПРИЄМЕЦЬ",
   "reference" : "JBKLN6NO7LMH7N.1",
   "category" : "Бухгалтер",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-06-08T17:31:00",
-  "amount" : -25.99,
-  "purposeOfPayment" : "погашення заборгованості підзвітнінй особі Браславець О.В. (поштові послуги)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN68O7J5COY.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-06-08T17:31:00",
-  "amount" : -351.90,
-  "purposeOfPayment" : "погашення заборгованості підзвітнінй особі Браславець О.В. (відра господарські)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN68O7J5COT.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-06-08T17:31:00",
-  "amount" : -403.90,
-  "purposeOfPayment" : "погашення заборгованості підзвітнінй особі Браславець О.В. (бензин для тримера)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN68O7J5COQ.1",
-  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-01T20:27:00",
@@ -2571,6 +2517,15 @@
   "counterpartyName" : "Працівники",
   "reference" : "SALARY-2023-05",
   "category" : "Зарплатня",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-05-31T00:00:00",
+  "amount" : -6758.82,
+  "purposeOfPayment" : "Інші виплати фізичним особам Травень 2023 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2023-05",
+  "category" : "Інші виплати фіз. особам",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-31T00:00:00",
@@ -2618,33 +2573,6 @@
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2023-05-16T16:47:00",
-  "amount" : -573.96,
-  "purposeOfPayment" : "погашення заборгованості підзвітнінй особі Браславець О.В. (мішки)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN5GO7FED4I.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-05-16T16:47:00",
-  "amount" : -1152.60,
-  "purposeOfPayment" : "погашення заборгованості підзвітнінй особі Браславець О.В. (ножі, ліски та шпуля для тримера)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN5GO7FED4E.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-05-15T16:01:00",
-  "amount" : -90.00,
-  "purposeOfPayment" : "погашення заборгованості підзвітнінй особі Браславець О.В. (ліййка 10л.)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN5FO7F5DLP.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2023-05-12T16:25:00",
   "amount" : 2125.35,
   "purposeOfPayment" : "доступ за 3-4 кв-л 2022р, 1кв-л 2023р.Договор №622 від 01.12.2018 Сума 2125,35 грн без ПДВ",
@@ -2653,15 +2581,6 @@
   "reference" : "HS41N0512L1HM7.P",
   "category" : "Сервітут",
   "kind" : "дохід"
-}, {
-  "dateTime" : "2023-05-10T15:46:00",
-  "amount" : -4942.26,
-  "purposeOfPayment" : "погашення заборгованості підзвітнінй особі Браславець О.В. (сітка зварна оцинкована, дріт оцинкований)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN5AO7EH1VQ.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-01T16:08:00",
   "amount" : -2523.66,
@@ -2709,6 +2628,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-30T00:00:00",
+  "amount" : -4411.92,
+  "purposeOfPayment" : "Інші виплати фізичним особам Квітень 2023 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2023-04",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-04-30T00:00:00",
   "amount" : 87125.04,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2023 року",
   "counterpartyTaxCode" : "000000000",
@@ -2724,15 +2652,6 @@
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2023-04",
   "category" : "Банківськи комісії",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-04-28T14:24:00",
-  "amount" : -1628.60,
-  "purposeOfPayment" : "4731 **** **** 3060 погашення заборгованості підзвітній особі Браславець О.В. (клоун-ручка скловолокно)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "БРАСЛАВЕЦЬ ОЛЕГ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLN4SO7CNKAO.1",
-  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-26T13:13:00",
@@ -2779,33 +2698,6 @@
   "reference" : "HS41N0414L1BKV.P",
   "category" : "Сервітут",
   "kind" : "дохід"
-}, {
-  "dateTime" : "2023-04-03T13:11:00",
-  "amount" : -1976.40,
-  "purposeOfPayment" : "погашення заборгованості підзвітній особі Браславець О.В. (каністра меалева)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN43O78ONX0.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-04-03T13:11:00",
-  "amount" : -403.46,
-  "purposeOfPayment" : "погашення заборгованості підзвітній особі Браславець О.В. (газ скраплений)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN43O78ONWR.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-04-03T13:11:00",
-  "amount" : -403.46,
-  "purposeOfPayment" : "погашення заборгованості підзвітній особі Браславець О.В. (газ скраплений)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "Браславець Олег Володимирович",
-  "reference" : "JBKLN43O78ONWP.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-03T13:10:00",
   "amount" : -1200.00,
@@ -2916,6 +2808,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-28T00:00:00",
+  "amount" : -569.50,
+  "purposeOfPayment" : "Інші виплати фізичним особам Лютий 2023 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2023-02",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2023-02-28T00:00:00",
   "amount" : 50351.25,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2023 року",
   "counterpartyTaxCode" : "000000000",
@@ -2957,15 +2858,6 @@
   "counterpartyTaxCode" : "2992312014",
   "counterpartyName" : "ЗАМКОВИЙ В.П. ФОП",
   "reference" : "JBKLN2KO72KBZZ.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2023-02-20T10:19:00",
-  "amount" : -569.50,
-  "purposeOfPayment" : "4731 **** **** 3060 погашення заборгованості підзвітнінй особі Браславець О.В. (інвентар)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "БРАСЛАВЕЦЬ ОЛЕГ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLN2KO72JP26.1",
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
@@ -3168,6 +3060,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-30T00:00:00",
+  "amount" : -1625.00,
+  "purposeOfPayment" : "Інші виплати фізичним особам Листопад 2022 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2022-11",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2022-11-30T00:00:00",
   "amount" : 46209.96,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2022 року",
   "counterpartyTaxCode" : "000000000",
@@ -3209,15 +3110,6 @@
   "counterpartyTaxCode" : "44721189",
   "counterpartyName" : "ТОВ, ТЕПЛОАРМАТУРА",
   "reference" : "JBKLMBAO6P97YP.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2022-11-07T11:22:00",
-  "amount" : -1625.00,
-  "purposeOfPayment" : "4731 **** **** 6666 погашенння заборгованості підзвітній особі Браславець О.В. (інвентар)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "БРАСЛАВЕЦЬ ОЛЕГ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLMB7O6OMVSX.1",
   "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
@@ -3276,6 +3168,15 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-31T00:00:00",
+  "amount" : -1045.38,
+  "purposeOfPayment" : "Інші виплати фізичним особам Жовтень 2022 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Фіз. Особи",
+  "reference" : "INDOUT-2022-10",
+  "category" : "Інші виплати фіз. особам",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2022-10-31T00:00:00",
   "amount" : 62558.13,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2022 року",
   "counterpartyTaxCode" : "000000000",
@@ -3328,15 +3229,6 @@
   "reference" : "HSKLM1017L28A2.P",
   "category" : "Сервітут",
   "kind" : "дохід"
-}, {
-  "dateTime" : "2022-10-15T18:16:00",
-  "amount" : -1045.38,
-  "purposeOfPayment" : "4731 **** **** 6666 Погашення заборгованості підзвітний особі Браславець О.В. (бензин, мастило)",
-  "counterpartyTaxCode" : "2806204751",
-  "counterpartyName" : "БРАСЛАВЕЦЬ ОЛЕГ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLMAFO6LQ2N7.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-12T10:00:00",
   "amount" : -1200.00,
