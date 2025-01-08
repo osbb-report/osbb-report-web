@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+
+    <title>Відкрита виписка ОСББ Велика Діївська 40</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap 5.3 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+    <style>
+        .currency {
+            text-align: right;
+        }
+
+        /* Tooltip container */
+        .my-tooltip {
+            position: relative;
+            display: inline-block;
+            border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+        }
+
+        /* Tooltip text */
+        .my-tooltip .my-tooltiptext {
+            visibility: hidden;
+            width: 120px;
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            padding: 5px 0;
+            border-radius: 6px;
+
+            /* Position the tooltip text - see examples below! */
+            position: absolute;
+            z-index: 1;
+        }
+
+        /* Show the tooltip text when you mouse over the tooltip container */
+        .my-tooltip:hover .my-tooltiptext {
+            visibility: visible;
+        }
+    </style>
+</head>
+<body>
+<h1 class="text-center">Виписка - Велика Діївська 40</h1>
+<section class="container">
+    <div class="row">
+        <div class="form-group col-auto">
+            <label for="start-date">Початок</label>
+            <input class="form-control" type="date" id="start-date" name="start-date">
+        </div>
+        <div class="form-group col-auto">
+            <label for="end-date">Кінець</label>
+            <input class="form-control" type="date" id="end-date" name="end-date">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group col-auto">
+            <label for="kind-filter">Тип</label>
+            <select class="form-control" id="kind-filter">
+                <!-- Options will be populated here -->
+            </select>
+        </div>
+
+        <div class="form-group col-auto">
+            <label for="category-filter">Категорія</label>
+            <select class="form-control" id="category-filter">
+                <!-- Options will be populated here -->
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="counterparty-filter">Контрагент</label>
+        <select class="form-control" id="counterparty-filter">
+            <!-- Options will be populated here -->
+        </select>
+    </div>
+</section>
+<br>
+<section  class="container" id="table-container">
+</section>
+
+<script>
+    // Create our number formatter.
+    const currencyFormatter = new Intl.NumberFormat('uk-UA', { style: 'currency', currency: 'UAH', currencyDisplay: 'narrowSymbol'});
+
+    // Fetch JSON data from server
+    fetch('transactions.json')
+        .then(response => response.json())
+        .then(data => {
+            populateFilters(data);
+            buildTable(data);
+        })
+        .catch(error => console.error('Error:', error));
+
+    function populateFilters(transactions) {
+
+        const extractValues = (data) => {
+            return data.reduce((res, {kind, category, counterpartyName, counterpartyTaxCode}) => {
+                res.kinds.add(kind);
+                res.categories.add(category);
+                res.counterparties.set(counterpartyName, counterpartyTaxCode);
+                return res;
+            }, {kinds: new Set(['Всі']), categories: new Set(['Всі']), counterparties: new Map([['Всі', 'Всі']])})
+        }
+
+        const {kinds, categories, counterparties} = extractValues(transactions);
+
+        const startDate = new Date(transactions.at(-1).dateTime);
+        const endDate = new Date(transactions.at(0).dateTime);
+        document.getElementById('start-date').valueAsDate = startDate;
+        document.getElementById('end-date').valueAsDate = endDate;
+
+
+        const kindFilter = document.getElementById('kind-filter');
+        for (let kind of kinds) {
+            let option = document.createElement('option');
+            option.value = kind;
+            option.text = kind;
+            kindFilter.appendChild(option);
+        }
+        kindFilter.addEventListener('change', function () {
+            buildTable(transactions);
+        });
+        const categoryFilter = document.getElementById('category-filter');
+
+        for (let category of categories) {
+            let option = document.createElement('option');
+            option.value = category;
+            option.text = category;
+            categoryFilter.appendChild(option);
+        }
+        categoryFilter.addEventListener('change', function () {
+            buildTable(transactions);
+        });
+
+        const counterpartyFilter = document.getElementById('counterparty-filter');
+        for (let [counterpartyName, counterpartyTaxCode] of counterparties) {
+            let option = document.createElement('option');
+            option.value = counterpartyTaxCode;
+            option.text = counterpartyName + ' (' + counterpartyTaxCode + ')';
+            counterpartyFilter.appendChild(option);
+        }
+        counterpartyFilter.addEventListener('change', function () {
+            buildTable(transactions);
+        });
+    }
+
+    // Build table
+    function buildTable(transactions) {
+        const kindFilter = document.getElementById('kind-filter').value;
+        const categoryFilter = document.getElementById('category-filter').value;
+        const counterpartyFilter = document.getElementById('counterparty-filter').value;
+
+        let filteredData = transactions
+            .filter(item => kindFilter !== 'Всі' ? item.kind === kindFilter : true)
+            .filter(item => categoryFilter !== 'Всі' ? item.category === categoryFilter : true)
+            .filter(item => counterpartyFilter !== 'Всі' ? item.counterpartyTaxCode === counterpartyFilter : true);
+        let table = `
+    <table class="table table-sm table-striped .table-responsive-sm" role="grid">
+        <tr>
+            <th scope="col">Дата</th>
+<!--            <th scope="col">Тип</th>-->
+            <th scope="col">Сума</th>
+            <th scope="col">Призначення</th>
+            <th scope="col">Контрагент</th>
+<!--            <th scope="col">Рахунок контрагента</th>-->
+            <th scope="col">Категорія</th>
+<!--            <th scope="col">Референс</th>-->
+        </tr>
+`;
+        for (let i = 0; i < filteredData.length; i++) {
+            let row = filteredData[i];
+            table += `
+                              <tr>
+                                <th scope="row">
+                                    <div class="my-tooltip">
+                                        ${new Date(row.dateTime).toLocaleDateString("uk-UA")}
+                                        <span class="my-tooltiptext">${new Date(row.dateTime).toLocaleTimeString("uk-UA")}</span>
+                                    </div>
+                                </th>
+<!--                                <td>${row.kind}</td>-->
+                                <td class="currency">${currencyFormatter.format(row.amount)}</td>
+                                <td>${row.purposeOfPayment}</td>
+                                <td>${row.counterpartyTaxCode !== "000000000" ? row.counterpartyTaxCode + "<br>" : ""}${row.counterpartyName}</td>
+<!--                                <td>${row.counterpartyAccount}</td>-->
+                                <td>${row.category}</td>
+<!--                                <td>${row.reference}</td>-->
+                              </tr>
+`;
+        }
+        table += `</table>`;
+        document.getElementById('table-container').innerHTML = table;
+    }
+</script>
+</body>
+</html>
