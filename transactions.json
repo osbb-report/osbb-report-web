@@ -1,21 +1,516 @@
 [ {
+  "dateTime" : "2025-02-28T00:00:00",
+  "amount" : 76795.70,
+  "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Власники",
+  "reference" : "a20c1t91y-CONTRIB-2025-02",
+  "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-28T00:00:00",
+  "amount" : -374.00,
+  "purposeOfPayment" : "банківські комісії за Лютий 2025 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Банк",
+  "reference" : "a20c1t91y-BANKFEE-2025-02",
+  "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-19T13:45:00",
+  "amount" : -1300.00,
+  "purposeOfPayment" : "Повернення помилково отриманих  коштів від Місітюк В.В., о/р 136, м. Херсон, вул. Іллюши Кулика, буд. 114, кв. 13Б, згідно заяви від 15.02.2025р.",
+  "counterpartyTaxCode" : "44365408",
+  "counterpartyName" : "ОСББ \"І.КУЛИКА,114-е\"",
+  "reference" : "JBKLP2JOAV781N.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-18T13:15:00",
+  "amount" : 700.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Лютий 2025. Згідно Дог. про участь у витр.№66/84 від 01.01.2024р. Сума 700,00 грн ПДВ (без ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS43P0218L13OM.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-18T13:04:00",
+  "amount" : 3658.13,
+  "purposeOfPayment" : "ВД №932/8541/21; 09.12.2022; Тужлов АВ; ВП №77199597; Кошти за ВД, стягнуті на користь стягувача",
+  "counterpartyTaxCode" : "2856712550",
+  "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
+  "reference" : "JBKLP2IOAUVJL6.P",
+  "category" : "Стягування боргів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-18T13:04:00",
+  "amount" : 2800.00,
+  "purposeOfPayment" : "ВД №932/8541/21; 09.12.2022; Тужлов АВ; ВП №77199956; Кошти за ВД, стягнуті на користь стягувача",
+  "counterpartyTaxCode" : "2856712550",
+  "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
+  "reference" : "JBKLP2IOAUVJCL.P",
+  "category" : "Стягування боргів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-18T13:04:00",
+  "amount" : 8072.80,
+  "purposeOfPayment" : "ВД №932/8539/21; 08.05.2023; Галкіна ІВ; ВП №77199719; Кошти за ВД, стягнуті на користь стягувача",
+  "counterpartyTaxCode" : "2856712550",
+  "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
+  "reference" : "JBKLP2IOAUVJBG.P",
+  "category" : "Стягування боргів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-18T13:04:00",
+  "amount" : 2270.00,
+  "purposeOfPayment" : "ВД №932/8541/21; 09.12.2022; Тужлов АВ; ВП №77199843; Кошти за ВД, стягнуті на користь стягувача",
+  "counterpartyTaxCode" : "2856712550",
+  "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
+  "reference" : "JBKLP2IOAUVJAJ.P",
+  "category" : "Стягування боргів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-18T13:03:00",
+  "amount" : 2800.00,
+  "purposeOfPayment" : "ВД №932/8539/21; 08.05.2023; Галкіна ІВ; ВП №77200714; Кошти за ВД, стягнуті на користь стягувача",
+  "counterpartyTaxCode" : "2856712550",
+  "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
+  "reference" : "JBKLP2IOAUVJ3E.P",
+  "category" : "Стягування боргів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-17T16:59:00",
+  "amount" : -5660.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1229 ВІД 17.02.2025Р.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLP2HOAUOR67.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-17T16:59:00",
+  "amount" : -910.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта 2-го під'їзду згідно рахунку №24 від 17.02.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP2HOAUOR5Z.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-17T16:26:00",
+  "amount" : 1230.61,
+  "purposeOfPayment" : "ВД №932/8544/21; 15.05.2023; Іщенко ДС; ВП №77199142; Кошти за ВД, стягнуті на користь стягувача",
+  "counterpartyTaxCode" : "2856712550",
+  "counterpartyName" : "КУЗЕМЧЕНКО А.С. ПРИВАТНИЙ ВИКОНАВЕЦ",
+  "reference" : "JBKLP2HOAUO2HX.P",
+  "category" : "Стягування боргів",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-17T13:29:00",
+  "amount" : -13867.20,
+  "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250001319970 від 31.01.2025. У сумі 11556.00 грн., ПДВ - 20 % 2311.20 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
+  "reference" : "JBKLP2HOAUK2WI.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-14T09:14:00",
+  "amount" : -6767.45,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського облiку, згiдно договору № 01/11/08 вiд 01.11.2018 року, без ПДВ (avt). лютий 2025 р.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "REGPP0214B9IW3.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-14T09:14:00",
+  "amount" : -11471.25,
+  "purposeOfPayment" : "Сплата за аварiйно-технiчне обслуговування iнженерних мереж, згiдно договору № ЗШ-80 вiд 01.01.2025 року, без ПДВ (avt). лютий 2025 р.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "REGPP0214B9IVZ.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-14T09:14:00",
+  "amount" : -16500.00,
+  "purposeOfPayment" : "Сплата за технiчне обслуговування лiфтiв, згiдно договору № 01/05/20/ТОЛ вiд 01.05.2020 року, без ПДВ, (avt). лютий 2025 р.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "REGPP0214B9IVY.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-12T14:56:00",
+  "amount" : 650.00,
+  "purposeOfPayment" : "Повернення помилково перерахованих коштів зг. плат. дор. №1010 від 03.02.2025р.",
+  "counterpartyTaxCode" : "3104210399",
+  "counterpartyName" : "ТОНКОНОГ В.В. ФОП",
+  "reference" : "JBKLP2COATKA03.P",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-12T14:40:00",
+  "amount" : -2500.00,
+  "purposeOfPayment" : "Доводчик King NSK-630  (2 шт)",
+  "counterpartyTaxCode" : "2528306086",
+  "counterpartyName" : "СИВОГРИВОВА Н.В. ФОП",
+  "reference" : "JBKLP2COATK1UF.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-11T14:42:00",
+  "amount" : -800.00,
+  "purposeOfPayment" : "Сплата за прочистку каналізації 1-го під'їзду згідно рахунку №13 від 11.02.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP2BOATAX1F.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-11T12:50:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "Сплата за оренду приміщення за уг.24/10 від 01.10.2024р у 02.2025р Без ПДВ.",
+  "counterpartyTaxCode" : "45433431",
+  "counterpartyName" : "ПРЕМІУМ.ЛІНК ТОВ",
+  "reference" : "JBKLP2BOAT9600.1",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-11T12:01:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "за доступ зг. дог. 198 від 01.03.2024 без ПДВ",
+  "counterpartyTaxCode" : "36094444",
+  "counterpartyName" : "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІНТРА.КОМ\"",
+  "reference" : "HS43P0211L0UKJ.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-10T16:22:00",
+  "amount" : -4400.00,
+  "purposeOfPayment" : "Сплата за заміну стояку каналізації в квартирах 343 та 339 згідно рахунку №12 від 10.02.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP2AOAT2QNY.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-10T16:22:00",
+  "amount" : -4933.90,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №1-00000182 від 06.02.2025р.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLP2AOAT2QNR.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-10T14:27:00",
+  "amount" : -1075.00,
+  "purposeOfPayment" : "Ремонт вiдеообладнання, DHI-NVR2216-I, 7H08626PAZ88A79. Рахунок  у № 99-7387 вiд 10 лютого 2025 р. У сумi 895.83 грн., ПДВ - 20 % 179.17 грн.",
+  "counterpartyTaxCode" : "36413740",
+  "counterpartyName" : "ТОВ \"ВІАТЕК\"",
+  "reference" : "JBKLP2AOAT0HSZ.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-09T02:00:00",
+  "amount" : -690.00,
+  "purposeOfPayment" : "Підготовка відповіді за зверненнями фізичних або юридичних осіб. Згідно Рахунку №15/00822 від 07 лютого 2025 р. У сумі 575.00 грн., ПДВ - 20 % 115.00 грн.",
+  "counterpartyTaxCode" : "03341776",
+  "counterpartyName" : "КП \"ДМБТІ\" ДМР",
+  "reference" : "JBKLP29OASSYIV.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-06T09:53:00",
+  "amount" : -3028.00,
+  "purposeOfPayment" : "101 40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+  "reference" : "JBKLP26OAS6AC4.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-06T09:53:00",
+  "amount" : -3028.00,
+  "purposeOfPayment" : "101 40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+  "reference" : "JBKLP26OAS6ABU.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-06T09:53:00",
+  "amount" : -3028.00,
+  "purposeOfPayment" : "101 40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+  "reference" : "JBKLP26OAS6ABQ.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-06T09:53:00",
+  "amount" : -3028.00,
+  "purposeOfPayment" : "101 40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська",
+  "counterpartyTaxCode" : "37988155",
+  "counterpartyName" : "ГОЛОВНЕ УПРАВЛІННЯ ДЕРЖАВНОЇ КАЗНАЧЕЙСЬКОЇ СЛУЖБИ УКРАЇНИ У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
+  "reference" : "JBKLP26OAS6A2C.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-06T09:46:00",
+  "amount" : -4000.00,
+  "purposeOfPayment" : "Оплата за проф. правн. доп. по дог. від 05.02.2025 р. №04 (складання та подача позову про стягнення заборгованості по внескам співвласників) Без ПДВ.",
+  "counterpartyTaxCode" : "41382551",
+  "counterpartyName" : "АО ПОГРІБНОІ ОЛЬГИ ТА ПАТИКИ АНДРІЯ",
+  "reference" : "JBKLP26OAS66VS.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-06T09:45:00",
+  "amount" : -4000.00,
+  "purposeOfPayment" : "Оплата за проф. правн. доп. по дог. від 05.02.2025 р. №03 (складання та подача позову про стягнення заборгованості по внескам співвласників) Без ПДВ.",
+  "counterpartyTaxCode" : "41382551",
+  "counterpartyName" : "АО ПОГРІБНОІ ОЛЬГИ ТА ПАТИКИ АНДРІЯ",
+  "reference" : "JBKLP26OAS66PZ.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-06T09:45:00",
+  "amount" : -4000.00,
+  "purposeOfPayment" : "Оплата за проф. правн. доп. по дог. від 05.02.2025 р. №02 (складання та подача позову про стягнення заборгованості по внескам співвласників) Без ПДВ.",
+  "counterpartyTaxCode" : "41382551",
+  "counterpartyName" : "АО ПОГРІБНОІ ОЛЬГИ ТА ПАТИКИ АНДРІЯ",
+  "reference" : "JBKLP26OAS66KE.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-06T09:44:00",
+  "amount" : -4000.00,
+  "purposeOfPayment" : "Оплата за проф. правн. доп. по дог. від 05.02.2025 р. №01 (складання та подача позову про стягнення заборгованості по внескам співвласників) Без ПДВ.",
+  "counterpartyTaxCode" : "41382551",
+  "counterpartyName" : "АО ПОГРІБНОІ ОЛЬГИ ТА ПАТИКИ АНДРІЯ",
+  "reference" : "JBKLP26OAS66F0.1",
+  "category" : "Судові та юридичні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-03T16:03:00",
+  "amount" : -650.00,
+  "purposeOfPayment" : "салата за печатки",
+  "counterpartyTaxCode" : "3104210399",
+  "counterpartyName" : "ТОНКОНОГ В.В. ФОП",
+  "reference" : "JBKLP23OARGUS6.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-03T15:52:00",
+  "amount" : -650.00,
+  "purposeOfPayment" : "оплата за печатку",
+  "counterpartyTaxCode" : "3104210399",
+  "counterpartyName" : "ТОНКОНОГ В.В. ФОП",
+  "reference" : "JBKLP23OARGPJB.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-01T05:50:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
+  "reference" : "D2P2P0201ABYPY.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-01-31T15:53:00",
+  "amount" : -2100.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ПОТОЧНИЙ РЕМОНТ ЛІФТА ЗГІДНО РАХУНКУ №23 ВІД 30.01.2025Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP1VOAR1UEV.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-31T14:43:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Оплата за надання доступу до елементів інфраструктури об?єкта будівництва згідно з Договором №?2024090501 від 05.09.24р. за Січень 2025р.",
+  "counterpartyTaxCode" : "42880795",
+  "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
+  "reference" : "JBKLP1VOAR0C73.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 28470.25,
+  "amount" : 111346.85,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2025-01",
+  "reference" : "a20c1t91y-CONTRIB-2025-01",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Січень 2025 року",
+  "amount" : -362.00,
+  "purposeOfPayment" : "банківські комісії за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2025-01",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2025-01",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T17:32:00",
+  "amount" : -3620.00,
+  "purposeOfPayment" : "Доставка та встановлення дотягувачів, відновлення СКУД на вхідній грпі 9-го під`зду. Згідно рахунку №250129 від 29 січня 2025 р.  Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLP1TOAQI3A3.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T14:02:00",
+  "amount" : -20950.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1214 ВІД 28.01.2025Р.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLP1TOAQF9C9.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T14:02:00",
+  "amount" : -2772.00,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №ИСЛ-000011 від 28.01.2025р. У сумі 2310.00 грн., ПДВ - 20 % 462.00 грн.",
+  "counterpartyTaxCode" : "40702928",
+  "counterpartyName" : "ІНТЕРСЕРВІСЛІФТ ТОВ",
+  "reference" : "JBKLP1TOAQF9AL.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T14:02:00",
+  "amount" : -4200.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ПОТОЧНИЙ РЕМОНТ ЛІФТА ЗГІДНО РАХУНКУ №21 ВІД 28.01.2025Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP1TOAQF9AF.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T13:38:00",
+  "amount" : 500.00,
+  "purposeOfPayment" : "за користування спiльним майном за листопад-грудень 2024 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ.",
+  "counterpartyTaxCode" : "31761988",
+  "counterpartyName" : "СОЮЗ ТОВ",
+  "reference" : "JBKLP1TOAQEXHK.1",
+  "category" : "Реклама",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-01-27T15:32:00",
+  "amount" : -15345.00,
+  "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/28239 від 20.12.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
+  "counterpartyTaxCode" : "02128158",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
+  "reference" : "JBKLP1ROAPZMBY.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-27T15:22:00",
+  "amount" : -11765.00,
+  "purposeOfPayment" : "Адміністративні послуги в січні 2025 р. Згідно договору №240101 від 01 січня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLP1ROAPZG2Z.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-22T13:44:00",
+  "amount" : -2500.00,
+  "purposeOfPayment" : "Доводчик King NSK-630  (2 шт)",
+  "counterpartyTaxCode" : "2528306086",
+  "counterpartyName" : "СИВОГРИВОВА Н.В. ФОП",
+  "reference" : "JBKLP1MOAP6BOQ.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-17T15:26:00",
+  "amount" : 6000.00,
+  "purposeOfPayment" : "Доступ до інфраструктури будинку за 1 півріччя 2025 р., зг. уг. КДН-ЗШ80 . без ПДВ",
+  "counterpartyTaxCode" : "38736443",
+  "counterpartyName" : "ТОВ \"КДН\"",
+  "reference" : "HS46P0117L18HD.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-01-17T13:07:00",
+  "amount" : 700.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Січень 2025. Згідно Дог. про участь у витр.№66/84 від 01.01.2024р. Сума 700,00 грн ПДВ (без ПДВ) 0,00 грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS42P0117L11G2.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-01-16T13:58:00",
+  "amount" : -9600.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта згідно рахунку №16 від 16.01.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP1GOANWV20.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-16T13:58:00",
+  "amount" : -10570.00,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №ДПР-002586 від 15.01.2025р. У сумі 8808.33 грн., ПДВ - 20 % 1761.67 грн.",
+  "counterpartyTaxCode" : "24738845",
+  "counterpartyName" : "ТОВ \"ТБД ОЛДІ\"",
+  "reference" : "JBKLP1GOANWV1X.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-15T15:56:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "Оплата про участь у витратах на утримання і ремонт будинку зг дог 307603 від 01.01.2017р. за 1 квартал 2025р. Без ПДВ",
+  "counterpartyTaxCode" : "21673832",
+  "counterpartyName" : "ПРАТ \"КИЇВСТАР\"",
+  "reference" : "HS42P0115L1TIL.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-01-14T09:12:00",
+  "amount" : -6767.45,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського облiку, згiдно договору № 01/11/08 вiд 01.11.2018 року, без ПДВ (avt). сiчень 2025 р.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "REGPP0114B818F.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-14T09:12:00",
+  "amount" : -11471.25,
+  "purposeOfPayment" : "Сплата за аварiйно-технiчне обслуговування iнженерних мереж, згiдно договору № ЗШ-80 вiд 01.01.2025 року, без ПДВ (avt). сiчень 2025 р.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "REGPP0114B818C.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-14T09:12:00",
+  "amount" : -16500.00,
+  "purposeOfPayment" : "Сплата за технiчне обслуговування лiфтiв, згiдно договору № 01/05/20/ТОЛ вiд 01.05.2020 року, без ПДВ, (avt). сiчень 2025 р.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "REGPP0114B818B.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-13T11:11:00",
+  "amount" : 3000.00,
+  "purposeOfPayment" : "Сплата за оренду приміщення за уг.24/10 від 01.10.2024р у 12.2024-01.2025рБез ПДВ.",
+  "counterpartyTaxCode" : "45433431",
+  "counterpartyName" : "ПРЕМІУМ.ЛІНК ТОВ",
+  "reference" : "JBKLP1DOAMYF5F.1",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-03T15:59:00",
   "amount" : -920.00,
@@ -48,7 +543,7 @@
   "amount" : -13703.04,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. № 252002181467 від 31.12.2024. У сумі 11419.20 грн., ПДВ - 20 % 2283.84 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLP12OAL8DOA.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -58,24 +553,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-12",
+  "reference" : "a20c1t91y-CONTRIB-2024-12",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-12-31T00:00:00",
   "amount" : -350.00,
-  "purposeOfPayment" : "банківськи комісії за Грудень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-12",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-12",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-30T14:44:00",
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P4O1230AMHD0.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -140,7 +635,7 @@
   "counterpartyTaxCode" : "2827606710",
   "counterpartyName" : "Лазебник Т. Г. ФОП",
   "reference" : "JBKLOCNOAJCCAS.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-19T20:02:00",
@@ -149,7 +644,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLOCJOAIUBMF.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-19T20:02:00",
@@ -167,7 +662,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLOCJOAIUBM5.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-18T14:26:00",
@@ -194,14 +689,14 @@
   "counterpartyTaxCode" : "45433431",
   "counterpartyName" : "ПРЕМІУМ.ЛІНК ТОВ",
   "reference" : "JBKLOC9OAGECFW.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-12-03T22:28:00",
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P3O1203AIBF5.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -210,7 +705,7 @@
   "amount" : -13197.60,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №258502129679 від 30.11.2024. У сумі 10998.00 грн., ПДВ - 20 % 2199.60 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLOBUOAEI68E.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -219,7 +714,7 @@
   "amount" : -14850.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). За листопад 2024 р. У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLOBUOAEI03S.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -229,17 +724,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-11",
+  "reference" : "a20c1t91y-CONTRIB-2024-11",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-11-30T00:00:00",
   "amount" : -359.00,
-  "purposeOfPayment" : "банківськи комісії за Листопад 2024 року",
+  "purposeOfPayment" : "банківські комісії за Листопад 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-11",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-11",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-11-29T13:17:00",
@@ -300,7 +795,7 @@
   "amount" : -11504.16,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №255701799778 від 31.10.2024. У сумі 9586.80 грн., ПДВ - 20 % 1917.36 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLOBAOAA1CLJ.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -319,17 +814,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-10",
+  "reference" : "a20c1t91y-CONTRIB-2024-10",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-10-31T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Жовтень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-10",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-10",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-10-29T14:24:00",
@@ -345,7 +840,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/23942 від 25.10.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLOATOA7ECII.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -354,7 +849,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2BPO1029A26H8.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -363,7 +858,7 @@
   "amount" : 9000.00,
   "purposeOfPayment" : "За доступ до інфраструктури  за 1-3 квартали 2024 року згідно договору №2-3/80 від 01.10.2021 без ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТРК ТЕЛЕВІДЕО-С ТОВ",
   "reference" : "JBKLOATOA7AGX0.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -417,7 +912,7 @@
   "amount" : -375.50,
   "purposeOfPayment" : "4246 **** **** 4556 16.10.2024 14:30:39 Дiм та ремонт: NL5 DNIPROPETROVSK, DNIPROPETROVS",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Розрахунок VISA (COMPASS+-Емiсiя)",
   "reference" : "COIIOAHY05CSB0.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -480,7 +975,7 @@
   "amount" : -11318.40,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №254301792561 від 30.09.2024. У сумі 9432.00 грн., ПДВ - 20 % 1886.40 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLOA3OA1YV6H.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -490,17 +985,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-09",
+  "reference" : "a20c1t91y-CONTRIB-2024-09",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-09-30T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Вересень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-09",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-09",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-27T15:05:00",
@@ -516,7 +1011,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P9O0926AOMME.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -525,7 +1020,7 @@
   "amount" : -14850.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/20488 від 23.09.2024 р. У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO9OOA03QV1.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -597,7 +1092,7 @@
   "amount" : -9871.20,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №255701716365 від 31.08.2024. У сумі 8226.00 грн., ПДВ - 20 % 1645.20 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO91O9V2ITJ.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -607,24 +1102,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-08",
+  "reference" : "a20c1t91y-CONTRIB-2024-08",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-08-31T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Серпень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Серпень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-08",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-08",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-29T14:26:00",
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/17925 від 15.08.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO8TO9UJKRV.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -696,7 +1191,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P4O0814A5LGZ.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -705,7 +1200,7 @@
   "amount" : -8216.64,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250001250620 від 31.07.2024. У сумі 6847.20 грн., ПДВ - 20 % 1369.44 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO81O9P26YS.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -715,24 +1210,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Липень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-07",
+  "reference" : "a20c1t91y-CONTRIB-2024-07",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-07-31T00:00:00",
   "amount" : -353.00,
-  "purposeOfPayment" : "банківськи комісії за Липень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Липень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-07",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-07",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-26T22:44:00",
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/15771 від 24.07.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO7QO9NV4XJ.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -795,7 +1290,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P1O0712A83JJ.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -831,7 +1326,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P0O0702AR45X.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -849,7 +1344,7 @@
   "amount" : -9551.52,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250001235236 від 30.06.2024. У сумі 7959.60 грн., ПДВ - 20 % 1591.92 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO6UO9IBFKM.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -859,17 +1354,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-06",
+  "reference" : "a20c1t91y-CONTRIB-2024-06",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-06-30T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Червень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Червень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-06",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-06",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-25T11:15:00",
@@ -894,7 +1389,7 @@
   "amount" : -14520.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/13513 від 19.06.2024 р. У сумі 12100.00 грн., ПДВ - 20 % 2420.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO6OO9H5XMG.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -939,7 +1434,7 @@
   "amount" : -6470.64,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250001219919 від 31.05.2024. У сумі 5392.20 грн., ПДВ - 20 % 1078.44 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO5VO9CG2BK.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -949,17 +1444,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Травень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-05",
+  "reference" : "a20c1t91y-CONTRIB-2024-05",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-05-31T00:00:00",
   "amount" : -365.00,
-  "purposeOfPayment" : "банківськи комісії за Травень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Травень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-05",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-05",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-30T14:48:00",
@@ -968,14 +1463,14 @@
   "counterpartyTaxCode" : "547660117",
   "counterpartyName" : "ТОВ \"БАЗИС\"",
   "reference" : "JBKLO5UO9C3T96.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-30T12:59:00",
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P4O0530AHUEM.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -984,7 +1479,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/10975 від 24.05.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO5RO9BHHLQ.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1058,14 +1553,14 @@
   "counterpartyTaxCode" : "35219705",
   "counterpartyName" : "ОСББ \"Командор\"",
   "reference" : "JBKLO57O97CLL2.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-02T22:41:00",
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P6O0502A5Z4P.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -1083,7 +1578,7 @@
   "amount" : -8524.56,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №254701645247 від 30.04.2024. У сумі 7103.80 грн., ПДВ - 20 % 1420.76 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO51O96COOX.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1093,24 +1588,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-04",
+  "reference" : "a20c1t91y-CONTRIB-2024-04",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-04-30T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Квітень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Квітень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-04",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-04",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-25T23:36:00",
   "amount" : -1200.00,
   "purposeOfPayment" : "4246 **** **** 4556 23.04.2024 14:17:42 Послуги: PNFP04455, DNIPRO",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Розрахунок VISA (COMPASS+-Емiсiя)",
   "reference" : "COIIO4PY00JX4N.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -1119,7 +1614,7 @@
   "amount" : -14850.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/08661 від 24.04.2024 р. У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO4OO94Y64H.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1182,7 +1677,7 @@
   "amount" : -7418.40,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №256301528725 від 31.03.2024. У сумі 6182.00 грн., ПДВ - 20 % 1236.40 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO41O904TSG.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1192,17 +1687,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-03",
+  "reference" : "a20c1t91y-CONTRIB-2024-03",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-03-31T00:00:00",
   "amount" : -353.00,
-  "purposeOfPayment" : "банківськи комісії за Березень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Березень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-03",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-03",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-26T10:59:00",
@@ -1227,7 +1722,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/05709 від 22.03.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO3MO8YJNGO.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1265,14 +1760,14 @@
   "counterpartyTaxCode" : "3085505675",
   "counterpartyName" : "ІСКРИЦЬКИЙ В.П. ФОП",
   "reference" : "JBKLO3IO8XH1VL.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-18T01:55:00",
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P1O0318AIFOZ.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -1326,7 +1821,7 @@
   "amount" : -7043.52,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250001155734 від 29.02.2024. У сумі 5869.60 грн., ПДВ - 20 % 1173.92 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO2TO8U5150.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1336,24 +1831,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-02",
+  "reference" : "a20c1t91y-CONTRIB-2024-02",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-02-29T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Лютий 2024 року",
+  "purposeOfPayment" : "банківські комісії за Лютий 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-02",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-02",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-27T16:37:00",
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P0O0227AHDO3.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -1362,7 +1857,7 @@
   "amount" : -14355.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/03649 від 21.02.2024 р. У сумі 11962.50 грн., ПДВ - 20 % 2392.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO2QO8TF0ZZ.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1416,7 +1911,7 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021    ЗА 4-Й КВАРТАЛ 2023 БЕЗ ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТРК ТЕЛЕВІДЕО-С ТОВ",
   "reference" : "JBKLO2GO8RP265.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -1434,7 +1929,7 @@
   "amount" : -55.00,
   "purposeOfPayment" : "4246 **** **** 4556 01.02.2024 11:45:55 Послуги: PNFP04041, DNIPRO",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Розрахунок VISA (COMPASS+-Емiсiя)",
   "reference" : "COIIO23Y0DE0C3.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -1443,7 +1938,7 @@
   "amount" : -9717.84,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №253001833783 від 31.01.2024. У сумі 8098.20 грн., ПДВ - 20 % 1619.64 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO1VO8OMP1Y.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1452,7 +1947,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані). Згідно Рахунок №1849-24/01189 від 31.01.2024 р. У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLO1VO8OMMEM.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1462,24 +1957,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-01",
+  "reference" : "a20c1t91y-CONTRIB-2024-01",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-01-31T00:00:00",
   "amount" : -386.00,
-  "purposeOfPayment" : "банківськи комісії за Січень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Січень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-01",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2024-01",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-30T17:05:00",
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2PLO0130AEMT1.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -1551,7 +2046,7 @@
   "amount" : -26.00,
   "purposeOfPayment" : "4246 **** **** 4556 15.01.2024 08:10:34 Ресторани, кафе, бари: Кафе NERO ESSPRESO",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Розрахунок VISA (COMPASS+-Емiсiя)",
   "reference" : "COIIO1HY0BHCK9.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -1587,7 +2082,7 @@
   "amount" : -80.00,
   "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл./Дніпр.р-н/22012700",
   "reference" : "JBKLO1BO8L0U33.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -1596,7 +2091,7 @@
   "amount" : -80.00,
   "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл./Дніпр.р-н/22012700",
   "reference" : "JBKLO1BO8L0U2V.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -1605,7 +2100,7 @@
   "amount" : -80.00,
   "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл./Дніпр.р-н/22012700",
   "reference" : "JBKLO1BO8L0U2U.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -1614,7 +2109,7 @@
   "amount" : -80.00,
   "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл./Дніпр.р-н/22012700",
   "reference" : "JBKLO1BO8L0U2Q.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -1623,7 +2118,7 @@
   "amount" : -80.00,
   "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл./Дніпр.р-н/22012700",
   "reference" : "JBKLO1BO8L0U2L.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -1659,7 +2154,7 @@
   "amount" : -80.00,
   "purposeOfPayment" : "Плата за надання відомостей з Державного реєстру речових прав на нерухоме майно",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл./Дніпр.р-н/22012700",
   "reference" : "JBKLO18O8KBV97.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -1677,7 +2172,7 @@
   "amount" : -7970.16,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №254701496678 від 31.12.2023. У сумі 6641.80 грн., ПДВ - 20 % 1328.36 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLO12O8JFHUD.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1687,17 +2182,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-12",
+  "reference" : "a20c1t91y-CONTRIB-2023-12",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-12-31T00:00:00",
   "amount" : -359.00,
-  "purposeOfPayment" : "банківськи комісії за Грудень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Грудень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-12",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-12",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-29T15:58:00",
@@ -1722,7 +2217,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLNCRO8ILI5Y.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1731,7 +2226,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P5N1227A3QZ6.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -1794,7 +2289,7 @@
   "amount" : -14850.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLNC1O8DS8ES.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1803,7 +2298,7 @@
   "amount" : -9596.40,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №252501742306 від 0.11.2023. У сумі 7997.00 грн., ПДВ - 20 % 1599.40 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLNC1O8DS7KT.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -1822,24 +2317,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-11",
+  "reference" : "a20c1t91y-CONTRIB-2023-11",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-11-30T00:00:00",
   "amount" : -350.00,
-  "purposeOfPayment" : "банківськи комісії за Листопад 2023 року",
+  "purposeOfPayment" : "банківські комісії за Листопад 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-11",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-11",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-28T12:54:00",
   "amount" : 3000.00,
   "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021    за 3-Й КВАРТАЛ 2023 БЕЗ ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТРК ТЕЛЕВІДЕО-С ТОВ",
   "reference" : "JBKLNBSO8CW9FN.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -1929,7 +2424,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P7N1116AA9PT.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -1975,24 +2470,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-10",
+  "reference" : "a20c1t91y-CONTRIB-2023-10",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-10-31T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Жовтень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Жовтень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-10",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-10",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-26T16:18:00",
   "amount" : -7407.84,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250001049820 від 23.10.2023. У сумі 6173.20 грн., ПДВ - 20 % 1234.64 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLNAQO870T04.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2001,7 +2496,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з вивозу та захороненню ТПВ. Згідно Рахунку №1849-23/23273 від 20.10.2023 У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLNANO86F6LL.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2037,7 +2532,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "аванс за розмiщення тех.засобiв телекомун квартал за 10.2023 зг.ДОГ 12G390-1052/19 вiд 22.05.19, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HS42N1018L26QM.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2046,7 +2541,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P3N1017ALL9B.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2110,17 +2605,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-09",
+  "reference" : "a20c1t91y-CONTRIB-2023-09",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-09-30T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Вересень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Вересень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-09",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-09",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-29T14:45:00",
@@ -2136,7 +2631,7 @@
   "amount" : -14850.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN9RO81JMM6.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2145,7 +2640,7 @@
   "amount" : -7629.60,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №253001700229 від 23.09.2023. У сумі 6358.00 грн., ПДВ - 20 % 1271.60 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN9RO81JLWI.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2217,7 +2712,7 @@
   "amount" : 1000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2BPN0914AUUVV.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2254,24 +2749,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-08",
+  "reference" : "a20c1t91y-CONTRIB-2023-08",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-08-31T00:00:00",
   "amount" : -362.00,
-  "purposeOfPayment" : "банківськи комісії за Серпень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Серпень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-08",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-08",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-30T10:42:00",
   "amount" : 20000.00,
   "purposeOfPayment" : "Згiдно договору серветуту плат-к [null], 2824103053 ч/з ФОП МАТРОСОВ ТАРАС ЯРОСЛАВОВИЧ, ОСББ Запорiзьке шосе 80,UA453052990000026001050283578",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Транзит_рах. по бездоговір. пл. юросіб",
   "reference" : "D2P6N0830A4FJ4.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2298,7 +2793,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ. Згідно рахунку №1849-23/17683 від 21.08.2023 р. у сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN8NO7VR7MU.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2307,7 +2802,7 @@
   "amount" : -6011.28,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000985778 від 23.08.2023. У сумі 5009.40 грн., ПДВ - 20 % 1001.88 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN8NO7VR6TN.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2343,7 +2838,7 @@
   "amount" : -1381.53,
   "purposeOfPayment" : "4246 **** **** 4556 12.08.2023 13:43:18 Товари для дому: SHOP EPITSENTR K DN, DNIPROPETROVS",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Розрахунки VISA  (Compass+-емiсiя)",
   "reference" : "COIIN0814S3S82.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -2352,7 +2847,7 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021 ЗА2-Й КВАРТАЛ 2023 БЕЗ ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТЕЛЕВИДЕО-С  ООО ТРК",
   "reference" : "JBKLN8BO7TP6BH.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2425,17 +2920,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Липень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-07",
+  "reference" : "a20c1t91y-CONTRIB-2023-07",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-07-31T00:00:00",
   "amount" : -359.00,
-  "purposeOfPayment" : "банківськи комісії за Липень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Липень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-07",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-07",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-28T12:29:00",
@@ -2469,7 +2964,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ Без ПДВ.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN7PO7QSS8R.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2478,7 +2973,7 @@
   "amount" : -7764.24,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000961236 від 23.07.2023. У сумі 6470.20 грн., ПДВ - 20 % 1294.04 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN7PO7QOM3E.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2523,7 +3018,7 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "аванс за розмiщення тех.засобiв телекомун квартал за 07.2023 зг.ДОГ 12G390-1052/19 вiд 22.05.19, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HS41N0719L0JJJ.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2551,17 +3046,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Червень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-06",
+  "reference" : "a20c1t91y-CONTRIB-2023-06",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-06-30T00:00:00",
   "amount" : -362.00,
-  "purposeOfPayment" : "банківськи комісії за Червень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Червень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-06",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-06",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-29T15:53:00",
@@ -2586,7 +3081,7 @@
   "amount" : -14850.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ Без ПДВ.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN6QO7LQRJG.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2595,7 +3090,7 @@
   "amount" : -6101.04,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №253701308198 від 23.06.2023. У сумі 5084.20 грн., ПДВ - 20 % 1016.84 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN6QO7LQO12.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2613,7 +3108,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "право доступу до iнфраструк 1кв/2023 зг.ДОГ 12G390-1052/19 вiд 22.05.19, РАХ 1 вiд 31.03.23, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HS42N0621L1AEG.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2649,7 +3144,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за квiтень 2023 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 4 вiд 30.04.23, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HS41N0612L0NRF.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2658,7 +3153,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за лютий 2023 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 2 вiд 28.02.23, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HS41N0612L0NQR.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2667,7 +3162,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за сiчень 2023 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 1 вiд 31.01.23, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HS41N0612L0NQN.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2676,7 +3171,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за березень 2023 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 3 вiд 31.03.23, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HS41N0612L0NQM.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2694,7 +3189,7 @@
   "amount" : 306.00,
   "purposeOfPayment" : "За послуги оренди з 01 по 19 травня 2023 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 5 вiд 19.05.23, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HS42N0605L0FLA.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -2703,7 +3198,7 @@
   "amount" : -2500.00,
   "purposeOfPayment" : "ДОВОДЧИК KING NSK-630 ЗГIДНО РАХУНКУ №СК-0000073 ВIД 01 ЧЕРВНЯ 2023 Р. БЕЗ ПДВ.",
   "counterpartyTaxCode" : "3566905580",
-  "counterpartyName" : "ФОП СИВОГРИВОВА КАТЕРИНА БОГДАНIВНА",
+  "counterpartyName" : "СИВОГРИВОВА КАТЕРИНА БОГДАНІВНА",
   "reference" : "JBKLN62O7I0B6D.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -2713,17 +3208,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Травень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-05",
+  "reference" : "a20c1t91y-CONTRIB-2023-05",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-05-31T00:00:00",
   "amount" : -187.00,
-  "purposeOfPayment" : "банківськи комісії за Травень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Травень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-05",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-05",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-29T16:02:00",
@@ -2739,7 +3234,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з вивозу та захороненню ТПВ (за травень 2023 р.)  Без ПДВ.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN5PO7GVV09.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2748,7 +3243,7 @@
   "amount" : -8644.50,
   "purposeOfPayment" : "101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", на рішення від 24 лютого 2023 року по справі №200/6203/19, Дніпровський апеляційний суд",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ОДВ, ГУДКСУ У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
   "reference" : "JBKLN5OO7GPGW8.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -2757,7 +3252,7 @@
   "amount" : -4504.08,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000900581 від 23.05.2023. У сумі 3753.40 грн., ПДВ - 20 % 750.68 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN5OO7GPB8W.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2858,7 +3353,7 @@
   "counterpartyTaxCode" : "34316747",
   "counterpartyName" : "ТОВ, ШУНГІТ",
   "reference" : "JBKLN54O7DGT1P.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-30T00:00:00",
@@ -2866,17 +3361,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-04",
+  "reference" : "a20c1t91y-CONTRIB-2023-04",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-04-30T00:00:00",
   "amount" : -181.00,
-  "purposeOfPayment" : "банківськи комісії за Квітень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Квітень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-04",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-04",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-27T16:21:00",
@@ -2885,14 +3380,14 @@
   "counterpartyTaxCode" : "3464104796",
   "counterpartyName" : "ЧОРНОБРИВЕЦЬ Я.В. ФОП",
   "reference" : "JBKLN4RO7CG4AE.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-26T11:10:00",
   "amount" : -14850.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN4QO7C5XIM.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2901,7 +3396,7 @@
   "amount" : -6249.60,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №251901153359 від 23.04.2023. У сумі 5208.00 грн., ПДВ - 20 % 1041.60 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN4QO7C5VX1.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -2910,7 +3405,7 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021 ЗА 1-Й КВАРТАЛ 2023 БЕЗ ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТРК ТЕЛЕВІДЕО-С ТОВ",
   "reference" : "JBKLN4LO7BMSV8.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3001,24 +3496,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Березень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-03",
+  "reference" : "a20c1t91y-CONTRIB-2023-03",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-03-31T00:00:00",
   "amount" : -184.00,
-  "purposeOfPayment" : "банківськи комісії за Березень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Березень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-03",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-03",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-23T22:41:00",
   "amount" : -5507.04,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000839156 від 23.03.2023 У сумі 4589.20 грн., ПДВ - 20 % 917.84 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN3NO77E3NS.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3027,7 +3522,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN3NO77E3KY.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3045,7 +3540,7 @@
   "amount" : -2500.00,
   "purposeOfPayment" : "Доводчик King NSK-630 згiдно рахунку №СК-0000032 вiд 14 Березня 2023 р. Без ПДВ.",
   "counterpartyTaxCode" : "3566905580",
-  "counterpartyName" : "ФОП СИВОГРИВОВА КАТЕРИНА БОГДАНIВНА",
+  "counterpartyName" : "СИВОГРИВОВА КАТЕРИНА БОГДАНІВНА",
   "reference" : "JBKLN3EO75W1UE.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -3082,24 +3577,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-02",
+  "reference" : "a20c1t91y-CONTRIB-2023-02",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-02-28T00:00:00",
   "amount" : -184.00,
-  "purposeOfPayment" : "банківськи комісії за Лютий 2023 року",
+  "purposeOfPayment" : "банківські комісії за Лютий 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-02",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-02",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-27T00:01:00",
   "amount" : -4393.20,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000820752 від 23.02.2023. У сумі 3661.00 грн., ПДВ - 20 % 732.20 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN2PO73FXMZ.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3108,7 +3603,7 @@
   "amount" : -13860.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 11550.00 грн., ПДВ - 20 % 2310.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN2PO73FXDC.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3153,7 +3648,7 @@
   "amount" : -226.50,
   "purposeOfPayment" : "4246 **** **** 4556 12.02.2023 10:21:58 Продукти: SHOP ATB PR080, DNIPRO",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Расчеты VISA  (Compass+-эмиссия)",
   "reference" : "COIIN0214NP1BO.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -3162,7 +3657,7 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021 ЗА 4-Й КВАРТАЛ 2022 БЕЗ ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТЕЛЕВИДЕО-С  ООО ТРК",
   "reference" : "JBKLN2DO71IWKN.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3217,24 +3712,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Січень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2023-01",
+  "reference" : "a20c1t91y-CONTRIB-2023-01",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2023-01-31T00:00:00",
   "amount" : -181.00,
-  "purposeOfPayment" : "банківськи комісії за Січень 2023 року",
+  "purposeOfPayment" : "банківські комісії за Січень 2023 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2023-01",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2023-01",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-25T16:55:00",
   "amount" : -15345.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLN1PO6Z7T1M.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3243,7 +3738,7 @@
   "amount" : -4786.32,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000802237 від 23.01.2023. У сумі 3988.60 грн., ПДВ - 20 % 797.72 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLN1PO6Z7R7B.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3261,7 +3756,7 @@
   "amount" : -420.00,
   "purposeOfPayment" : "4246 **** **** 4556 24.01.2023 15:33:16 Інше: Магазин канцелярських товарів Акварель Оптовый",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "розрахунки за картами (С+, ACQ1) карти ПБ",
   "reference" : "COIIN0124T51HN.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -3270,7 +3765,7 @@
   "amount" : -309.50,
   "purposeOfPayment" : "4246 **** **** 4556 19.01.2023 18:47:15 Інше: Акварель Опт",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "розрахунки за картами (С+, ACQ1) карти ПБ",
   "reference" : "COIIN0120S0WVI.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -3279,7 +3774,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "право доступу до iнфраструк 4кв/2022 зг.ДОГ 12G390-1052/19 вiд 22.05.19, РАХ 4 вiд 31.12.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLN0118L1840.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3342,7 +3837,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "право доступу до iнфраструк 3кв/2022 зг.ДОГ 12G390-1052/19 вiд 22.05.19, РАХ 3 вiд 30.09.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLN0104L0XZ3.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3351,7 +3846,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "право доступу до iнфраструк 2кв/2022 зг.ДОГ 12G390-1052/19 вiд 22.05.19, РАХ 2 вiд 30.06.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLN0104L0XXL.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3360,7 +3855,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за грудень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 12 вiд 31.12.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLN0102L1QMF.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3370,24 +3865,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-12",
+  "reference" : "a20c1t91y-CONTRIB-2022-12",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-12-31T00:00:00",
   "amount" : -193.00,
-  "purposeOfPayment" : "банківськи комісії за Грудень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Грудень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-12",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-12",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-28T12:19:00",
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за серпень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 8 вiд 31.08.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F6X.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3396,7 +3891,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за червень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 6 вiд 30.06.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F6L.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3405,7 +3900,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди  за травень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 5 вiд 31.05.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F5V.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3414,7 +3909,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за липень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 7 вiд 31.07.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F2C.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3423,7 +3918,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди  за березень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 3 вiд 31.03.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F1T.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3432,7 +3927,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди  за жовтень 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 10 вiд 31.10.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F1A.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3441,7 +3936,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за грудень 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 12 вiд 31.12.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F18.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3450,7 +3945,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за травень 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 5 вiд 31.05.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F0R.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3459,7 +3954,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за червень 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 6 вiд 30.06.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F0Q.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3468,7 +3963,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за серпень 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 8 вiд 31.08.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F0P.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3477,7 +3972,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за липень 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 7 вiд 31.07.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1F05.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3486,7 +3981,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди  за вересень 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 9 вiд 30.09.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1EZP.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3495,7 +3990,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за листопад 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 11 вiд 30.11.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1EZO.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3504,7 +3999,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за сiчень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 1 вiд 31.01.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1EZ5.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3513,7 +4008,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за квiтень 2021 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 4 вiд 30.04.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1EZ4.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3522,7 +4017,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за вересень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 9 вiд 30.09.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1EQZ.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3531,7 +4026,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за лютий 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 2 вiд 28.02.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1EPY.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3540,7 +4035,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за квiтень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 4 вiд 30.04.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1228L1EPX.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3549,7 +4044,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "право доступу до iнфраструк 1кв/2022 зг.ДОГ 12G390-1052/19 вiд 22.05.19, РАХ 1 вiд 30.03.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1226L3BRH.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3558,7 +4053,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за листопад 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 11 вiд 30.11.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1226L3AL0.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3567,7 +4062,7 @@
   "amount" : 500.00,
   "purposeOfPayment" : "За послуги оренди за жовтень 2022 р зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 10 вiд 31.10.22, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLM1226L3AKZ.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3585,7 +4080,7 @@
   "amount" : -4950.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ за  листопад 2022 р. у сумі 4125.00 грн., ПДВ - 20 % 825.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLMCQO6V53SU.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3594,7 +4089,7 @@
   "amount" : -15345.00,
   "purposeOfPayment" : "Послуги з вивозу та захороненню ТПВ у грудні 2022 року У сумі 12787.50 грн., ПДВ - 20 % 2557.50 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLMCNO6UZU3S.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3603,7 +4098,7 @@
   "amount" : -2756.88,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000786227 від 23.12.2022. У сумі 2297.40 грн., ПДВ - 20 % 459.48 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLMCNO6UZSZT.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3648,7 +4143,7 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021 ЗА 3-Й КВАРТАЛ 2022 БЕЗ ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТЕЛЕВИДЕО-С  ООО ТРК",
   "reference" : "JBKLMCEO6TKI1O.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -3668,7 +4163,7 @@
   "counterpartyTaxCode" : "42887764",
   "counterpartyName" : "ТОВ, ТК МАРК",
   "reference" : "JBKLMCDO6TGKJ0.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-08T13:30:00",
@@ -3684,7 +4179,7 @@
   "amount" : -5270.16,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. № 252700993252 від 23.11.2022. У сумі 4391.80 грн., ПДВ - 20 % 878.36 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLMC1O6RZJ7J.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3693,7 +4188,7 @@
   "amount" : -14850.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 12375.00 грн., ПДВ - 20 % 2475.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLMC1O6RZI5A.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3703,17 +4198,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-11",
+  "reference" : "a20c1t91y-CONTRIB-2022-11",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-11-30T00:00:00",
   "amount" : -175.00,
-  "purposeOfPayment" : "банківськи комісії за Листопад 2022 року",
+  "purposeOfPayment" : "банківські комісії за Листопад 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-11",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-11",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-18T14:45:00",
@@ -3765,7 +4260,7 @@
   "amount" : -4157.40,
   "purposeOfPayment" : "4246 **** **** 4556 11.11.2022 11:52:07 Магазин МЕТРО",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "розрахунки за картами (С+, ACQ1) карти ПБ",
   "reference" : "COIIM1111XQTU6.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -3775,17 +4270,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-10",
+  "reference" : "a20c1t91y-CONTRIB-2022-10",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-10-31T00:00:00",
   "amount" : -184.00,
-  "purposeOfPayment" : "банківськи комісії за Жовтень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Жовтень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-10",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-10",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-26T08:56:00",
@@ -3801,7 +4296,7 @@
   "amount" : -4462.08,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000746266 від 23.10.2022 У сумі 3718.40 грн., ПДВ - 20 % 743.68 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLMAOO6MW1VD.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3810,7 +4305,7 @@
   "amount" : -20460.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ Без ПДВ.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLMAOO6MW12G.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3901,24 +4396,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-09",
+  "reference" : "a20c1t91y-CONTRIB-2022-09",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-09-30T00:00:00",
   "amount" : -181.00,
-  "purposeOfPayment" : "банківськи комісії за Вересень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Вересень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-09",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-09",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-26T00:01:00",
   "amount" : -4714.08,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000720591 від 23.09.2022. У сумі 3928.40 грн., ПДВ - 20 % 785.68 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM9OO6IXT9C.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3927,7 +4422,7 @@
   "amount" : -19800.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 16500.00 грн., ПДВ - 20 % 3300.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM9OO6IXT68.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -3947,7 +4442,7 @@
   "counterpartyTaxCode" : "3464104796",
   "counterpartyName" : "ЧОРНОБРИВЕЦЬ Я.В. ФОП",
   "reference" : "JBKLM9LO6IJ0YX.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-21T09:20:00",
@@ -3982,17 +4477,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-08",
+  "reference" : "a20c1t91y-CONTRIB-2022-08",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-08-31T00:00:00",
   "amount" : -187.00,
-  "purposeOfPayment" : "банківськи комісії за Серпень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Серпень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-08",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-08",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-30T09:47:00",
@@ -4008,7 +4503,7 @@
   "amount" : -3830.40,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №50000693570 від 23.08.2022. У сумі 3192.00 грн., ПДВ - 20 % 638.40 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM8OO6EX3ID.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4017,7 +4512,7 @@
   "amount" : -20460.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ Без ПДВ.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM8OO6EX36Y.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4089,7 +4584,7 @@
   "amount" : -1981.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ  ?ЗАПОРІЗЬКЕ ШОСЕ 80?, Бабушкінський районний суд м. Дніпропетровська",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
   "reference" : "JBKLM89O6D0WI3.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -4098,7 +4593,7 @@
   "amount" : -500.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ  ?ЗАПОРІЗЬКЕ ШОСЕ 80?, Бабушкінський районний суд м. Дніпропетровська",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ОВВ, ГУДКСУ У ДНІПРОПЕТРОВСЬКІЙ ОБЛАСТІ",
   "reference" : "JBKLM89O6D0JJD.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -4116,7 +4611,7 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021 ЗА 2-Й КВАРТАЛ 2022 БЕЗ ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТЕЛЕВИДЕО-С  ООО ТРК",
   "reference" : "JBKLM83O6C6W8B.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -4135,24 +4630,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Липень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-07",
+  "reference" : "a20c1t91y-CONTRIB-2022-07",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-07-31T00:00:00",
   "amount" : -181.00,
-  "purposeOfPayment" : "банківськи комісії за Липень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Липень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-07",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-07",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-25T14:56:00",
   "amount" : -4777.92,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000672608 від 23.07.2021. У сумі 3981.60 грн., ПДВ - 20 % 796.32 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM7PO6AZC5R.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4161,7 +4656,7 @@
   "amount" : -20460.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 17050.00 грн., ПДВ - 20 % 3410.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM7PO6AZC5M.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4477,17 +4972,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Червень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-06",
+  "reference" : "a20c1t91y-CONTRIB-2022-06",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-06-30T00:00:00",
   "amount" : -193.00,
-  "purposeOfPayment" : "банківськи комісії за Червень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Червень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-06",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-06",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-28T15:52:00",
@@ -4530,7 +5025,7 @@
   "amount" : -3738.00,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000644076 від 23.06.2022. У сумі 3115.00 грн., ПДВ - 20 % 623.00 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM6NO673NE8.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4566,7 +5061,7 @@
   "amount" : -19800.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 16500.00 грн., ПДВ - 20 % 3300.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM6NO673IZR.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4657,24 +5152,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Травень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-05",
+  "reference" : "a20c1t91y-CONTRIB-2022-05",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-05-31T00:00:00",
   "amount" : -181.00,
-  "purposeOfPayment" : "банківськи комісії за Травень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Травень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-05",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-05",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-25T15:27:00",
   "amount" : -20460.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 17050.00 грн., ПДВ - 20 % 3410.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM5PO63SJNC.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4683,7 +5178,7 @@
   "amount" : -4551.12,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №257700694461 від 23.05.2022. У сумі 3792.60 грн., ПДВ - 20 % 758.52 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM5PO63SJ16.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4747,17 +5242,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-04",
+  "reference" : "a20c1t91y-CONTRIB-2022-04",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-04-30T00:00:00",
   "amount" : -184.00,
-  "purposeOfPayment" : "банківськи комісії за Квітень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Квітень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-04",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-04",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-27T15:59:00",
@@ -4773,7 +5268,7 @@
   "amount" : -19800.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 16500.00 грн., ПДВ - 20 % 3300.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM4PO60NZFG.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4782,7 +5277,7 @@
   "amount" : -4814.88,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000602283 від 23.04.2022. У сумі 4012.40 грн., ПДВ - 20 % 802.48 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM4PO60NZ9C.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4836,7 +5331,7 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "ЗА КОРИСТУВАННЯ ІФРАСТРУКТУРОЮ БУДИНКУ ЗГІДНО ДОГОВОРУ СЕРВІТУТУ №2-3/80 ВІД 01.10.2021 ЗА 1-Й КВАРТАЛ 2022 БЕЗ ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТРК ТЕЛЕВІДЕО-С ТОВ",
   "reference" : "JBKLM48O5Z8TAG.1",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -4855,17 +5350,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Березень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-03",
+  "reference" : "a20c1t91y-CONTRIB-2022-03",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-03-31T00:00:00",
   "amount" : -181.00,
-  "purposeOfPayment" : "банківськи комісії за Березень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Березень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-03",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-03",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-29T16:21:00",
@@ -4881,7 +5376,7 @@
   "amount" : -4038.72,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000586364 від 23.03.2022. У сумі 3365.60 грн., ПДВ - 20 % 673.12 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM3OO5Y1KAV.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4890,7 +5385,7 @@
   "amount" : -20460.00,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 17050.00 грн., ПДВ - 20 % 3410.00 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM3OO5Y1K7A.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4936,17 +5431,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-02",
+  "reference" : "a20c1t91y-CONTRIB-2022-02",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-02-28T00:00:00",
   "amount" : -184.00,
-  "purposeOfPayment" : "банківськи комісії за Лютий 2022 року",
+  "purposeOfPayment" : "банківські комісії за Лютий 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-02",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-02",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-25T09:51:00",
@@ -4962,7 +5457,7 @@
   "amount" : -5853.12,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000568722 від 23.02.2022. У сумі 4877.60 грн., ПДВ - 20 % 975.52 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM2OO5W84QB.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -4971,7 +5466,7 @@
   "amount" : -22102.13,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 18418.44 грн., ПДВ - 20 % 3683.69 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM2OO5W8149.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5016,7 +5511,7 @@
   "amount" : -1013.00,
   "purposeOfPayment" : "4246 **** **** 4556 08.02.2022 20:28:30 SHOP EPITSENTR K DN, DNIPROPETROVS",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Расчеты VISA  (Compass+-эмиссия)",
   "reference" : "COIIM0210T8P3Y.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -5025,7 +5520,7 @@
   "amount" : -746.92,
   "purposeOfPayment" : "4246 **** **** 4556 08.02.2022 11:20:57 SHOP EPITSENTR K DN, DNIPROPETROVS",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Расчеты VISA  (Compass+-эмиссия)",
   "reference" : "COIIM0210T8W53.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -5034,7 +5529,7 @@
   "amount" : -1814.00,
   "purposeOfPayment" : "Доводчик KING NSK-630. Згiдно Рахунку № СК-0000043 вiд 9 лютого 2022 р. Без ПДВ.",
   "counterpartyTaxCode" : "3566905580",
-  "counterpartyName" : "ФОП СИВОГРИВОВА КАТЕРИНА БОГДАНIВНА",
+  "counterpartyName" : "ФОП СИВОГРИВОВА КАТЕРИНА БОГДАНІВНА",
   "reference" : "JBKLM29O5TR5IX.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -5058,21 +5553,21 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-01-31T00:00:00",
-  "amount" : 109499.23,
+  "amount" : 100511.23,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2022-01",
+  "reference" : "a20c1t91y-CONTRIB-2022-01",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2022-01-31T00:00:00",
   "amount" : -193.00,
-  "purposeOfPayment" : "банківськи комісії за Січень 2022 року",
+  "purposeOfPayment" : "банківські комісії за Січень 2022 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2022-01",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2022-01",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-30T16:27:00",
@@ -5082,24 +5577,6 @@
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLM1UO5RXJFF.1",
   "category" : "Поточний ремонт та інше",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2022-01-28T11:33:00",
-  "amount" : -2397.00,
-  "purposeOfPayment" : "Пов.плат.2021.07.06№144863741.1;2021.07.06№144864014.1та ін. згід. листа№2701/21497 від 27.01.22 Лавренева7/10, ІПН 2930306712 Майоров Сергій Володимирович",
-  "counterpartyTaxCode" : "2930306712",
-  "counterpartyName" : "МАЙОРОВ СЕРГІЙ ВОЛОДИМИРОВИЧ",
-  "reference" : "JBKLM1SO5RR8LZ.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2022-01-28T11:33:00",
-  "amount" : -597.00,
-  "purposeOfPayment" : "Пов.плат.2021.03.13№115396994.1;2021.04.02№120612423.1 лист№2701/21496 від 27.01.22 Лавренева7/10, ІПН 2930306712 Майоров Сергій Володимирович",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLM1SO5RR89G.1",
-  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-26T19:54:00",
@@ -5115,7 +5592,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLM1QO5RJ20N.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5124,7 +5601,7 @@
   "amount" : -7304.64,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000548052 від 23.01.2022. У сумі 6087.20 грн., ПДВ - 20 % 1217.44 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLM1QO5RJ20C.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5142,28 +5619,10 @@
   "amount" : 3000.00,
   "purposeOfPayment" : "За користування іфраструктурою будинку згідно договору сервітуту №2-3/80 від 01.10.2021 за 4-й квартал 2021 без ПДВ.",
   "counterpartyTaxCode" : "23023044",
-  "counterpartyName" : "ТРК ТЕЛЕВIДЕО-С ТОВ",
+  "counterpartyName" : "ТРК ТЕЛЕВІДЕО-С ТОВ",
   "reference" : "JBKLM1PO5R8NX2.1",
   "category" : "Сервітут",
   "kind" : "дохід"
-}, {
-  "dateTime" : "2022-01-24T12:06:00",
-  "amount" : -2997.00,
-  "purposeOfPayment" : "Пов.плат.2021.03.13№115396994.1;2021.04.02№120612423.1;2021.07.06№14486374.1та інш.;лист№1801/21237 Лавренева7/10, ІПН 2930306712 МайоровСергійВолодимирович",
-  "counterpartyTaxCode" : "2930306712",
-  "counterpartyName" : "Майоров Сергій Володимирович",
-  "reference" : "JBKLM1OO5R18JE.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2022-01-21T12:37:00",
-  "amount" : -2997.00,
-  "purposeOfPayment" : "Пов.плат.2021.03.13№115396994.1;2021.04.02№120612423.1;2021.07.06№14486374.1та інш.;лист№1801/21237 Лавренева7/10, ІПН 2930306712 МайоровСергійВолодимирович",
-  "counterpartyTaxCode" : "2930306712",
-  "counterpartyName" : "АТ УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLM1LO5QSI8M.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-20T14:19:00",
   "amount" : 1000.00,
@@ -5214,7 +5673,7 @@
   "amount" : -153.19,
   "purposeOfPayment" : "ЗА САНТЕХНІЧНІ МАТЕРІАЛИ ЗГІДНО РАХУНКУ-ФАКТУРИ №1-00000006  ВІД  11.01.2022 Р. БЕЗ ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLM1CO5P7QPV.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -5266,29 +5725,29 @@
 }, {
   "dateTime" : "2021-12-31T00:00:00",
   "amount" : 77212.33,
-  "purposeOfPayment" : "повернення коштів з депозита за Грудень 2021 року",
+  "purposeOfPayment" : "повернення коштів з депозиту за Грудень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
-  "reference" : "SAVEIN-2021-12",
+  "reference" : "a20c1t91y-SAVEIN-2021-12",
   "category" : "Доходи від депозитів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-12-31T00:00:00",
-  "amount" : 114286.67,
+  "amount" : 113098.67,
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-12",
+  "reference" : "a20c1t91y-CONTRIB-2021-12",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-12-31T00:00:00",
   "amount" : -190.00,
-  "purposeOfPayment" : "банківськи комісії за Грудень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Грудень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-12",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-12",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-30T15:50:00",
@@ -5342,7 +5801,7 @@
   "counterpartyTaxCode" : "3221603153",
   "counterpartyName" : "Небилович Сергій Олександрович підп",
   "reference" : "JBKLLCSO5N72QX.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-24T17:05:00",
@@ -5354,20 +5813,11 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-12-24T15:10:00",
-  "amount" : -188.00,
-  "purposeOfPayment" : "Повернен. плат. від 2021.11.20 №282009356.1 Утримання буд. від Бабенко Любов, о/р осбб порядок о р 86, вул.49 Гвардійської Дивізії, буд18, корп.4, кв.86.",
-  "counterpartyTaxCode" : "2108109255",
-  "counterpartyName" : "Бабенко Микола Олексійович",
-  "reference" : "JBKLLCOO5MTQOJ.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-12-23T14:43:00",
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLLCNO5MLPYK.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5385,7 +5835,7 @@
   "amount" : -5765.76,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000524538 від 23.12.2021. У сумі 4804.80 грн., ПДВ - 20 % 960.96 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLLCNO5MLFN2.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5435,15 +5885,6 @@
   "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-12-03T11:22:00",
-  "amount" : -1000.00,
-  "purposeOfPayment" : "Повернення платежу від 2021-10-08 №269328404.1 Утриман. будин. від Ставицький Олексій Анатолійович, о/р ОСББ, вул.Лавреньова, буд.24, кв.29. Пл-к Ставицький О.А",
-  "counterpartyTaxCode" : "3515714410",
-  "counterpartyName" : "Ставицький Олексій Анатолійович",
-  "reference" : "JBKLLC3O5J44RH.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-11-30T17:43:00",
   "amount" : -35000.00,
   "purposeOfPayment" : "Часткова оплата за ремонтні роботи - штукатерка стін, даху, ремонт покрівлі, фарбування стін згідно рах. №35 від 29.09.2021р, Без ПДВ.",
@@ -5454,21 +5895,21 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-30T00:00:00",
-  "amount" : 98146.78,
+  "amount" : 97506.78,
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-11",
+  "reference" : "a20c1t91y-CONTRIB-2021-11",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-30T00:00:00",
   "amount" : -187.00,
-  "purposeOfPayment" : "банківськи комісії за Листопад 2021 року",
+  "purposeOfPayment" : "банківські комісії за Листопад 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-11",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-11",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-24T09:04:00",
@@ -5502,7 +5943,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLLBNO5HIESB.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5511,7 +5952,7 @@
   "amount" : -5523.84,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000491238 від 23.11.2021. У сумі 4603.20 грн., ПДВ - 20 % 920.64 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLLBNO5HIEKZ.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5531,7 +5972,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBFO5G27L9.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T13:17:00",
@@ -5540,7 +5981,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBFO5G2735.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T13:14:00",
@@ -5549,7 +5990,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLBFO5G2538.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T10:28:00",
@@ -5588,15 +6029,6 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-11-08T17:12:00",
-  "amount" : -640.00,
-  "purposeOfPayment" : "Пов.плат.від2021-10-12№270275330.1,2021-09-14№262517165.1,2021-08-15№254838019.1,2021-07-12№146162203.1Университетская 126, ІПН 3118909214 Брежнєв Сергій Петров",
-  "counterpartyTaxCode" : "3118909214",
-  "counterpartyName" : "АТ УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLLB8O5F3ZBA.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-11-05T13:16:00",
   "amount" : -7274.00,
   "purposeOfPayment" : "Остаточна сплата за поточний ремонт пасажирс. ліфта 5-го під. (з урахуванням матеріалів) згідно рах. №322 від 20.10.2021р,  Без ПДВ.",
@@ -5619,27 +6051,27 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLLAVO5DRAH1.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-31T00:00:00",
-  "amount" : 125978.54,
+  "amount" : 125941.54,
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-10",
+  "reference" : "a20c1t91y-CONTRIB-2021-10",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-10-31T00:00:00",
   "amount" : -205.00,
-  "purposeOfPayment" : "банківськи комісії за Жовтень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Жовтень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-10",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-10",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-26T14:16:00",
@@ -5655,7 +6087,7 @@
   "amount" : -6385.68,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000462106 від 23.10.2021. У сумі 5321.40 грн., ПДВ - 20 % 1064.28 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLLAPO5CTYDM.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5745,7 +6177,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "аванс за розмiщення тех.засобiв телекомунiкацiй  за 4кв/2021 зг.ДОГ 12G390-1052/19 вiд 22.05.19, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLL1013L319E.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -5754,7 +6186,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська; Код бюджетної клас. 22030101;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLLA6O59ZI2I.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -5763,7 +6195,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська; Код бюджетної клас. 22030101;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLLA6O59ZI2F.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -5772,7 +6204,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська; Код бюджетної клас. 22030101;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLLA6O59ZI23.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -5781,7 +6213,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська; Код бюджетної клас. 22030101;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLLA6O59ZI1Y.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -5790,7 +6222,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська; Код бюджетної клас. 22030101;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLLA6O59ZI1W.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -5799,7 +6231,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська; Код бюджетної клас. 22030101;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLLA6O59ZI1M.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -5817,7 +6249,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", Бабушкінський районний суд м. Дніпропетровська; Код бюджетної клас. 22030101;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLLA6O59ZI1I.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -5889,7 +6321,7 @@
   "amount" : -1498.00,
   "purposeOfPayment" : "Оплата за товар, згідно рахунку № 21-94320 ,  платник: Варфоломєй Сергій Вікторович",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Корзина платежей",
   "reference" : "SAMBL1005MNA48.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -5898,7 +6330,7 @@
   "amount" : -6855.26,
   "purposeOfPayment" : "Оплата за товар згідно рахунку № 21-94206 від Варфоломєй Сергій Вікторович",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "Корзина платежей",
   "reference" : "SAMBL1005MIMBM.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -5912,38 +6344,29 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-10-04T10:07:00",
-  "amount" : -37.00,
-  "purposeOfPayment" : "Повернення платежу від 12.09.21 №261926275.1 Утрим.буд. від Волкова Наталя Олександрівна, о/р 23709220. Платник: ІПН 3025014219 Волков Олег Миколайович.",
-  "counterpartyTaxCode" : "3025014219",
-  "counterpartyName" : "Волков Олег Миколайович",
-  "reference" : "JBKLLA4O59EPJ2.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-09-30T00:00:00",
   "amount" : 115896.60,
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-09",
+  "reference" : "a20c1t91y-CONTRIB-2021-09",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-09-30T00:00:00",
   "amount" : -184.00,
-  "purposeOfPayment" : "банківськи комісії за Вересень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Вересень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-09",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-09",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-27T00:01:00",
   "amount" : -4680.48,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №254000702692 від 23.09.2021 У сумі 3900.40 грн., ПДВ - 20 % 780.08 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL9QO58ACM8.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5952,7 +6375,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLL9QO58ACJU.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -5988,7 +6411,7 @@
   "amount" : -962.16,
   "purposeOfPayment" : "Оплата за товари та послуги 18.09.2021 11:44:28 по картці 5169330513886512",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
   "reference" : "COIIL0921M0BXX.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -6035,7 +6458,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL98O55PW3R.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-07T13:47:00",
@@ -6051,7 +6474,7 @@
   "amount" : -1103.00,
   "purposeOfPayment" : "ЗА САНТЕХНІЧНІ МАТЕРІАЛИ ЗГІДНО РАХУНКУ-ФАКТУРИ №1-00000125  ВІД  01.09.2021 Р. БЕЗ ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLL91O54H7U8.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -6067,29 +6490,29 @@
 }, {
   "dateTime" : "2021-08-31T00:00:00",
   "amount" : 40347.43,
-  "purposeOfPayment" : "повернення коштів з депозита за Серпень 2021 року",
+  "purposeOfPayment" : "повернення коштів з депозиту за Серпень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
-  "reference" : "SAVEIN-2021-08",
+  "reference" : "a20c1t91y-SAVEIN-2021-08",
   "category" : "Доходи від депозитів",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-08-31T00:00:00",
-  "amount" : 104704.69,
+  "amount" : 103273.84,
   "purposeOfPayment" : "консолідований внесок власників за Серпень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-08",
+  "reference" : "a20c1t91y-CONTRIB-2021-08",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-08-31T00:00:00",
   "amount" : -199.00,
-  "purposeOfPayment" : "банківськи комісії за Серпень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Серпень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-08",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-08",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-27T09:45:00",
@@ -6141,7 +6564,7 @@
   "amount" : -1610.95,
   "purposeOfPayment" : "ЗА САНТЕХНІЧНІ МАТЕРІАЛИ ЗГІДНО РАХУНКУ-ФАКТУРИ №1-00000121  ВІД  23.08.2021 Р. БЕЗ ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLL8RO53MW79.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -6159,7 +6582,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLL8OO537KW9.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6168,7 +6591,7 @@
   "amount" : -5073.60,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №250000419790 від 23.08.2021. У сумі 4228.00 грн., ПДВ - 20 % 845.60 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL8OO537KVM.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6200,47 +6623,11 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-08-17T14:54:00",
-  "amount" : -370.94,
-  "purposeOfPayment" : "Поверн. плат. від 05.01.21 №99498797.1, від 03.02.21 №106416895.1. Утрим. будинку від Рудченко Ольга Василівна, п-к: ІПН 3575507242 Лєншина Олена Артурівна",
-  "counterpartyTaxCode" : "3575507242",
-  "counterpartyName" : "Лєншина Олена Артурівна",
-  "reference" : "JBKLL8HO52D6JM.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-08-17T14:54:00",
-  "amount" : -370.94,
-  "purposeOfPayment" : "Поверн. плат. від 05.03.21 №113711689.1, від 05.04.21 №121342141.1. Утрим. будинку від Рудченко Ольга Василівна, п-к: ІПН 3575507242 Лєншина Олена Артурівна",
-  "counterpartyTaxCode" : "3575507242",
-  "counterpartyName" : "Лєншина Олена Артурівна",
-  "reference" : "JBKLL8HO52D6JC.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-08-17T14:54:00",
-  "amount" : -318.03,
-  "purposeOfPayment" : "Поверн. плат. від 01.05.21 №128287017.1, від 03.06.21 №136733988.1. Утрим. будинку від Рудченко Ольга Василівна, п-к: ІПН 3575507242 Лєншина лена Артурівна",
-  "counterpartyTaxCode" : "3575507242",
-  "counterpartyName" : "Лєншина Олена Артурівна",
-  "reference" : "JBKLL8HO52D6IG.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-08-17T14:54:00",
-  "amount" : -370.94,
-  "purposeOfPayment" : "Поверн. плат. від 03.07.21 №144124947.1, від 30.07.21 №251070653.1. Утрим. будинку від Рудченко Ольга Василівна, п-к: ІПН 3575507242 Лєншина Олена Артурівна",
-  "counterpartyTaxCode" : "3575507242",
-  "counterpartyName" : "Лєншина Олена Артурівна",
-  "reference" : "JBKLL8HO52D6HN.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-08-17T13:47:00",
   "amount" : -4425.12,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №255300369328 від 23.07.2021. У сумі 3687.60 грн., ПДВ - 20 % 737.52 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL8HO52CB9V.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6276,7 +6663,7 @@
   "amount" : -3405.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір, за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\", на рішення від 20.07.2021 по справі 904/4940/21, Центральний апеляційний господарський суд;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLL8CO51MZ5P.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -6292,10 +6679,10 @@
 }, {
   "dateTime" : "2021-07-31T00:00:00",
   "amount" : 76314.91,
-  "purposeOfPayment" : "повернення коштів з депозита за Липень 2021 року",
+  "purposeOfPayment" : "повернення коштів з депозиту за Липень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
-  "reference" : "SAVEIN-2021-07",
+  "reference" : "a20c1t91y-SAVEIN-2021-07",
   "category" : "Доходи від депозитів",
   "kind" : "дохід"
 }, {
@@ -6304,17 +6691,17 @@
   "purposeOfPayment" : "консолідований внесок власників за Липень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-07",
+  "reference" : "a20c1t91y-CONTRIB-2021-07",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-07-31T00:00:00",
   "amount" : -181.00,
-  "purposeOfPayment" : "банківськи комісії за Липень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Липень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-07",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-07",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-29T14:46:00",
@@ -6330,7 +6717,7 @@
   "amount" : -1510.00,
   "purposeOfPayment" : "ЗА САНТЕХНІЧНІ МАТЕРІАЛИ ЗГІДНО РАХУНКУ-ФАКТУРИ №1-00000099  ВІД  22.07.2021 Р. Без ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLL7QO4YU7K5.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -6348,7 +6735,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLL7KO4Y0U1L.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6375,7 +6762,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "аванс За розмiщення тех.засобiв телекомунiкацiй  за 07.2021 зг.ДОГ 12G390-1052/19 вiд 22.05.19, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф АТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLL0714L1E6N.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -6435,28 +6822,28 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-30T00:00:00",
-  "amount" : 108143.06,
+  "amount" : 103963.06,
   "purposeOfPayment" : "консолідований внесок власників за Червень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-06",
+  "reference" : "a20c1t91y-CONTRIB-2021-06",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-06-30T00:00:00",
   "amount" : -208.00,
-  "purposeOfPayment" : "банківськи комісії за Червень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Червень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-06",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-06",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-24T16:17:00",
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLL6OO4U6GHM.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6465,7 +6852,7 @@
   "amount" : -5061.84,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №256500490739 від 23.06.2021. У сумі 4218.20 грн., ПДВ - 20 % 843.64 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL6OO4U6GAO.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6479,29 +6866,11 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-06-17T15:13:00",
-  "amount" : -1050.00,
-  "purposeOfPayment" : "Повер. 3х плат.№104116470.1(23.01.21), №111396480.1 и №111397974.1(23.02.21), Утрим.буд Євтушенко І.О, О/р40216486, п-к: ІПН 3392810642 Євтушенко Ірина Олегівна",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL6HO4T7DW1.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-06-17T14:56:00",
-  "amount" : -700.00,
-  "purposeOfPayment" : "Поверн.2 платежів №120415874.1 (01.04.21), №132413254.1 (18.05.21), Утрим.буд від Євтушенко І.О., О/р 40216486, п-к: ІПН 3392810642 Євтушенко Ірина Олегівна",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL6HO4T7EQV.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-06-15T16:37:00",
   "amount" : -5328.96,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі електроенергії. Згідно рах. №252700299868 від 23.05.2021. У сумі 4440.80 грн., ПДВ - 20 % 888.16 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL6FO4SU971.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6533,24 +6902,6 @@
   "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-06-14T09:47:00",
-  "amount" : -292.00,
-  "purposeOfPayment" : "ПОВЕРН.ПЛАТЕЖІВ №107174485.1 (07.02.21), №113205692.1 (02.03.21), УТРИМ.БУД ВІД ВІРА АРТЕМЕНКО, о/р 4171330, ПЛАТНИК: ІПН 1483001762 АРТЕМЕНКО ВІРА ВАСИЛІВНА",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL6EO4SF59M.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-06-14T09:47:00",
-  "amount" : -292.00,
-  "purposeOfPayment" : "ПОВЕРН.ПЛАТЕЖІВ №120790721.1 (02.04.21), №129147069.1 (05.05.21), УТРИМ.БУД ВІД ВІРА АРТЕМЕНКО, о/р 4171330, ПЛАТНИК: ІПН 1483001762 АРТЕМЕНКО ВІРА ВАСИЛІВНА",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL6EO4SF59K.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-06-10T16:35:00",
   "amount" : 500.00,
   "purposeOfPayment" : "Доступ до інфраструктури об'єкта-05/2021, дог.№40008 від 01.04.2021, рах.№2 від 31.05.2021, без ПДВ.",
@@ -6569,42 +6920,6 @@
   "category" : "Сервітут",
   "kind" : "дохід"
 }, {
-  "dateTime" : "2021-06-04T14:07:00",
-  "amount" : -300.00,
-  "purposeOfPayment" : "Повер.плат.№85908160.1(04.11.20),№79055463.1(02.10.20),№73110990.1(02.09.20) Утрим.буд від Теребчук Ігор Миколайович, Плат-к: ІПН 3122515790 Теребчук Ігор М.",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL64O4R9ZI6.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-06-04T14:06:00",
-  "amount" : -700.00,
-  "purposeOfPayment" : "Повер.плат.№106386095.1(03.02.21),№99351055.1(04.01.21),№92095697.1(02.12.20) Утрим.буд від Теребчук Ігор Миколайович, Плат-к: ІПН 3122515790 Теребчук Ігор М.",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL64O4R9YZC.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-06-04T14:01:00",
-  "amount" : -700.00,
-  "purposeOfPayment" : "Повер.плат.№128783752.1(04.05.21),№120642168.1(02.04.21),№113038792.1(02.03.21) Утрим.буд від Теребчук Ігор Миколайович, Плат-к: ІПН 3122515790 Теребчук Ігор М.",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL64O4R9WHP.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-06-02T16:05:00",
-  "amount" : -146.00,
-  "purposeOfPayment" : "ПОВЕР.ПЛАТ. №100031897.1 від 08.01.2021 УТРИМ. БУДИНКУ ВІД КОВАЛЬ ОЛЬГА СЕРГІЇВНА, О/Р 4171330, платник ІПН 2810107149 Коваль Ольга Сергіївна",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL62O4QWDU0.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-05-31T12:04:00",
   "amount" : 500.00,
   "purposeOfPayment" : "за користування спiльним майном за травень-червень 2021 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ.",
@@ -6615,21 +6930,21 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-05-31T00:00:00",
-  "amount" : 93438.24,
+  "amount" : 92298.24,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-05",
+  "reference" : "a20c1t91y-CONTRIB-2021-05",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-05-31T00:00:00",
   "amount" : -187.00,
-  "purposeOfPayment" : "банківськи комісії за Травень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Травень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-05",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-05",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-28T15:44:00",
@@ -6663,7 +6978,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір / за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\" за Бабушкінський районний суд м. Дніпропетровська;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLL5PO4PP9SP.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -6681,7 +6996,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLL5PO4PKURQ.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6726,7 +7041,7 @@
   "amount" : -1783.41,
   "purposeOfPayment" : "ЗА САНТЕХНІЧНІ МАТЕРІАЛИ ЗГІДНО РАХУНКУ-ФАКТУРИ №1000001083  ВІД  14.05.2021 Р. БЕЗ ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLL5IO4OM6YF.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -6744,36 +7059,27 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір / за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\" за Бабушкінський районний суд м. Дніпропетровська;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLL5IO4OGRVB.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-05-11T14:52:00",
-  "amount" : -1140.00,
-  "purposeOfPayment" : "Повер.плат. №97583702.1 (26.12.20), №66406838.1 (27.07.20) Утрим.будинку від Данілевська Анжела Василівна, О/Р 433524799000002600, ІПН 3018520184.",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL5BO4NFKCA.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-04-30T00:00:00",
-  "amount" : 96175.11,
+  "amount" : 96021.11,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-04",
+  "reference" : "a20c1t91y-CONTRIB-2021-04",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-04-30T00:00:00",
   "amount" : -168.00,
-  "purposeOfPayment" : "банківськи комісії за Квітень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Квітень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-04",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-04",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-27T13:12:00",
@@ -6816,7 +7122,7 @@
   "amount" : -5967.36,
   "purposeOfPayment" : "Електроенергія. В т.ч. за послуги розподілу та передачі електроенергії. Згідно рах.  №251400201231 від 23.04.2021. У сумі 4972.80 грн., ПДВ - 20 % 994.56 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL4QO4LN4TB.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -6834,25 +7140,16 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLL4QO4LN4LH.1",
   "category" : "Регулярні послуги",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-04-22T16:41:00",
-  "amount" : -154.00,
-  "purposeOfPayment" : "Повер.плат.№122696132.1(11.04.21), №117981718.1(21.03.21) Утрим.буд. Григор`єв Олександр Валерійович, о/р 023524570000026005300633281, прос.Строителей,14А/кв39.",
-  "counterpartyTaxCode" : "21133352",
-  "counterpartyName" : "АТ, УНІВЕРСАЛ БАНК",
-  "reference" : "JBKLL4MO4L95PJ.1",
-  "category" : "інщі витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-20T17:01:00",
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\" / Господарський суд за Дніпропетровської області;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Собор.р/22030101",
   "reference" : "JBKLL4KO4KWEUO.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -6861,7 +7158,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір за позовом ОСББ \"ЗАПОРІЗЬКЕ ШОСЕ 80\" / Бабушкінський районний суд м.Дніпропетровська;;;",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/22030101",
   "reference" : "JBKLL4KO4KWEUF.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -6870,7 +7167,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "аванс право доступу до iнфраструк 2кв/2021 зг.ДОГ 12G390-1052/19 вiд 22.05.19, РАХ 2 вiд 04.04.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLL0419L2ZUI.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -6933,7 +7230,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "За послуги оренди за 01-03/2021  зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 1 вiд 31.03.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLL0331L20YS.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -6943,26 +7240,26 @@
   "purposeOfPayment" : "перерахування коштів на депозит за Березень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Депозит",
-  "reference" : "SAVEOUT-2021-03",
+  "reference" : "a20c1t91y-SAVEOUT-2021-03",
   "category" : "Перерахування на депозит",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-31T00:00:00",
-  "amount" : 101058.72,
+  "amount" : 100118.72,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-03",
+  "reference" : "a20c1t91y-CONTRIB-2021-03",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-03-31T00:00:00",
   "amount" : -156.00,
-  "purposeOfPayment" : "банківськи комісії за Березень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Березень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-03",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-03",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-24T15:02:00",
@@ -6996,7 +7293,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ У сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLL3OO4H0TJG.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -7005,7 +7302,7 @@
   "amount" : -5221.44,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачи електроенергії. Згідно рах. № 252300222182 від 23.03.2021 у сумі 4351.20 грн., ПДВ - 20 % 870.24 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL3OO4H0T2U.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -7037,40 +7334,22 @@
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
-  "dateTime" : "2021-03-01T13:31:00",
-  "amount" : -315.00,
-  "purposeOfPayment" : "Поверн. помилк. плат. 0.0.1935321171.1, м/о @2PL525269 вiд 09.12.2020 п-к Михальченко Ольга Сергiївна, зверн. № 29302514, згiдно листа вiд 15.01.2021",
-  "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
-  "reference" : "JBKLL31O4DPLIO.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
-  "dateTime" : "2021-03-01T13:31:00",
-  "amount" : -625.00,
-  "purposeOfPayment" : "Поверн. помилк. плат. 0.0.1845209822.1, м/о @2PL982220 вiд 22.09.2020 п-к Михальченко Ольга Сергiївна, зверн. № 29302578, згiдно листа вiд 15.01.2021",
-  "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
-  "reference" : "JBKLL31O4DPLIF.1",
-  "category" : "інщі витрати",
-  "kind" : "витрати"
-}, {
   "dateTime" : "2021-02-28T00:00:00",
   "amount" : 101636.73,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-02",
+  "reference" : "a20c1t91y-CONTRIB-2021-02",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-02-28T00:00:00",
   "amount" : -162.00,
-  "purposeOfPayment" : "банківськи комісії за Лютий 2021 року",
+  "purposeOfPayment" : "банківські комісії за Лютий 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-02",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-02",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-26T14:53:00",
@@ -7095,7 +7374,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВ. У сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLL2NO4CZTRG.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -7104,7 +7383,7 @@
   "amount" : -6137.04,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послугу розподілу та передачі електроенергії. Згідно рах. № 250000247686 від 23.02.2021 у сумі 5114.20 грн., ПДВ - 20 % 1022.84 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL2NO4CZTMR.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -7149,7 +7428,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір,за позовом Об`єднання співвласн багатокварт будинків \"Запорізьке шосе 80\", Бабушкінс.район суд м.Дніпро. Код бюдж. клас. 22030101.",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/ 22030101",
   "reference" : "JBKLL2MO4CQXYX.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -7158,7 +7437,7 @@
   "amount" : -2270.00,
   "purposeOfPayment" : "*;101;40118015;Судовий збір,за позовом Об`єднання співвласн багатокварт будинків \"Запорізьке шосе 80\", Бабушкінс.район суд м.Дніпро. Код бюдж. клас. 22030101.",
   "counterpartyTaxCode" : "37988155",
-  "counterpartyName" : "ОВВ, ГУДКСУ У ДНIПРОПЕТРОВСЬКIЙ ОБЛАСТI",
+  "counterpartyName" : "ГУК у Дн-кій обл/Шев.р/ 22030101",
   "reference" : "JBKLL2MO4CQXYW.1",
   "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
@@ -7194,7 +7473,7 @@
   "amount" : -636.20,
   "purposeOfPayment" : "За сантехнічни матеріали згідно рахунку-фактури №1-00000029  від  11.02.2021 р. Без ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLL2GO4BWK1K.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -7203,7 +7482,7 @@
   "amount" : -5627.96,
   "purposeOfPayment" : "За сантехнічни матеріали згідно рахунку-фактури №1-00000030  від  11.02.2021 р. Без ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLL2GO4BWK14.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -7248,16 +7527,16 @@
   "amount" : 2298.96,
   "purposeOfPayment" : "Возврат товара 08.02.2021 13:39:54 по картці 5169330513886512",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
   "reference" : "COIIL0210T97ZH.P",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-02-10T03:40:00",
   "amount" : -2248.98,
   "purposeOfPayment" : "Оплата за товари та послуги 08.02.2021 13:48:53 по картці 5169330513886512",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
   "reference" : "COIIL0210T97HA.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -7275,7 +7554,7 @@
   "amount" : -3368.27,
   "purposeOfPayment" : "Оплата за товари та послуги 06.02.2021 13:30:30 по картці 5169330513886512",
   "counterpartyTaxCode" : "14360570",
-  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "counterpartyName" : "РАСЧЕТЫ ПО EC/MC (Compass+ - эмиссия)",
   "reference" : "COIIL0209F79QN.1",
   "category" : "Дрібні витрати",
   "kind" : "витрати"
@@ -7284,7 +7563,7 @@
   "amount" : -5378.01,
   "purposeOfPayment" : "ЗА САНТЕХНІЧНІ МАТЕРІАЛИ ЗГІДНО РАХУНКУ-ФАКТУРИ №1-00000024  ВІД  08.02.2021 Р. БЕЗ ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLL28O4AU1QI.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -7303,24 +7582,24 @@
   "purposeOfPayment" : "консолідований внесок власників за Січень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2021-01",
+  "reference" : "a20c1t91y-CONTRIB-2021-01",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-01-31T00:00:00",
   "amount" : -165.00,
-  "purposeOfPayment" : "банківськи комісії за Січень 2021 року",
+  "purposeOfPayment" : "банківські комісії за Січень 2021 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2021-01",
-  "category" : "Банківськи комісії",
+  "reference" : "a20c1t91y-BANKFEE-2021-01",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-27T15:19:00",
   "amount" : -9450.00,
   "purposeOfPayment" : "За сантехнічни матеріали згідно рахунку-фактури №1-00000018 від 27.01.2021 р. Без ПДВ.",
   "counterpartyTaxCode" : "2656005873",
-  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "counterpartyName" : "КОНТА Я.И. ПРЕДПР.",
   "reference" : "JBKLL1RO499NB2.1",
   "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
@@ -7329,7 +7608,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "аванс право доступу до iнфраструк 1 кв 2021 зг.ДОГ 12G390-1052/19 вiд 22.05.19, РАХ 1 вiд 31.03.21, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLL0127L242O.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -7338,7 +7617,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "За послуги оренди 07-09/2020 зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 3 вiд 30.09.20, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLL0127L240X.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -7383,7 +7662,7 @@
   "amount" : -8749.44,
   "purposeOfPayment" : "Електроенергія, в т.ч. за послуги розподілу та передачі. Згідно Рахунку №251400096819 від 23.01.2021 р. У сумі 7291.20 грн., ПДВ - 20 % 1458.24 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLL1QO493JW2.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -7401,7 +7680,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ СУМІ 13189.88 ГРН., ПДВ - 20 % 2637.98 ГРН.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС",
   "reference" : "JBKLL1QO493BE8.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -7410,7 +7689,7 @@
   "amount" : 1500.00,
   "purposeOfPayment" : "За послуги оренди 10-12/2020 зг.ДОГО 12G340-2633/16 вiд 10.11.16, РАХ 4 вiд 31.12.20, без ПДВ.",
   "counterpartyTaxCode" : "25543196",
-  "counterpartyName" : "ДНIПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
+  "counterpartyName" : "ДНІПРОПЕТРОВСЬКА Ф ПАТ \"УКРТЕЛЕКОМ\"",
   "reference" : "HSKLL0125L3NZ1.P",
   "category" : "Сервітут",
   "kind" : "дохід"
@@ -7464,7 +7743,7 @@
   "amount" : -15827.86,
   "purposeOfPayment" : "ПОСЛУГИ З ВИВОЗУ ТА ЗАХОРОНЕННЮ ТПВУ сумі 13189.88 грн., ПДВ - 20 % 2637.98 грн.",
   "counterpartyTaxCode" : "02128158",
-  "counterpartyName" : "ТДВ, ДНIПРОКОМУНТРАНС",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС ТДВ",
   "reference" : "JBKLKCVO45NWCE.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
@@ -7473,7 +7752,7 @@
   "amount" : -7454.16,
   "purposeOfPayment" : "Електроенергія за грудень 2020 згідно рахунку № 250500307180 від 23.12.2020 У сумі 6211.80 грн., ПДВ - 20 % 1242.36 грн.",
   "counterpartyTaxCode" : "42082379",
-  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
   "reference" : "JBKLKCVO45NW7I.1",
   "category" : "Регулярні послуги",
   "kind" : "витрати"
