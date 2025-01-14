@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 47348.25,
+  "amount" : 54492.95,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,33 @@
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2025-01",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-14T09:12:00",
+  "amount" : -6767.45,
+  "purposeOfPayment" : "Сплата за ведення бухгалтерського облiку, згiдно договору № 01/11/08 вiд 01.11.2018 року, без ПДВ (avt). сiчень 2025 р.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "REGPP0114B818F.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-14T09:12:00",
+  "amount" : -11471.25,
+  "purposeOfPayment" : "Сплата за аварiйно-технiчне обслуговування iнженерних мереж, згiдно договору № ЗШ-80 вiд 01.01.2025 року, без ПДВ (avt). сiчень 2025 р.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "REGPP0114B818C.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-14T09:12:00",
+  "amount" : -16500.00,
+  "purposeOfPayment" : "Сплата за технiчне обслуговування лiфтiв, згiдно договору № 01/05/20/ТОЛ вiд 01.05.2020 року, без ПДВ, (avt). сiчень 2025 р.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "REGPP0114B818B.1",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-13T11:11:00",
