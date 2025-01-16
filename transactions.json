@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 54492.95,
+  "amount" : 61837.05,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,13 +9,40 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : -356.00,
+  "amount" : -359.00,
   "purposeOfPayment" : "банківськи комісії за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2025-01",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-16T13:58:00",
+  "amount" : -9600.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта згідно рахунку №16 від 16.01.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP1GOANWV20.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-16T13:58:00",
+  "amount" : -10570.00,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №ДПР-002586 від 15.01.2025р. У сумі 8808.33 грн., ПДВ - 20 % 1761.67 грн.",
+  "counterpartyTaxCode" : "24738845",
+  "counterpartyName" : "ТОВ \"ТБД ОЛДІ\"",
+  "reference" : "JBKLP1GOANWV1X.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-15T15:56:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "Оплата про участь у витратах на утримання і ремонт будинку зг дог 307603 від 01.01.2017р. за 1 квартал 2025р. Без ПДВ",
+  "counterpartyTaxCode" : "21673832",
+  "counterpartyName" : "ПРАТ \"КИЇВСТАР\"",
+  "reference" : "HS42P0115L1TIL.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-14T09:12:00",
   "amount" : -6767.45,
