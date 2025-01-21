@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 86889.17,
+  "amount" : 95935.31,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -24,6 +24,24 @@
   "counterpartyName" : "Банк",
   "reference" : "BANKFEE-2025-01",
   "category" : "Банківськи комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-20T09:39:00",
+  "amount" : -18150.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА СІЧЕНЬ 2025Р. Без ПДВ",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP1KOAOHF70.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-20T09:16:00",
+  "amount" : -11554.37,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА СІЧЕНЬ 2025 Р., Без ПДВ",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP1KOAOH5IR.1",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-17T13:08:00",
