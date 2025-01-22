@@ -14,7 +14,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2025-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-22T13:44:00",
@@ -104,7 +104,7 @@
   "counterpartyTaxCode" : "45433431",
   "counterpartyName" : "ПРЕМІУМ.ЛІНК ТОВ",
   "reference" : "JBKLP1DOAMYF5F.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-03T15:59:00",
@@ -158,7 +158,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-12",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-30T14:44:00",
@@ -230,7 +230,7 @@
   "counterpartyTaxCode" : "2827606710",
   "counterpartyName" : "Лазебник Т. Г. ФОП",
   "reference" : "JBKLOCNOAJCCAS.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-19T20:02:00",
@@ -239,7 +239,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLOCJOAIUBMF.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-19T20:02:00",
@@ -257,7 +257,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLOCJOAIUBM5.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-18T14:26:00",
@@ -284,7 +284,7 @@
   "counterpartyTaxCode" : "45433431",
   "counterpartyName" : "ПРЕМІУМ.ЛІНК ТОВ",
   "reference" : "JBKLOC9OAGECFW.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-12-03T22:28:00",
@@ -329,7 +329,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-11",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-11-29T13:17:00",
@@ -419,7 +419,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-10",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-10-29T14:24:00",
@@ -590,7 +590,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-09",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-27T15:05:00",
@@ -707,7 +707,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-08",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-29T14:26:00",
@@ -815,7 +815,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-07",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-26T22:44:00",
@@ -959,7 +959,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-06",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-25T11:15:00",
@@ -1049,7 +1049,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-05",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-30T14:48:00",
@@ -1058,7 +1058,7 @@
   "counterpartyTaxCode" : "547660117",
   "counterpartyName" : "ТОВ \"БАЗИС\"",
   "reference" : "JBKLO5UO9C3T96.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-30T12:59:00",
@@ -1148,7 +1148,7 @@
   "counterpartyTaxCode" : "35219705",
   "counterpartyName" : "ОСББ \"Командор\"",
   "reference" : "JBKLO57O97CLL2.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-02T22:41:00",
@@ -1193,7 +1193,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-04",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-25T23:36:00",
@@ -1292,7 +1292,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-03",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-26T10:59:00",
@@ -1355,7 +1355,7 @@
   "counterpartyTaxCode" : "3085505675",
   "counterpartyName" : "ІСКРИЦЬКИЙ В.П. ФОП",
   "reference" : "JBKLO3IO8XH1VL.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-18T01:55:00",
@@ -1436,7 +1436,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-02",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-27T16:37:00",
@@ -1562,7 +1562,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2024-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-30T17:05:00",
@@ -1787,7 +1787,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-12",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-29T15:58:00",
@@ -1922,7 +1922,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-11",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-28T12:54:00",
@@ -2075,7 +2075,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-10",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-26T16:18:00",
@@ -2210,7 +2210,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-09",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-29T14:45:00",
@@ -2354,7 +2354,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-08",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-30T10:42:00",
@@ -2525,7 +2525,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-07",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-28T12:29:00",
@@ -2651,7 +2651,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-06",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-29T15:53:00",
@@ -2813,7 +2813,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-05",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-29T16:02:00",
@@ -2948,7 +2948,7 @@
   "counterpartyTaxCode" : "34316747",
   "counterpartyName" : "ТОВ, ШУНГІТ",
   "reference" : "JBKLN54O7DGT1P.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-30T00:00:00",
@@ -2966,7 +2966,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-04",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-27T16:21:00",
@@ -2975,7 +2975,7 @@
   "counterpartyTaxCode" : "3464104796",
   "counterpartyName" : "ЧОРНОБРИВЕЦЬ Я.В. ФОП",
   "reference" : "JBKLN4RO7CG4AE.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-26T11:10:00",
@@ -3101,7 +3101,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-03",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-23T22:41:00",
@@ -3182,7 +3182,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-02",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-27T00:01:00",
@@ -3317,7 +3317,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2023-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-25T16:55:00",
@@ -3470,7 +3470,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-12",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-28T12:19:00",
@@ -3758,7 +3758,7 @@
   "counterpartyTaxCode" : "42887764",
   "counterpartyName" : "ТОВ, ТК МАРК",
   "reference" : "JBKLMCDO6TGKJ0.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-08T13:30:00",
@@ -3803,7 +3803,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-11",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-18T14:45:00",
@@ -3875,7 +3875,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-10",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-26T08:56:00",
@@ -4001,7 +4001,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-09",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-26T00:01:00",
@@ -4037,7 +4037,7 @@
   "counterpartyTaxCode" : "3464104796",
   "counterpartyName" : "ЧОРНОБРИВЕЦЬ Я.В. ФОП",
   "reference" : "JBKLM9LO6IJ0YX.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-21T09:20:00",
@@ -4082,7 +4082,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-08",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-30T09:47:00",
@@ -4235,7 +4235,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-07",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-25T14:56:00",
@@ -4577,7 +4577,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-06",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-28T15:52:00",
@@ -4757,7 +4757,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-05",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-25T15:27:00",
@@ -4847,7 +4847,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-04",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-27T15:59:00",
@@ -4955,7 +4955,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-03",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-29T16:21:00",
@@ -5036,7 +5036,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-02",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-25T09:51:00",
@@ -5162,7 +5162,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2022-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-30T16:27:00",
@@ -5342,7 +5342,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-12",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-30T15:50:00",
@@ -5396,7 +5396,7 @@
   "counterpartyTaxCode" : "3221603153",
   "counterpartyName" : "Небилович Сергій Олександрович підп",
   "reference" : "JBKLLCSO5N72QX.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-24T17:05:00",
@@ -5504,7 +5504,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-11",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-24T09:04:00",
@@ -5567,7 +5567,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBFO5G27L9.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T13:17:00",
@@ -5576,7 +5576,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLLBFO5G2735.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T13:14:00",
@@ -5585,7 +5585,7 @@
   "counterpartyTaxCode" : "40485878",
   "counterpartyName" : "КК СПУТНИК ТОВ",
   "reference" : "JBKLLBFO5G2538.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-11-15T10:28:00",
@@ -5666,7 +5666,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-10",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-26T14:16:00",
@@ -5954,7 +5954,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-09",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-27T00:01:00",
@@ -6053,7 +6053,7 @@
   "counterpartyTaxCode" : "2021300251",
   "counterpartyName" : "СІЗОВ В.Д. ФОП",
   "reference" : "JBKLL98O55PW3R.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-07T13:47:00",
@@ -6107,7 +6107,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-08",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-27T09:45:00",
@@ -6296,7 +6296,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-07",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-29T14:46:00",
@@ -6431,7 +6431,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-06",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-24T16:17:00",
@@ -6539,7 +6539,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-05",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-28T15:44:00",
@@ -6674,7 +6674,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-04",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-27T13:12:00",
@@ -6854,7 +6854,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-03",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-24T15:02:00",
@@ -6944,7 +6944,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-02",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-26T14:53:00",
@@ -7124,7 +7124,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "COIIL0210T97ZH.P",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2021-02-10T03:40:00",
@@ -7187,7 +7187,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2021-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-27T15:19:00",

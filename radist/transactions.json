@@ -14,7 +14,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2025-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-16T09:04:00",
@@ -113,7 +113,7 @@
   "counterpartyTaxCode" : "41382551",
   "counterpartyName" : "АО ПОГРІБНОІ ОЛЬГИ ТА ПАТИКИ АНДРІЯ",
   "reference" : "JBKLP12OALAHT9.1",
-  "category" : "інщі прибутки",
+  "category" : "Інші прибутки",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-12-31T00:00:00",
@@ -131,7 +131,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-12",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-12-27T15:47:00",
@@ -275,7 +275,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-11",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-11-28T17:26:00",
@@ -293,7 +293,7 @@
   "counterpartyTaxCode" : "2812106538",
   "counterpartyName" : "ПУШКАР Р.В. ФОП",
   "reference" : "JBKLOBBOAA637J.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-11-11T09:10:00",
@@ -374,7 +374,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-10",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-10-24T16:12:00",
@@ -527,7 +527,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-09",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-09-26T16:59:00",
@@ -635,7 +635,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-08",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-08-29T17:20:00",
@@ -734,7 +734,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-07",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-07-30T17:24:00",
@@ -932,7 +932,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-06",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-06-25T17:00:00",
@@ -1193,7 +1193,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-05",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-30T19:21:00",
@@ -1229,7 +1229,7 @@
   "counterpartyTaxCode" : "3303112681",
   "counterpartyName" : "Забірна К.Ю. ФОП",
   "reference" : "JBKLO5SO9BIK4W.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-05-28T09:06:00",
@@ -1418,7 +1418,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-04",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-22T11:21:00",
@@ -1553,7 +1553,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLO42O90CKK7.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-01T13:37:00",
@@ -1562,7 +1562,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLO41O906YMI.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-04-01T09:34:00",
@@ -1571,7 +1571,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLO41O902IKE.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-31T00:00:00",
@@ -1616,7 +1616,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-03",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-29T10:22:00",
@@ -1625,7 +1625,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLO3TO8ZP62K.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-25T09:47:00",
@@ -1634,7 +1634,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLO3PO8YR66G.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-11T10:28:00",
@@ -1643,7 +1643,7 @@
   "counterpartyTaxCode" : "2918402536",
   "counterpartyName" : "ГЕРАЩЕНКО АНДРІЙ МИКОЛАЙОВИЧ",
   "reference" : "JBKLO3BO8W16PY.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-03-05T17:31:00",
@@ -1715,7 +1715,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-02",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-02-26T10:36:00",
@@ -1805,7 +1805,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2024-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-26T11:20:00",
@@ -1850,7 +1850,7 @@
   "counterpartyTaxCode" : "1831816838",
   "counterpartyName" : "Вигонний Г.О. ФОП",
   "reference" : "JBKLO1BO8KYTD5.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2024-01-06T17:59:00",
@@ -1904,7 +1904,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-12",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-12-26T17:40:00",
@@ -2021,7 +2021,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-11",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-27T10:44:00",
@@ -2030,7 +2030,7 @@
   "counterpartyTaxCode" : "2918402536",
   "counterpartyName" : "ГЕРАЩЕНКО АНДРІЙ МИКОЛАЙОВИЧ",
   "reference" : "JBKLNBRO8CMF3Q.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-11-23T12:05:00",
@@ -2138,7 +2138,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-10",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-26T16:15:00",
@@ -2156,7 +2156,7 @@
   "counterpartyTaxCode" : "2918402536",
   "counterpartyName" : "ГЕРАЩЕНКО АНДРІЙ МИКОЛАЙОВИЧ",
   "reference" : "JBKLNAKO85YY2B.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-10-16T16:09:00",
@@ -2219,7 +2219,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-09",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-29T13:52:00",
@@ -2228,7 +2228,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLN9TO823ILY.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-09-25T09:58:00",
@@ -2327,7 +2327,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-08",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-04T23:27:00",
@@ -2336,7 +2336,7 @@
   "counterpartyTaxCode" : "39696890",
   "counterpartyName" : "ТОВ, 'СПП 'ХІМВЕТ'",
   "reference" : "JBKLN84O7SONK9.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-08-01T12:39:00",
@@ -2399,7 +2399,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-07",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-07-24T12:50:00",
@@ -2489,7 +2489,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-06",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-06-26T20:55:00",
@@ -2570,7 +2570,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-05",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-26T12:16:00",
@@ -2597,7 +2597,7 @@
   "counterpartyTaxCode" : "1831816838",
   "counterpartyName" : "Вигонний Г.О. ФОП",
   "reference" : "JBKLN5QO7GYUPZ.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-12T16:25:00",
@@ -2615,7 +2615,7 @@
   "counterpartyTaxCode" : "30425524",
   "counterpartyName" : "ЭМАЛЬ ЧППФ",
   "reference" : "JBKLN51O7CYY32.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-05-01T12:51:00",
@@ -2678,7 +2678,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-04",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-26T13:13:00",
@@ -2687,7 +2687,7 @@
   "counterpartyTaxCode" : "44269823",
   "counterpartyName" : "ЄВРО КОМФОРТ БУД ПЛЮС ТОВ",
   "reference" : "JBKLN4QO7C7ITA.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-24T22:32:00",
@@ -2714,7 +2714,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLN4HO7AULW4.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-04-14T14:55:00",
@@ -2777,7 +2777,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-03",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-03-29T10:14:00",
@@ -2858,7 +2858,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-02",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-27T22:06:00",
@@ -2885,7 +2885,7 @@
   "counterpartyTaxCode" : "2992312014",
   "counterpartyName" : "ЗАМКОВИЙ В.П. ФОП",
   "reference" : "JBKLN2KO72KBZZ.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-20T09:57:00",
@@ -2894,7 +2894,7 @@
   "counterpartyTaxCode" : "3176403938",
   "counterpartyName" : "СКЛЯРОВ В.В. ФОП",
   "reference" : "JBKLN2KO72JP24.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-02-07T08:32:00",
@@ -2966,7 +2966,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2023-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2023-01-16T13:55:00",
@@ -3047,7 +3047,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-12",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-12-08T11:46:00",
@@ -3110,7 +3110,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-11",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-28T14:29:00",
@@ -3137,7 +3137,7 @@
   "counterpartyTaxCode" : "44721189",
   "counterpartyName" : "ТОВ, ТЕПЛОАРМАТУРА",
   "reference" : "JBKLMBAO6P97YP.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-04T11:31:00",
@@ -3146,7 +3146,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLMB4O6OEHQZ.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-11-01T13:06:00",
@@ -3218,7 +3218,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-10",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-10-26T11:04:00",
@@ -3308,7 +3308,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-09",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-09-21T09:48:00",
@@ -3344,7 +3344,7 @@
   "counterpartyTaxCode" : "2992312014",
   "counterpartyName" : "ЗАМКОВИЙ В.П. ФОП",
   "reference" : "JBKLM8VO6FPQYJ.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-31T00:00:00",
@@ -3389,7 +3389,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-08",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-30T10:14:00",
@@ -3416,7 +3416,7 @@
   "counterpartyTaxCode" : "2992312014",
   "counterpartyName" : "ЗАМКОВИЙ В.П. ФОП",
   "reference" : "JBKLM8IO6E58XX.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-08-16T18:04:00",
@@ -3488,7 +3488,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-07",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-26T12:23:00",
@@ -3497,7 +3497,7 @@
   "counterpartyTaxCode" : "2224406534",
   "counterpartyName" : "ІВАНСЬКИЙ ПЕТРО ІВАНОВИЧ",
   "reference" : "JBKLM7QO6B3CWQ.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-25T10:45:00",
@@ -3551,7 +3551,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLM7DO69HFA6.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-07T14:47:00",
@@ -3560,7 +3560,7 @@
   "counterpartyTaxCode" : "30425524",
   "counterpartyName" : "ЭМАЛЬ ЧППФ",
   "reference" : "JBKLM77O68UDM9.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-07T14:47:00",
@@ -3569,7 +3569,7 @@
   "counterpartyTaxCode" : "3011607663",
   "counterpartyName" : "Дубина В.А. ФОП",
   "reference" : "JBKLM77O68UDM1.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-07-04T22:21:00",
@@ -3587,7 +3587,7 @@
   "counterpartyTaxCode" : "3011607663",
   "counterpartyName" : "Дубина В.А. ФОП",
   "reference" : "JBKLM74O68DEDY.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-30T00:00:00",
@@ -3632,7 +3632,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-06",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-29T14:39:00",
@@ -3668,7 +3668,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLM6HO66D2GK.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-06-15T16:46:00",
@@ -3686,7 +3686,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLM63O64VV9J.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-31T21:54:00",
@@ -3740,7 +3740,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-05",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-24T10:34:00",
@@ -3767,7 +3767,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLM5JO637TEP.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-05-19T15:48:00",
@@ -3830,7 +3830,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-04",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-27T10:04:00",
@@ -3857,7 +3857,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLM4IO5ZZEZ6.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-04-15T16:13:00",
@@ -3920,7 +3920,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-03",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-28T09:47:00",
@@ -3956,7 +3956,7 @@
   "counterpartyTaxCode" : "42634661",
   "counterpartyName" : "ООО, ПК ДТЗ",
   "reference" : "JBKLM37O5WW6S4.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-03-07T02:47:00",
@@ -4019,7 +4019,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-02",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-22T09:43:00",
@@ -4064,7 +4064,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLM2GO5UP5X7.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-15T17:36:00",
@@ -4082,7 +4082,7 @@
   "counterpartyTaxCode" : "41349975",
   "counterpartyName" : "ОМТ-ДНІПРО ТОВ",
   "reference" : "JBKLM2FO5UHRLE.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-14T17:21:00",
@@ -4109,7 +4109,7 @@
   "counterpartyTaxCode" : "40461477",
   "counterpartyName" : "ЖИТЛОВА СЕРВІСНА КОМПАНІЯ ЦЕНТР ТОВ",
   "reference" : "JBKLM2EO5UDC2A.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-02-02T11:03:00",
@@ -4172,7 +4172,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2022-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2022-01-24T18:54:00",
@@ -4262,7 +4262,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-12",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-28T11:07:00",
@@ -4289,7 +4289,7 @@
   "counterpartyTaxCode" : "2715015635",
   "counterpartyName" : "ЯСОНОВ ЄВГЕН ОЛЕКСАНДРОВИЧ",
   "reference" : "JBKLLCGO5LC8E9.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-12-13T17:45:00",
@@ -4298,7 +4298,7 @@
   "counterpartyTaxCode" : "32714043",
   "counterpartyName" : "ОМЕГАМЕТТРЕЙД ТОВ",
   "reference" : "JBKLLCDO5KOT7U.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-30T00:00:00",
@@ -4343,7 +4343,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-11",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-29T10:46:00",
@@ -4388,7 +4388,7 @@
   "counterpartyTaxCode" : "3538605733",
   "counterpartyName" : "БІЛІНСЬКИЙ Б.А. ФОП",
   "reference" : "JBKLLBQO5HY8V8.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-24T11:46:00",
@@ -4397,7 +4397,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLLBOO5HMEO8.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-24T11:46:00",
@@ -4406,7 +4406,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLLBOO5HMENW.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-15T12:25:00",
@@ -4415,7 +4415,7 @@
   "counterpartyTaxCode" : "36254651",
   "counterpartyName" : "ПП, ГАЗСЕРВІСПЛЮС",
   "reference" : "JBKLLBFO5G15WQ.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-11-04T09:39:00",
@@ -4496,7 +4496,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-10",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-26T12:43:00",
@@ -4523,7 +4523,7 @@
   "counterpartyTaxCode" : "1831816838",
   "counterpartyName" : "Вигонний Г.О. ФОП",
   "reference" : "JBKLLANO5CP59V.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-10-22T16:50:00",
@@ -4586,7 +4586,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-09",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-22T12:25:00",
@@ -4613,7 +4613,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL9DO568MKN.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-13T14:28:00",
@@ -4622,7 +4622,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL9DO568MKI.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-13T14:28:00",
@@ -4631,7 +4631,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL9DO568MK5.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-13T14:28:00",
@@ -4640,7 +4640,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL9DO568MK1.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-09-13T14:28:00",
@@ -4649,7 +4649,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL9DO568MJV.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-31T19:37:00",
@@ -4694,7 +4694,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-08",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-25T23:52:00",
@@ -4730,7 +4730,7 @@
   "counterpartyTaxCode" : "2992312014",
   "counterpartyName" : "ЗАМКОВИЙ В.П. ФОП",
   "reference" : "JBKLL8IO52LZOB.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-08-06T10:13:00",
@@ -4802,7 +4802,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-07",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-27T11:19:00",
@@ -4838,7 +4838,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL78O4WAH8Q.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-08T14:13:00",
@@ -4847,7 +4847,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL78O4WAH8M.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-07-07T11:29:00",
@@ -4928,7 +4928,7 @@
   "counterpartyTaxCode" : "39204975",
   "counterpartyName" : "ТОВ, АВМ ЮКРЕЙН",
   "reference" : "JBKLL72O4VDU1D.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-30T00:00:00",
@@ -4973,7 +4973,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-06",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-24T20:55:00",
@@ -4991,7 +4991,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL6MO4TPLV1.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-06-22T12:46:00",
@@ -5054,7 +5054,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-05",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-28T17:50:00",
@@ -5072,7 +5072,7 @@
   "counterpartyTaxCode" : "2358807727",
   "counterpartyName" : "ПАВЛОВА В.Б. ФОП",
   "reference" : "JBKLL5RO4PYG62.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-26T11:51:00",
@@ -5081,7 +5081,7 @@
   "counterpartyTaxCode" : "14360570",
   "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
   "reference" : "JBKLL5QO4PS5YH.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-24T17:43:00",
@@ -5108,7 +5108,7 @@
   "counterpartyTaxCode" : "2358807727",
   "counterpartyName" : "ПАВЛОВА В.Б. ФОП",
   "reference" : "JBKLL5LO4PCC84.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-21T09:39:00",
@@ -5117,7 +5117,7 @@
   "counterpartyTaxCode" : "2358807727",
   "counterpartyName" : "ПАВЛОВА В.Б. ФОП",
   "reference" : "JBKLL5LO4P5371.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-05-13T13:18:00",
@@ -5180,7 +5180,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-04",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-29T15:25:00",
@@ -5189,7 +5189,7 @@
   "counterpartyTaxCode" : "3111807000",
   "counterpartyName" : "СИНЕЛЬНИКОВА А.И. ФОП",
   "reference" : "JBKLL4TO4M487E.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-28T12:30:00",
@@ -5270,7 +5270,7 @@
   "counterpartyTaxCode" : "2819504753",
   "counterpartyName" : "БАБЧЕНКО А.Г. ФОП",
   "reference" : "JBKLL4MO4L8NSE.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-04-19T17:04:00",
@@ -5342,7 +5342,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-03",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-26T13:10:00",
@@ -5369,7 +5369,7 @@
   "counterpartyTaxCode" : "41349975",
   "counterpartyName" : "ОМТ-ДНІПРО ТОВ",
   "reference" : "JBKLL39O4ESEF4.1",
-  "category" : "інщі витрати",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-03-02T09:48:00",
@@ -5423,7 +5423,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-02",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-02-23T13:40:00",
@@ -5513,7 +5513,7 @@
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2021-01",
-  "category" : "Банківськи комісії",
+  "category" : "Банківські комісії",
   "kind" : "витрати"
 }, {
   "dateTime" : "2021-01-27T13:12:00",
