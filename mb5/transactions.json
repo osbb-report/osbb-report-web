@@ -1,19 +1,19 @@
 [ {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 193582.72,
+  "amount" : 196317.86,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2025-01",
+  "reference" : "ftkxjg6oh-CONTRIB-2025-01",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-31T00:00:00",
   "amount" : -353.00,
-  "purposeOfPayment" : "банківськи комісії за Січень 2025 року",
+  "purposeOfPayment" : "банківські комісії за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2025-01",
+  "reference" : "ftkxjg6oh-BANKFEE-2025-01",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
 }, {
@@ -130,16 +130,16 @@
   "purposeOfPayment" : "консолідований внесок власників за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-12",
+  "reference" : "ftkxjg6oh-CONTRIB-2024-12",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-12-31T00:00:00",
   "amount" : -356.00,
-  "purposeOfPayment" : "банківськи комісії за Грудень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Грудень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-12",
+  "reference" : "ftkxjg6oh-BANKFEE-2024-12",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
 }, {
@@ -247,16 +247,16 @@
   "purposeOfPayment" : "консолідований внесок власників за Листопад 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-11",
+  "reference" : "ftkxjg6oh-CONTRIB-2024-11",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-11-30T00:00:00",
   "amount" : -353.00,
-  "purposeOfPayment" : "банківськи комісії за Листопад 2024 року",
+  "purposeOfPayment" : "банківські комісії за Листопад 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-11",
+  "reference" : "ftkxjg6oh-BANKFEE-2024-11",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
 }, {
@@ -391,16 +391,16 @@
   "purposeOfPayment" : "консолідований внесок власників за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-10",
+  "reference" : "ftkxjg6oh-CONTRIB-2024-10",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
   "dateTime" : "2024-10-31T00:00:00",
   "amount" : -359.00,
-  "purposeOfPayment" : "банківськи комісії за Жовтень 2024 року",
+  "purposeOfPayment" : "банківські комісії за Жовтень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
-  "reference" : "BANKFEE-2024-10",
+  "reference" : "ftkxjg6oh-BANKFEE-2024-10",
   "category" : "Банківськи комісії",
   "kind" : "витрати"
 }, {
@@ -499,7 +499,7 @@
   "purposeOfPayment" : "консолідований внесок власників за Вересень 2024 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
-  "reference" : "CONTRIB-2024-09",
+  "reference" : "ftkxjg6oh-CONTRIB-2024-09",
   "category" : "Внески",
   "kind" : "дохід"
 }, {
