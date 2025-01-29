@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 115592.73,
+  "amount" : 120236.17,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -25,6 +25,15 @@
   "reference" : "9kl0hcmhl-BANKFEE-2025-01",
   "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T12:35:00",
+  "amount" : 550.00,
+  "purposeOfPayment" : "за користування спiльним майном за листопад-грудень 2024 року згiдно дог. N 259/осбб вiд 17.09.2019 року, Без ПДВ.",
+  "counterpartyTaxCode" : "31761988",
+  "counterpartyName" : "СОЮЗ ТОВ",
+  "reference" : "JBKLP1TOAQE4MZ.1",
+  "category" : "Реклама",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-27T13:24:00",
   "amount" : -98.71,

@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 101895.40,
+  "amount" : 103557.65,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -16,6 +16,51 @@
   "reference" : "a20c1t91y-BANKFEE-2025-01",
   "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T17:32:00",
+  "amount" : -3620.00,
+  "purposeOfPayment" : "Доставка та встановлення дотягувачів, відновлення СКУД на вхідній грпі 9-го під`зду. Згідно рахунку №250129 від 29 січня 2025 р.  Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLP1TOAQI3A3.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T14:02:00",
+  "amount" : -20950.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1214 ВІД 28.01.2025Р.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLP1TOAQF9C9.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T14:02:00",
+  "amount" : -2772.00,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №ИСЛ-000011 від 28.01.2025р. У сумі 2310.00 грн., ПДВ - 20 % 462.00 грн.",
+  "counterpartyTaxCode" : "40702928",
+  "counterpartyName" : "ІНТЕРСЕРВІСЛІФТ ТОВ",
+  "reference" : "JBKLP1TOAQF9AL.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T14:02:00",
+  "amount" : -4200.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ПОТОЧНИЙ РЕМОНТ ЛІФТА ЗГІДНО РАХУНКУ №21 ВІД 28.01.2025Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP1TOAQF9AF.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-29T13:38:00",
+  "amount" : 500.00,
+  "purposeOfPayment" : "за користування спiльним майном за листопад-грудень 2024 року згiдно дог. N 139/осбб вiд 01.03.2019 року, Без ПДВ.",
+  "counterpartyTaxCode" : "31761988",
+  "counterpartyName" : "СОЮЗ ТОВ",
+  "reference" : "JBKLP1TOAQEXHK.1",
+  "category" : "Реклама",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-27T15:32:00",
   "amount" : -15345.00,
