@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 120236.17,
+  "amount" : 122862.43,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -25,6 +25,15 @@
   "reference" : "9kl0hcmhl-BANKFEE-2025-01",
   "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-30T17:16:00",
+  "amount" : 1100.00,
+  "purposeOfPayment" : "Оплата по договору №Б\\Н від 01.08.2023р., без ПДВ.",
+  "counterpartyTaxCode" : "19199961",
+  "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+  "reference" : "HS42P0130L26Z5.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-29T12:35:00",
   "amount" : 550.00,

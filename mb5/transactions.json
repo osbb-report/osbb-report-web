@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-01-31T00:00:00",
-  "amount" : 236268.62,
+  "amount" : 242199.02,
   "purposeOfPayment" : "консолідований внесок власників за Січень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,24 @@
   "counterpartyName" : "Банк",
   "reference" : "ftkxjg6oh-BANKFEE-2025-01",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-01-30T17:15:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "Оплата по договору №Б\\Н від 01.10.2024р., без ПДВ.",
+  "counterpartyTaxCode" : "19199961",
+  "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+  "reference" : "HS41P0130L22JS.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-01-30T10:56:00",
+  "amount" : -52475.00,
+  "purposeOfPayment" : "СПЛАТА ЗА НАДАНІ ПОСЛУГИ ЗГІДНО РАХУНКУ №16 ВІД 30.01.2025Р.",
+  "counterpartyTaxCode" : "3271507392",
+  "counterpartyName" : "КУШНИР Д. А. ФОП",
+  "reference" : "JBKLP1UOAQKXE3.1",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-01-15T15:58:00",
