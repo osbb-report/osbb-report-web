@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : 3725.00,
+  "amount" : 4764.50,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -16,6 +16,24 @@
   "reference" : "zy76sspjd-BANKFEE-2025-02",
   "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-02T17:10:00",
+  "amount" : -612.50,
+  "purposeOfPayment" : "4246 **** **** 7698 01.02.2025 16:28:29 Дiм та ремонт: EPITSENTR, DNIPRO",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "ОБСЛ. РАХУНКУ ВIДДАЛЕНИЙ ДОСТУП(UAH)",
+  "reference" : "COIIP22Y0050UQ.1",
+  "category" : "Дрібні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-02T11:16:00",
+  "amount" : 3500.00,
+  "purposeOfPayment" : "ПОВЕРНЕННЯ ПОМИЛКОВО СПЛАЧЕНИХ КОШТІВ НА ПІДСТАВІ ЛИСТА ОСББ \"РАДИСТ ВІД 24.12.2024Р.",
+  "counterpartyTaxCode" : "41382551",
+  "counterpartyName" : "АО ПОГРІБНОІ ОЛЬГИ ТА ПАТИКИ АНДРІЯ",
+  "reference" : "JBKLP22OAR7MOY.1",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-01-31T00:00:00",
   "amount" : 74798.75,
