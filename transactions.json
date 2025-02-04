@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : 3097.30,
+  "amount" : 10094.35,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,24 @@
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2025-02",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-03T16:03:00",
+  "amount" : -650.00,
+  "purposeOfPayment" : "салата за печатки",
+  "counterpartyTaxCode" : "3104210399",
+  "counterpartyName" : "ТОНКОНОГ В.В. ФОП",
+  "reference" : "JBKLP23OARGUS6.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-03T15:52:00",
+  "amount" : -650.00,
+  "purposeOfPayment" : "оплата за печатку",
+  "counterpartyTaxCode" : "3104210399",
+  "counterpartyName" : "ТОНКОНОГ В.В. ФОП",
+  "reference" : "JBKLP23OARGPJB.1",
+  "category" : "Інші витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-02-01T05:50:00",
