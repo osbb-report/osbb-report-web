@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : 24978.40,
+  "amount" : 29417.00,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,12 +9,21 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : -362.00,
+  "amount" : -365.00,
   "purposeOfPayment" : "банківські комісії за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2025-02",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-09T02:00:00",
+  "amount" : -690.00,
+  "purposeOfPayment" : "Підготовка відповіді за зверненнями фізичних або юридичних осіб. Згідно Рахунку №15/00822 від 07 лютого 2025 р. У сумі 575.00 грн., ПДВ - 20 % 115.00 грн.",
+  "counterpartyTaxCode" : "03341776",
+  "counterpartyName" : "КП \"ДМБТІ\" ДМР",
+  "reference" : "JBKLP29OASSYIV.1",
+  "category" : "Судові та юридичні витрати",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-02-06T09:53:00",
