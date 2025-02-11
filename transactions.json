@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : 37156.85,
+  "amount" : 39334.80,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -16,6 +16,33 @@
   "reference" : "a20c1t91y-BANKFEE-2025-02",
   "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-11T14:42:00",
+  "amount" : -800.00,
+  "purposeOfPayment" : "Сплата за прочистку каналізації 1-го під'їзду згідно рахунку №13 від 11.02.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP2BOATAX1F.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-11T12:50:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "Сплата за оренду приміщення за уг.24/10 від 01.10.2024р у 02.2025р Без ПДВ.",
+  "counterpartyTaxCode" : "45433431",
+  "counterpartyName" : "ПРЕМІУМ.ЛІНК ТОВ",
+  "reference" : "JBKLP2BOAT9600.1",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-02-11T12:01:00",
+  "amount" : 1500.00,
+  "purposeOfPayment" : "за доступ зг. дог. 198 від 01.03.2024 без ПДВ",
+  "counterpartyTaxCode" : "36094444",
+  "counterpartyName" : "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІНТРА.КОМ\"",
+  "reference" : "HS43P0211L0UKJ.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-02-10T16:22:00",
   "amount" : -4400.00,
