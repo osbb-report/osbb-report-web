@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : 21269.18,
+  "amount" : 31397.27,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,13 +9,40 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : -356.00,
+  "amount" : -362.00,
   "purposeOfPayment" : "банківські комісії за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "9kl0hcmhl-BANKFEE-2025-02",
   "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-10T13:18:00",
+  "amount" : -14791.68,
+  "purposeOfPayment" : "Сплаза за електричну енергію згідно рах. №250702002059 від 31.01.2025р., о/р №521000030017. У сумі 12326.40 грн., ПДВ - 20 % 2465.28 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ \"ДНIПРОВСЬКI ЕНЕРГЕТИЧНI ПОСЛУГИ\"",
+  "reference" : "JBKLP2AOASZ8KM.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-10T13:18:00",
+  "amount" : -53.41,
+  "purposeOfPayment" : ";40509123;17334;ВОДОПОСТАЧАННЯ. У сумі 44.51 грн., ПДВ - 20 % 8.90 грн.",
+  "counterpartyTaxCode" : "03341305",
+  "counterpartyName" : "КП \"ДНІПРОВОДОКАНАЛ\"",
+  "reference" : "JBKLP2AOASZ8HA.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-10T10:07:00",
+  "amount" : 5000.00,
+  "purposeOfPayment" : "Сплата за оренду приміщення згідно Договору №2 від 01.05.2023р., без ПДВ",
+  "counterpartyTaxCode" : "2865114799",
+  "counterpartyName" : "МИРОШНИЧЕНКО С. М. ФОП",
+  "reference" : "JBKLP2AOASVL5Q.1",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-02-06T14:51:00",
   "amount" : -14850.00,
