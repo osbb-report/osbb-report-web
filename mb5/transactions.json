@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : 245350.10,
+  "amount" : 254617.06,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,15 @@
   "counterpartyName" : "Банк",
   "reference" : "ftkxjg6oh-BANKFEE-2025-02",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-24T11:47:00",
+  "amount" : -3293.00,
+  "purposeOfPayment" : "Сплата за електричні матеріали",
+  "counterpartyTaxCode" : "3244608548",
+  "counterpartyName" : "СКЛЯРОВА Ю. С. ФОП",
+  "reference" : "JBKLP2OOAW3JI3.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-02-13T19:16:00",
