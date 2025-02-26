@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : 87614.15,
+  "amount" : 89872.40,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,24 @@
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2025-02",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-26T18:06:00",
+  "amount" : -11765.00,
+  "purposeOfPayment" : "Адміністративні послуги за лютий 2025 р.. Згідно договору №240101 від 01 січня 2024 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLP2QOAWRS1U.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-02-26T16:36:00",
+  "amount" : -3750.00,
+  "purposeOfPayment" : "Доводчик King NSK-630. Рахунок-фактура № СФ-0000041 вiд 26 Лютого 2025 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2528306086",
+  "counterpartyName" : "СИВОГРИВОВА Н.В. ФОП",
+  "reference" : "JBKLP2QOAWQTIH.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-02-19T13:45:00",
