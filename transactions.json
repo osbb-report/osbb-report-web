@@ -1,6 +1,15 @@
 [ {
+  "dateTime" : "2025-02-28T12:43:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Оплата за надання доступу до елементів інфраструктури об?єкта будівництва згідно з Договором №?2024090501 від 05.09.24р. за Лютий 2025р.",
+  "counterpartyTaxCode" : "42880795",
+  "counterpartyName" : "СОЮЗ ТЕЛЕКОМ ТОВ",
+  "reference" : "JBKLP2SOAX88QG.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
   "dateTime" : "2025-02-28T00:00:00",
-  "amount" : 89872.40,
+  "amount" : 99207.90,
   "purposeOfPayment" : "консолідований внесок власників за Лютий 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
