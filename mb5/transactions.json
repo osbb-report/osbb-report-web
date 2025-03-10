@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-03-31T00:00:00",
-  "amount" : 51100.77,
+  "amount" : 55559.29,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,12 +9,48 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-03-31T00:00:00",
-  "amount" : -350.00,
+  "amount" : -353.00,
   "purposeOfPayment" : "банківські комісії за Березень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "ftkxjg6oh-BANKFEE-2025-03",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-10T15:05:00",
+  "amount" : -5280.00,
+  "purposeOfPayment" : "СПЛАТА ЗА LED СВIТИЛЬНИКИ ЗГIДНО РАХУНКУ №192 ВIД 10.03.2025Р.",
+  "counterpartyTaxCode" : "3375404862",
+  "counterpartyName" : "Абрамова Т. О. ФОП",
+  "reference" : "JBKLP3AOAZEN8T.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-10T13:40:00",
+  "amount" : -18757.44,
+  "purposeOfPayment" : "Сплата за електричну енергію згідно рах. №254301963527 від 28.02.2025р., о/р №521000073448. У сумі 15631.20 грн., ПДВ - 20 % 3126.24 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
+  "reference" : "JBKLP3AOAZCX26.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-10T13:39:00",
+  "amount" : -7697.97,
+  "purposeOfPayment" : "Сплата за сантехнічні матеріали згідно рахунку на оплату № К10032501 від 10.03.25 Без ПДВ.",
+  "counterpartyTaxCode" : "2591400269",
+  "counterpartyName" : "ПОДУШКО К.Д. ФОП",
+  "reference" : "JBKLP3AOAZCWI5.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-10T10:41:00",
+  "amount" : -15390.00,
+  "purposeOfPayment" : "Сплата за монтаж освітлення (3-й, 4-й та 11-й під'їзди) згідно рахунку №2500002 від 10.03.2025р., Без ПДВ.",
+  "counterpartyTaxCode" : "3143212851",
+  "counterpartyName" : "Українцев М. О. ФОП",
+  "reference" : "JBKLP3AOAZ9DM0.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-03-06T18:49:00",
