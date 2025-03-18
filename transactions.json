@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-03-31T00:00:00",
-  "amount" : 73238.50,
+  "amount" : 76375.75,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,42 @@
   "counterpartyName" : "Банк",
   "reference" : "a20c1t91y-BANKFEE-2025-03",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-18T13:19:00",
+  "amount" : -1554.81,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00000446 ВІД 17.03.2025Р.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLP3IOB1BYP7.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-18T13:19:00",
+  "amount" : -2500.00,
+  "purposeOfPayment" : "Сплата за заміну ділянки ХВП з підвалу в 292 квартиру згідно рахунку №34 від 18.03.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP3IOB1BYOY.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-18T13:02:00",
+  "amount" : 700.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Березень 2025. Згідно Дог. про участь у витр.№66/84 від 01.01.2024р. Сума 700,00 грн ПДВ (без ПДВ) 0,00грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS41P0318L181O.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-03-18T11:46:00",
+  "amount" : -61180.00,
+  "purposeOfPayment" : "Чищення міжповерхових каналів та монтаж нової електричної проводки від електрощитової до квартир 11-го під'їзду. Згідно договору №250301 від 01 березня 2025 р. Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLP3IOB19WYI.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-03-17T14:01:00",
