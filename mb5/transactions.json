@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-03-31T00:00:00",
-  "amount" : 158229.90,
+  "amount" : 171665.56,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,12 +9,21 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-03-31T00:00:00",
-  "amount" : -353.00,
+  "amount" : -356.00,
   "purposeOfPayment" : "банківські комісії за Березень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "ftkxjg6oh-BANKFEE-2025-03",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-19T11:15:00",
+  "amount" : -3138.42,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №Н-180325/4П ВІД 18.03.2025Р.",
+  "counterpartyTaxCode" : "2056019604",
+  "counterpartyName" : "НОВІКОВА ЛЮДМИЛА ОЛЕКСАНДРІВНА",
+  "reference" : "JBKLP3JOB1KMIR.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-03-17T18:27:00",
