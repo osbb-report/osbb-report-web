@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-03-31T00:00:00",
-  "amount" : 66009.82,
+  "amount" : 70437.72,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +15,24 @@
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2025-03",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-21T13:17:00",
+  "amount" : -820.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1387 ВІД 19.03.2025Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLP3LOB29N3C.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-03-21T13:17:00",
+  "amount" : -300.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта блоку Д згідно рахунку №30 від 19.03.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP3LOB29N3A.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-03-18T09:02:00",
