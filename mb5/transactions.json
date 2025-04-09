@@ -1,6 +1,105 @@
 [ {
+  "dateTime" : "2025-04-30T00:00:00",
+  "amount" : 67740.70,
+  "purposeOfPayment" : "консолідований внесок власників за Квітень 2025 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Власники",
+  "reference" : "ftkxjg6oh-CONTRIB-2025-04",
+  "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-04-30T00:00:00",
+  "amount" : -350.00,
+  "purposeOfPayment" : "банківські комісії за Квітень 2025 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Банк",
+  "reference" : "ftkxjg6oh-BANKFEE-2025-04",
+  "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-09T12:58:00",
+  "amount" : -15500.00,
+  "purposeOfPayment" : "Сплата за монтаж освітлення (14-й та 21-й під'їзди) згідно рахунку №2500006 від 09.04.2025р., Без ПДВ.",
+  "counterpartyTaxCode" : "3143212851",
+  "counterpartyName" : "Українцев М. О. ФОП",
+  "reference" : "JBKLP49OB6FP1Y.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-07T20:18:00",
+  "amount" : -304.40,
+  "purposeOfPayment" : "5169 **** **** 3779 07.04.2025 09:47:59 Дім та ремонт: ОЛДІ",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "Розрахунок ПО Mastercard(COMPASS+-Емiс",
+  "reference" : "COIIP47Y09YC4E.1",
+  "category" : "Дрібні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-07T12:17:00",
+  "amount" : -25500.00,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №250406 від 04.04.2025р. Без ПДВ",
+  "counterpartyTaxCode" : "2987318317",
+  "counterpartyName" : "Панасенко С. Г. ФОП",
+  "reference" : "JBKLP47OB5RTY6.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-04T16:34:00",
+  "amount" : -170.00,
+  "purposeOfPayment" : "Сплата за встановлення автоматичних 25А на вводі 424 квартири згідно рахунку №44 від 01.04.2025р. Без ПДВ",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP44OB5H2ET.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-04T14:52:00",
+  "amount" : -3989.42,
+  "purposeOfPayment" : "Сплата за електричні матеріали згідно рахунку # 281 від 04.04.2025 Без ПДВ.",
+  "counterpartyTaxCode" : "3244608548",
+  "counterpartyName" : "СКЛЯРОВА Ю. С. ФОП",
+  "reference" : "JBKLP44OB5EX6B.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-04T14:24:00",
+  "amount" : -3406.58,
+  "purposeOfPayment" : "Сплата за електричні матеріали згідно рахунку # 245 від 01.04.2025",
+  "counterpartyTaxCode" : "3244608548",
+  "counterpartyName" : "СКЛЯРОВА Ю. С. ФОП",
+  "reference" : "JBKLP44OB5EC2W.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-03T15:50:00",
+  "amount" : -13000.00,
+  "purposeOfPayment" : "Сплата за монтаж освітлення (12-й та 13-й під'їзди) згідно рахунку №2500005 від 01.04.2025р., Без ПДВ.",
+  "counterpartyTaxCode" : "3143212851",
+  "counterpartyName" : "Українцев М. О. ФОП",
+  "reference" : "JBKLP43OB542SF.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-03T03:26:00",
+  "amount" : -349.20,
+  "purposeOfPayment" : "5169 **** **** 3779 02.04.2025 09:35:29 Дім та ремонт: ОЛДІ",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "Розрахунок ПО Mastercard(COMPASS+-Емiс",
+  "reference" : "COIIP43Y098OTZ.1",
+  "category" : "Дрібні витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-01T14:03:00",
+  "amount" : -26000.00,
+  "purposeOfPayment" : "Сплата за монтаж освітлення (6-й, 8-й, 9-й та 10 під'їзди) згідно рахунку №2500004 від 01.04.2025р., Без ПДВ.",
+  "counterpartyTaxCode" : "3143212851",
+  "counterpartyName" : "Українцев М. О. ФОП",
+  "reference" : "JBKLP41OB4H9A6.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2025-03-31T00:00:00",
-  "amount" : 251573.78,
+  "amount" : 258671.10,
   "purposeOfPayment" : "консолідований внесок власників за Березень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
