@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-04-30T00:00:00",
-  "amount" : 67740.70,
+  "amount" : 213586.77,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,12 +9,48 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-04-30T00:00:00",
-  "amount" : -350.00,
+  "amount" : -353.00,
   "purposeOfPayment" : "банківські комісії за Квітень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "ftkxjg6oh-BANKFEE-2025-04",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-16T16:08:00",
+  "amount" : -11062.05,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку № 312 від 16.04.2025 Без ПДВ",
+  "counterpartyTaxCode" : "3244608548",
+  "counterpartyName" : "СКЛЯРОВА Ю. С. ФОП",
+  "reference" : "JBKLP4GOB87YQ3.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-15T17:17:00",
+  "amount" : 4500.00,
+  "purposeOfPayment" : "Оплата зг.дог. 491703 про надання доступу до буд.розпод.мережі та інфраструктури будинку від 01.07.2024р. за 2 квартал 2025р. Без ПДВ",
+  "counterpartyTaxCode" : "21673832",
+  "counterpartyName" : "ПРАТ \"КИЇВСТАР\"",
+  "reference" : "HS47P0415L1N7C.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-04-14T11:34:00",
+  "amount" : -22500.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування ліфтів за березень згідно рахунку №СФ-0000000026 від 31.03.2025р.",
+  "counterpartyTaxCode" : "41702143",
+  "counterpartyName" : "ЛІФТРЕММОНТАЖ ДНІПРО-НОВОКОДАЦЬКИЙ ТОВ",
+  "reference" : "JBKLP4EOB7B761.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-14T11:34:00",
+  "amount" : -18761.76,
+  "purposeOfPayment" : "Сплата за електричну енергію згідно рах. №256701974432 від 31.03.2025р., о/р №521000073448. У сумі 15634.80 грн., ПДВ - 20 % 3126.96 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
+  "reference" : "JBKLP4EOB7B75L.1",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-04-09T12:58:00",
