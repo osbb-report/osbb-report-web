@@ -1,6 +1,24 @@
 [ {
+  "dateTime" : "2025-05-31T00:00:00",
+  "amount" : 10151.94,
+  "purposeOfPayment" : "консолідований внесок власників за Травень 2025 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Власники",
+  "reference" : "zy76sspjd-CONTRIB-2025-05",
+  "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-05-31T00:00:00",
+  "amount" : -350.00,
+  "purposeOfPayment" : "банківські комісії за Травень 2025 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Банк",
+  "reference" : "zy76sspjd-BANKFEE-2025-05",
+  "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2025-04-30T00:00:00",
-  "amount" : 76856.54,
+  "amount" : 93364.19,
   "purposeOfPayment" : "консолідований внесок власників за Квітень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -15,6 +33,60 @@
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2025-04",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-29T16:47:00",
+  "amount" : 400.00,
+  "purposeOfPayment" : "Оплата по договору №43319 від 01.09.2023р., без ПДВ.",
+  "counterpartyTaxCode" : "19199961",
+  "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+  "reference" : "HS42P0429L261L.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-04-29T10:54:00",
+  "amount" : -268.08,
+  "purposeOfPayment" : "Сплата за встановлення СВ 95 на 1-му поверсі блоку А згідно рахунку №54 від 28.04.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP4TOBAQ2F9.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-28T11:25:00",
+  "amount" : -891.00,
+  "purposeOfPayment" : "Сплата за матеріали згідно рахунку №ИСЛ-000031 від 28.04.2025р. У сумі 742.50 грн., ПДВ - 20 % 148.50 грн.",
+  "counterpartyTaxCode" : "40702928",
+  "counterpartyName" : "ІНТЕРСЕРВІСЛІФТ ТОВ",
+  "reference" : "JBKLP4SOBAGBO7.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-25T16:32:00",
+  "amount" : 3000.00,
+  "purposeOfPayment" : "ПI 17-04-2025 N 55627152SB Пл-к:UA063054820000000002902790603 Транз.рах. прийому комунальних платежiв 09305480//ЗА УТРИМАННЯ СПОРУД, О/Р 4 Смiрнов Вiктор Володимирович;;ВУЛ.РАДИСТIВ 2-4;",
+  "counterpartyTaxCode" : "14360570",
+  "counterpartyName" : "Кред.заборг.за опер.з кл юр особами",
+  "reference" : "PROMP0425L066Y.P",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-04-25T13:53:00",
+  "amount" : -5280.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ПОТОЧНИЙ РЕМОНТ ЛІФТА БЛОКУ Г ЗГІДНО РАХУНКУ №54 ВІД 25.04.2025Р. БЕЗ ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP4POBA6S0G.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-04-25T13:53:00",
+  "amount" : -1300.00,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1529 ВІД 25.04.2025Р. Без ПДВ.",
+  "counterpartyTaxCode" : "3832400624",
+  "counterpartyName" : "ЮНАК М.А. ФОП",
+  "reference" : "JBKLP4POBA6S06.1",
+  "category" : "Поточний ремонт та інше",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-04-23T16:15:00",
