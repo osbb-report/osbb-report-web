@@ -1,6 +1,6 @@
 [ {
   "dateTime" : "2025-05-31T00:00:00",
-  "amount" : 24405.19,
+  "amount" : 36191.86,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,12 +9,39 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-05-31T00:00:00",
-  "amount" : -356.00,
+  "amount" : -359.00,
   "purposeOfPayment" : "банківські комісії за Травень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "9kl0hcmhl-BANKFEE-2025-05",
   "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-07T10:45:00",
+  "amount" : -9040.00,
+  "purposeOfPayment" : "Сплата за дах (10-й під'їзд). Без ПДВ",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLP57OBCTOFG.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-05T17:00:00",
+  "amount" : -13300.00,
+  "purposeOfPayment" : "Сплата за дах (10-й під'їзд). Без ПДВ",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є.П. ФОП",
+  "reference" : "JBKLP55OBCDH2J.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-05T15:01:00",
+  "amount" : -7075.00,
+  "purposeOfPayment" : "Сплата за послуги з управління побутовими відходами в частині перевезення та видалення ТПВ (змішані), згідно рах. №3664-25/08189 від 11.04.2025р. У сумі 5895.83 грн., ПДВ - 20 % 1179.17 грн.",
+  "counterpartyTaxCode" : "02128158",
+  "counterpartyName" : "ТДВ, ДНІПРОКОМУНТРАНС",
+  "reference" : "JBKLP55OBCAP4Q.1",
+  "category" : "Регулярні послуги",
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-05-03T06:20:00",
