@@ -9,7 +9,7 @@
   "kind" : "витрати"
 }, {
   "dateTime" : "2025-05-31T00:00:00",
-  "amount" : 96671.62,
+  "amount" : 120755.35,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -25,6 +25,60 @@
   "reference" : "9kl0hcmhl-BANKFEE-2025-05",
   "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-23T14:23:00",
+  "amount" : -5908.27,
+  "purposeOfPayment" : "СПЛАТА ЗА МАТЕРІАЛИ ЗГІДНО РАХУНКУ №1-00000919 ВІД 20.05.2025Р. Без ПДВ",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLP5NOBGWRCH.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-23T09:18:00",
+  "amount" : -27100.00,
+  "purposeOfPayment" : "Сплата за прибирання місць загального користування. Без ПДВ",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є. П. ФОП",
+  "reference" : "JBKLP5NOBGRYGT.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-21T14:45:00",
+  "amount" : -2650.00,
+  "purposeOfPayment" : "Сплата за перенесення лічильників 2 та 16 під",
+  "counterpartyTaxCode" : "2510715027",
+  "counterpartyName" : "Кидалова Є. П. ФОП",
+  "reference" : "JBKLP5LOBGD30H.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-21T14:25:00",
+  "amount" : -11554.37,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ІНЖЕНЕРНИХ МЕРЕЖ ЖИТЛОВОГО БУДИНКУ ЗА ТРАВЕНЬ 2025 Р., Без ПДВ",
+  "counterpartyTaxCode" : "2134101089",
+  "counterpartyName" : "ЗАБІРНА О.В. ФОП",
+  "reference" : "JBKLP5LOBGCRCV.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-19T22:10:00",
+  "amount" : -18150.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ТЕХНІЧНЕ ОБСЛУГОВУВАННЯ ЛІФТІВ ЗА Травень 2025Р. Без ПДВ",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP5JOBFUTXG.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-19T15:06:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Відшкод. витрат за утрим. обладн. за Травень 2025. Згідно Дог. про участь у витр. №32/118 від 19.10.2021 Сума 1000,00 грн ПДВ (без ПДВ) 0,00грн",
+  "counterpartyTaxCode" : "43376691",
+  "counterpartyName" : "ТОВ \"НОВОБОКС\"",
+  "reference" : "HS43P0519L1GO6.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-05-15T16:23:00",
   "amount" : -489.41,
