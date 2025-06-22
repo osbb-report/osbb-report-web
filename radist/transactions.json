@@ -1,6 +1,141 @@
 [ {
+  "dateTime" : "2025-06-30T00:00:00",
+  "amount" : 67629.20,
+  "purposeOfPayment" : "консолідований внесок власників за Червень 2025 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Власники",
+  "reference" : "zy76sspjd-CONTRIB-2025-06",
+  "category" : "Внески",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-06-30T00:00:00",
+  "amount" : -353.00,
+  "purposeOfPayment" : "банківські комісії за Червень 2025 року",
+  "counterpartyTaxCode" : "000000000",
+  "counterpartyName" : "Банк",
+  "reference" : "zy76sspjd-BANKFEE-2025-06",
+  "category" : "Банківські комісії",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-17T14:43:00",
+  "amount" : -8250.00,
+  "purposeOfPayment" : "Сплата за технічне обслуговування ліфтів за червень 2025р. Без ПДВ",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP6HOBMKK4O.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-17T14:43:00",
+  "amount" : -11090.12,
+  "purposeOfPayment" : "Сплата за аварійно-технічне обслуговування мереж будинку в червні 2025р. Без ПДВ",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP6HOBMKK4N.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-17T14:43:00",
+  "amount" : -4631.00,
+  "purposeOfPayment" : "Сплата за бухгалтерське обслуговування за червень 2025р. Без ПДВ",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP6HOBMKK4J.1",
+  "category" : "Бухгалтер",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-16T12:17:00",
+  "amount" : 1000.00,
+  "purposeOfPayment" : "Платежі від населення квартплата. Чорний Федір Федорович. Дніпропетровськ радистів 2  127  . 127. 2025-06-12. Без ПДВ",
+  "counterpartyTaxCode" : "21560045",
+  "counterpartyName" : "УКРПОШТА АТ",
+  "reference" : "JBKLP6GOBM44O9.P",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-06-13T11:43:00",
+  "amount" : -2160.00,
+  "purposeOfPayment" : "Сплата за поточний ремонт ліфта згідно рахунку №85 від 12.06.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP6DOBLMMDM.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-11T13:01:00",
+  "amount" : 9900.00,
+  "purposeOfPayment" : "ПОВЕРНЕННЯ ПОМИЛКОВО ОТРИМАНИХ КОШТІВ ВХІДНИЙ ПЛАТІЖ № 176 ВІД 09.06.2025",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP6BOBL2X6P.1",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-06-11T11:12:00",
+  "amount" : -17263.50,
+  "purposeOfPayment" : "Сплата боргу за Договором про реструктуризацію заборгованості по Акту про порушення Правил №110000068022/2 від 14.04.2025р. за червень 2025р. У сумі 14386.25 грн., ПДВ - 20 % 2877.25 грн.",
+  "counterpartyTaxCode" : "23359034",
+  "counterpartyName" : "АТ  \"ДТЕК ДНІПРОВСЬКІ ЕЛЕКТРОМЕРЕЖІ\"",
+  "reference" : "JBKLP6BOBL15FE.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-09T10:30:00",
+  "amount" : -9900.00,
+  "purposeOfPayment" : "Сплата за промивку системи ЦО згідно рахунку № 83 від 04 червня 2025р.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP69OBKEHHI.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-06T15:12:00",
+  "amount" : -9900.00,
+  "purposeOfPayment" : "Сплата за промивку системи ЦО згідно рах.№83 від 04.06.2025р.Без ПДВ.",
+  "counterpartyTaxCode" : "40485878",
+  "counterpartyName" : "КК СПУТНИК ТОВ",
+  "reference" : "JBKLP66OBK56LD.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-06T14:56:00",
+  "amount" : -13099.11,
+  "purposeOfPayment" : "СПЛАТА ЗА ОБСЛУГОВУВАННЯ БУДИНКУ ЗА ЧЕРВЕНЬ 2025Р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP66OBK4T1G.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-06T14:38:00",
+  "amount" : -3572.00,
+  "purposeOfPayment" : "СПЛАТА ЗА ОБСЛУГОВУВАННЯ БУДИНКУ ЗА ЧЕРВЕНЬ 2025Р. Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP66OBK4LOL.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-05T13:04:00",
+  "amount" : -1800.00,
+  "purposeOfPayment" : "Сплата за встановлення промивочних кранів на рамці системи опалення 4 та 5 під'їздів згідно рах.№87 від 05.06.2025р.Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP65OBJQHTA.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-06-05T13:04:00",
+  "amount" : -2052.96,
+  "purposeOfPayment" : "Сплата за матеріали згідно рах.№1-00001045 від 05.06.2025р. Без ПДВ.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLP65OBJQHT5.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
   "dateTime" : "2025-05-31T00:00:00",
-  "amount" : 77678.06,
+  "amount" : 96277.06,
   "purposeOfPayment" : "консолідований внесок власників за Травень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Власники",
@@ -9,13 +144,67 @@
   "kind" : "дохід"
 }, {
   "dateTime" : "2025-05-31T00:00:00",
-  "amount" : -353.00,
+  "amount" : -356.00,
   "purposeOfPayment" : "банківські комісії за Травень 2025 року",
   "counterpartyTaxCode" : "000000000",
   "counterpartyName" : "Банк",
   "reference" : "zy76sspjd-BANKFEE-2025-05",
   "category" : "Банківські комісії",
   "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-30T14:00:00",
+  "amount" : -10278.59,
+  "purposeOfPayment" : "Сплата за матеріали згідно рах.№1-00000998 від 29.05.2025р.Без ПДВ.",
+  "counterpartyTaxCode" : "2656005873",
+  "counterpartyName" : "КОНТА Я.Й. ФОП",
+  "reference" : "JBKLP5UOBICNCQ.1",
+  "category" : "Поточний ремонт та інше",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-30T14:00:00",
+  "amount" : -4000.00,
+  "purposeOfPayment" : "Сплата за заміну ввідних засувок на системі опалення згідно рах.№83 від 30.05.2025р.Без ПДВ.",
+  "counterpartyTaxCode" : "3303112681",
+  "counterpartyName" : "Забірна К.Ю. ФОП",
+  "reference" : "JBKLP5UOBICNCJ.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-30T13:03:00",
+  "amount" : -1170.00,
+  "purposeOfPayment" : "Сплата за участь в семінарі для Голів Правління ОСББ згідно рах.№250426 від 26.04.2025 . Без ПДВ.",
+  "counterpartyTaxCode" : "2021300251",
+  "counterpartyName" : "СІЗОВ В.Д. ФОП",
+  "reference" : "JBKLP5UOBIBEKG.1",
+  "category" : "Інші витрати",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-30T11:52:00",
+  "amount" : -5620.32,
+  "purposeOfPayment" : "Сплата за електроенергію згідно рах.№252502399730 від 30.04.2025 У сумі 4683.60 грн., ПДВ - 20 % 936.72 грн.",
+  "counterpartyTaxCode" : "42082379",
+  "counterpartyName" : "ТОВ, ДНІПРОВСЬКІ ЕНЕРГЕТИЧНІ ПОСЛУГИ",
+  "reference" : "JBKLP5UOBI9A2M.1",
+  "category" : "Регулярні послуги",
+  "kind" : "витрати"
+}, {
+  "dateTime" : "2025-05-29T17:35:00",
+  "amount" : 400.00,
+  "purposeOfPayment" : "Оплата по договору №43319 від 01.09.2023р., без ПДВ.",
+  "counterpartyTaxCode" : "19199961",
+  "counterpartyName" : "ПРАТ \"ФАРЛЕП-ІНВЕСТ\"",
+  "reference" : "HS42P0529L21NG.P",
+  "category" : "Сервітут",
+  "kind" : "дохід"
+}, {
+  "dateTime" : "2025-05-29T11:40:00",
+  "amount" : 322.58,
+  "purposeOfPayment" : "Оплата згідно договору №63/25 від 05.05.2025 за травень 2025року, Без ПДВ.",
+  "counterpartyTaxCode" : "3207611340",
+  "counterpartyName" : "Трушина Ю. М. ФОП",
+  "reference" : "JBKLP5TOBHYGKF.1",
+  "category" : "Інші прибутки",
+  "kind" : "дохід"
 }, {
   "dateTime" : "2025-05-23T09:17:00",
   "amount" : -1680.00,
